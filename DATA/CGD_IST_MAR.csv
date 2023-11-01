@@ -1,0 +1,1178 @@
+Date,Airline,Duration,Source,Destination,Departure Time,Arrival Time,Layover Time,Layover Cities,Total stops,Carry bags Count,Checkin bags Count,Price
+2024-03-01,China Southern,24h 00m,Changde,Istanbul,11:05 AM,6:05 AM,11h 10m,Beijing Daxing Intl,1,1,1,711
+2024-03-01,China Southern,25h 00m,Changde,Istanbul,10:05 AM,6:05 AM,"7h 20m,2h 25m","Guangzhou Baiyun,Beijing Daxing Intl",2,1,1,831
+2024-03-01,China Southern,25h 00m,Changde,Istanbul,10:05 AM,6:05 AM,"4h 20m,5h 15m","Guangzhou Baiyun,Beijing Daxing Intl",2,1,1,831
+2024-03-01,China Southern,25h 00m,Changde,Istanbul,10:05 AM,6:05 AM,"3h 20m,6h 15m","Guangzhou Baiyun,Beijing Daxing Intl",2,1,1,831
+2024-03-01,China Southern,25h 00m,Changde,Istanbul,10:05 AM,6:05 AM,"2h 20m,7h 15m","Guangzhou Baiyun,Beijing Daxing Intl",2,1,1,831
+2024-03-01,China Southern,28h 00m,Changde,Istanbul,7:05 AM,6:05 AM,"7h 25m,5h 15m","Guangzhou Baiyun,Beijing Daxing Intl",2,1,1,831
+2024-03-01,China Southern,28h 00m,Changde,Istanbul,7:05 AM,6:05 AM,"1h 25m,11h 30m","Guangzhou Baiyun,Beijing Daxing Intl",2,1,1,831
+2024-03-01,China Southern,28h 00m,Changde,Istanbul,7:05 AM,6:05 AM,"10h 25m,2h 25m","Guangzhou Baiyun,Beijing Daxing Intl",2,1,1,831
+2024-03-01,China Southern,28h 00m,Changde,Istanbul,7:05 AM,6:05 AM,"5h 25m,7h 15m","Guangzhou Baiyun,Beijing Daxing Intl",2,1,0,797
+2024-03-01,China Southern,28h 00m,Changde,Istanbul,7:05 AM,6:05 AM,"6h 25m,6h 15m","Guangzhou Baiyun,Beijing Daxing Intl",2,1,0,797
+2024-03-01,China Southern,28h 05m,Changde,Istanbul,7:00 AM,6:05 AM,"2h 55m,9h 55m","Shenzhen,Beijing Daxing Intl",2,1,1,854
+2024-03-01,China Southern,28h 05m,Changde,Istanbul,7:00 AM,6:05 AM,"0h 55m,11h 55m","Shenzhen,Beijing Daxing Intl",2,1,1,854
+2024-03-01,China Southern,28h 05m,Changde,Istanbul,7:00 AM,6:05 AM,"1h 55m,10h 50m","Shenzhen,Beijing Daxing Intl",2,1,1,854
+2024-03-01,China Southern,28h 05m,Changde,Istanbul,7:00 AM,6:05 AM,"3h 55m,8h 55m","Shenzhen,Beijing Daxing Intl",2,1,1,854
+2024-03-01,China Southern,28h 05m,Changde,Istanbul,7:00 AM,6:05 AM,"4h 55m,7h 55m","Shenzhen,Beijing Daxing Intl",2,1,1,854
+2024-03-01,China Southern,28h 00m,Changde,Istanbul,7:05 AM,6:05 AM,"5h 25m,7h 15m","Guangzhou Baiyun,Beijing Daxing Intl",2,1,0,797
+2024-03-01,China Southern,28h 00m,Changde,Istanbul,7:05 AM,6:05 AM,"6h 25m,6h 15m","Guangzhou Baiyun,Beijing Daxing Intl",2,1,0,797
+2024-03-01,China Southern,28h 00m,Changde,Istanbul,7:05 AM,6:05 AM,"9h 25m,3h 15m","Guangzhou Baiyun,Beijing Daxing Intl",2,1,0,797
+2024-03-01,China Southern,28h 00m,Changde,Istanbul,7:05 AM,6:05 AM,"11h 25m,1h 30m","Guangzhou Baiyun,Beijing Daxing Intl",2,1,0,797
+2024-03-01,China Southern,28h 05m,Changde,Istanbul,7:00 AM,6:05 AM,"2h 55m,9h 55m","Shenzhen,Beijing Daxing Intl",2,1,1,854
+2024-03-01,China Southern,28h 05m,Changde,Istanbul,7:00 AM,6:05 AM,"10h 55m,1h 55m","Shenzhen,Beijing Daxing Intl",2,1,1,854
+2024-03-01,China Southern,28h 05m,Changde,Istanbul,7:00 AM,6:05 AM,"0h 55m,11h 55m","Shenzhen,Beijing Daxing Intl",2,1,1,854
+2024-03-01,China Southern,28h 05m,Changde,Istanbul,7:00 AM,6:05 AM,"1h 55m,10h 50m","Shenzhen,Beijing Daxing Intl",2,1,1,854
+2024-03-01,China Southern,28h 05m,Changde,Istanbul,7:00 AM,6:05 AM,"3h 55m,8h 55m","Shenzhen,Beijing Daxing Intl",2,1,1,854
+2024-03-01,China Southern,28h 05m,Changde,Istanbul,7:00 AM,6:05 AM,"4h 55m,7h 55m","Shenzhen,Beijing Daxing Intl",2,1,1,854
+2024-03-01,China Southern,28h 05m,Changde,Istanbul,7:00 AM,6:05 AM,"6h 55m,5h 55m","Shenzhen,Beijing Daxing Intl",2,1,1,854
+2024-03-01,China Southern,28h 05m,Changde,Istanbul,7:00 AM,6:05 AM,"9h 55m,2h 55m","Shenzhen,Beijing Daxing Intl",2,1,1,854
+2024-03-01,China Southern,28h 05m,Changde,Istanbul,7:00 AM,6:05 AM,"5h 55m,6h 45m","Shenzhen,Beijing Daxing Intl",2,1,0,854
+2024-03-01,China Southern,28h 05m,Changde,Istanbul,7:00 AM,6:05 AM,"7h 55m,4h 45m","Shenzhen,Beijing Daxing Intl",2,1,0,854
+2024-03-01,China Southern,28h 05m,Changde,Istanbul,7:00 AM,6:05 AM,"8h 55m,3h 55m","Shenzhen,Beijing Daxing Intl",2,1,0,854
+2024-03-01,"China Southern, Qatar Airways",30h 05m,Changde,Istanbul,11:05 AM,12:10 PM,"4h 45m,8h 10m","Beijing Daxing Intl,Doha Hamad Intl",2,1,0,981
+2024-03-01,"China Southern, Kuwait Airways",35h 40m,Changde,Istanbul,10:05 AM,4:45 PM,"16h 30m,4h 20m","Guangzhou Baiyun,Kuwait City",2,1,2,"1,175"
+2024-03-01,Multiple Airlines,30h 05m,Changde,Istanbul,11:05 AM,12:10 PM,"4h 45m,8h 10m","Beijing Daxing Intl,Doha Hamad Intl",2,1,0,"1,474"
+2024-03-01,"China Southern, Kuwait Airways",38h 40m,Changde,Istanbul,7:05 AM,4:45 PM,"19h 35m,4h 20m","Guangzhou Baiyun,Kuwait City",2,1,2,"1,175"
+2024-03-01,Multiple Airlines,31h 15m,Changde,Istanbul,11:05 AM,1:20 PM,"4h 45m,2h 20m,5h 35m","Beijing Daxing Intl,Doha Hamad Intl,Abu Dhabi Intl",3,1,0,"1,203"
+2024-03-01,Multiple Airlines,24h 00m,Changde,Istanbul,5:10 PM,12:10 PM,"1h 35m,2h 35m,1h 30m","Chengdu Tianfu Intl,Beijing Daxing Intl,Doha Hamad Intl",3,1,0,"1,565"
+2024-03-01,"China Southern, Egypt Air",34h 55m,Changde,Istanbul,7:05 AM,1:00 PM,"14h 45m,4h 25m","Guangzhou Baiyun,Cairo",2,1,2,"1,409"
+2024-03-01,Multiple Airlines,34h 40m,Changde,Istanbul,11:05 AM,4:45 PM,"4h 45m,2h 40m,4h 55m","Beijing Daxing Intl,Doha Hamad Intl,Frankfurt am Main",3,1,0,"1,157"
+2024-03-01,Multiple Airlines,35h 00m,Changde,Istanbul,11:05 AM,5:05 PM,"4h 45m,2h 40m,5h 20m","Beijing Daxing Intl,Doha Hamad Intl,Frankfurt am Main",3,1,0,"1,152"
+2024-03-01,Multiple Airlines,30h 25m,Changde,Istanbul,7:05 AM,8:30 AM,"5h 55m,8h 35m","Guangzhou Baiyun,Airport change SHA-PVG",2,1,0,"1,606"
+2024-03-01,"China Eastern, Qatar Airways",29h 40m,Changde,Istanbul,11:30 AM,12:10 PM,"3h 25m,6h 25m,1h 30m","Hangzhou,Beijing Daxing Intl,Doha Hamad Intl",3,1,0,"1,392"
+2024-03-01,Multiple Airlines,37h 05m,Changde,Istanbul,11:05 AM,7:10 PM,"4h 45m,2h 40m,7h 25m","Beijing Daxing Intl,Doha Hamad Intl,Frankfurt am Main",3,1,0,"1,122"
+2024-03-01,Multiple Airlines,36h 20m,Changde,Istanbul,11:05 AM,6:25 PM,"6h 40m,1h 20m,8h 10m","Beijing Daxing Intl,Abu Dhabi Intl,Rome Fiumicino",3,1,0,"1,166"
+2024-03-01,Multiple Airlines,35h 05m,Changde,Istanbul,11:05 AM,5:10 PM,"6h 40m,1h 20m,6h 45m","Beijing Daxing Intl,Abu Dhabi Intl,Rome Fiumicino",3,1,0,"1,239"
+2024-03-01,"China Southern, Emirates",31h 15m,Changde,Istanbul,11:05 AM,1:20 PM,"10h 20m,4h 45m","Airport change PKX-PEK,Dubai Intl",2,1,0,"1,470"
+2024-03-01,Multiple Airlines,30h 25m,Changde,Istanbul,7:05 AM,8:30 AM,"8h 55m,5h 40m","Guangzhou Baiyun,Airport change SHA-PVG",2,1,0,"1,606"
+2024-03-01,Multiple Airlines,30h 25m,Changde,Istanbul,7:05 AM,8:30 AM,"3h 55m,10h 40m","Guangzhou Baiyun,Airport change SHA-PVG",2,1,0,"1,606"
+2024-03-01,Multiple Airlines,30h 25m,Changde,Istanbul,7:05 AM,8:30 AM,"4h 55m,9h 50m","Guangzhou Baiyun,Airport change SHA-PVG",2,1,0,"1,606"
+2024-03-01,"China Southern, China Eastern",30h 25m,Changde,Istanbul,7:05 AM,8:30 AM,"4h 55m,9h 50m","Guangzhou Baiyun,Airport change SHA-PVG",2,1,0,"1,606"
+2024-03-01,"China Southern, China Eastern",30h 25m,Changde,Istanbul,7:05 AM,8:30 AM,"3h 55m,10h 40m","Guangzhou Baiyun,Airport change SHA-PVG",2,1,0,"1,606"
+2024-03-01,"China Eastern, Qatar Airways",29h 40m,Changde,Istanbul,11:30 AM,12:10 PM,"3h 25m,6h 25m,1h 30m","Hangzhou,Beijing Daxing Intl,Doha Hamad Intl",3,1,0,"1,392"
+2024-03-01,"China Southern, Azerbaijan Airlines",28h 20m,Changde,Istanbul,7:05 AM,6:25 AM,"3h 30m,2h 05m,7h 30m","Guangzhou Baiyun,Urumqi,Baku Heydar Aliyev",3,1,0,"2,010"
+2024-03-01,"China Southern, Azerbaijan Airlines",28h 30m,Changde,Istanbul,10:05 AM,9:35 AM,"7h 30m,2h 10m,2h 20m","Guangzhou Baiyun,Dubai Intl,Baku Heydar Aliyev",3,1,0,"2,228"
+2024-03-01,"China Southern, Azerbaijan Airlines",28h 30m,Changde,Istanbul,10:05 AM,9:35 AM,"2h 45m,7h 05m,2h 20m","Guangzhou Baiyun,Dubai Intl,Baku Heydar Aliyev",3,1,0,"2,228"
+2024-03-01,"China Southern, China Eastern",27h 25m,Changde,Istanbul,10:05 AM,8:30 AM,"4h 20m,7h 10m","Guangzhou Baiyun,Airport change SHA-PVG",2,1,0,"2,827"
+2024-03-01,"China Southern, China Eastern",27h 25m,Changde,Istanbul,10:05 AM,8:30 AM,"6h 20m,5h 10m","Guangzhou Baiyun,Airport change SHA-PVG",2,1,0,"2,827"
+2024-03-01,"China Southern, China Eastern",27h 25m,Changde,Istanbul,10:05 AM,8:30 AM,"5h 20m,6h 00m","Guangzhou Baiyun,Airport change SHA-PVG",2,1,0,"2,827"
+2024-03-01,"China Southern, China Eastern",27h 25m,Changde,Istanbul,10:05 AM,8:30 AM,"3h 20m,8h 10m","Guangzhou Baiyun,Airport change SHA-PVG",2,1,0,"2,827"
+2024-03-02,"China Eastern, Sichuan Airlines",18h 15m,Changde,Istanbul,5:10 PM,6:25 AM,6h 40m,Chengdu Tianfu Intl,1,1,2,"1,168"
+2024-03-02,Multiple Airlines,24h 50m,Changde,Istanbul,5:10 PM,1:00 PM,"6h 45m,2h 45m","Chengdu Tianfu Intl,Cairo",2,1,2,"1,279"
+2024-03-02,"China Southern, Sichuan Airlines",24h 55m,Changde,Istanbul,10:30 AM,6:25 AM,"4h 45m,6h 25m","Guangzhou Baiyun,Chengdu Tianfu Intl",2,1,0,"1,319"
+2024-03-02,Multiple Airlines,29h 40m,Changde,Istanbul,5:10 PM,5:50 PM,"6h 45m,7h 35m","Chengdu Tianfu Intl,Cairo",2,1,1,"1,284"
+2024-03-02,Multiple Airlines,25h 25m,Changde,Istanbul,5:10 PM,1:35 PM,"6h 45m,3h 15m","Chengdu Tianfu Intl,Cairo",2,1,1,"1,444"
+2024-03-02,"China Southern, Sichuan Airlines",28h 20m,Changde,Istanbul,7:05 AM,6:25 AM,"4h 20m,9h 50m","Guangzhou Baiyun,Airport change CTU-TFU",2,1,0,"1,319"
+2024-03-02,"China Southern, Sichuan Airlines",28h 20m,Changde,Istanbul,7:05 AM,6:25 AM,"8h 20m,6h 25m","Guangzhou Baiyun,Chengdu Tianfu Intl",2,1,0,"1,319"
+2024-03-02,"China Southern, Sichuan Airlines",28h 20m,Changde,Istanbul,7:05 AM,6:25 AM,"3h 20m,11h 20m","Guangzhou Baiyun,Chengdu Tianfu Intl",2,1,0,"1,319"
+2024-03-02,Multiple Airlines,24h 55m,Changde,Istanbul,11:05 AM,7:00 AM,"4h 45m,3h 00m","Beijing Daxing Intl,Doha Hamad Intl",2,1,0,"1,760"
+2024-03-02,"China Southern, Sichuan Airlines",24h 20m,Changde,Istanbul,11:05 AM,6:25 AM,"7h 10m,2h 20m","Airport change PKX-PEK,Chengdu Tianfu Intl",2,1,1,"1,662"
+2024-03-02,"China Southern, Sichuan Airlines",28h 25m,Changde,Istanbul,7:00 AM,6:25 AM,"8h 00m,6h 40m","Shenzhen,Chengdu Tianfu Intl",2,1,1,"1,371"
+2024-03-02,Multiple Airlines,30h 00m,Changde,Istanbul,11:05 AM,12:05 PM,"4h 45m,8h 05m","Beijing Daxing Intl,Doha Hamad Intl",2,1,1,"1,757"
+2024-03-02,Multiple Airlines,30h 15m,Changde,Istanbul,11:05 AM,12:20 PM,"4h 45m,8h 20m","Beijing Daxing Intl,Doha Hamad Intl",2,1,0,"1,760"
+2024-03-02,Multiple Airlines,24h 20m,Changde,Istanbul,11:05 AM,6:25 AM,"2h 35m,6h 30m","Beijing Daxing Intl,Airport change CTU-TFU",2,1,0,"2,276"
+2024-03-02,Multiple Airlines,28h 20m,Changde,Istanbul,7:05 AM,6:25 AM,"6h 15m,7h 55m","Guangzhou Baiyun,Chengdu Tianfu Intl",2,1,0,"1,837"
+2024-03-02,"China Southern, Turkish Airlines",27h 45m,Changde,Istanbul,7:05 AM,5:50 AM,14h 40m,Guangzhou Baiyun,1,1,0,"2,889"
+2024-03-02,Multiple Airlines,23h 55m,Changde,Istanbul,11:30 AM,6:25 AM,"6h 40m,2h 45m","Hangzhou,Chengdu Tianfu Intl",2,1,0,"2,753"
+2024-03-02,"China Southern, Sichuan Airlines",24h 55m,Changde,Istanbul,10:30 AM,6:25 AM,"3h 20m,7h 30m","Guangzhou Baiyun,Airport change CTU-TFU",2,1,0,"2,690"
+2024-03-02,"China Southern, Sichuan Airlines",24h 55m,Changde,Istanbul,10:30 AM,6:25 AM,"1h 25m,9h 20m","Guangzhou Baiyun,Airport change CTU-TFU",2,1,0,"2,690"
+2024-03-02,"China Southern, Sichuan Airlines",24h 55m,Changde,Istanbul,10:30 AM,6:25 AM,"5h 05m,5h 45m","Guangzhou Baiyun,Chengdu Tianfu Intl",2,1,0,"2,690"
+2024-03-02,Multiple Airlines,24h 55m,Changde,Istanbul,10:30 AM,6:25 AM,"3h 55m,6h 55m","Guangzhou Baiyun,Chengdu Tianfu Intl",2,1,1,"2,690"
+2024-03-02,Multiple Airlines,24h 55m,Changde,Istanbul,10:30 AM,6:25 AM,"6h 20m,4h 30m","Guangzhou Baiyun,Chengdu Tianfu Intl",2,1,1,"2,690"
+2024-03-02,"China Southern, Sichuan Airlines",24h 55m,Changde,Istanbul,10:30 AM,6:25 AM,"2h 05m,8h 50m","Guangzhou Baiyun,Chengdu Tianfu Intl",2,1,0,"2,690"
+2024-03-02,Multiple Airlines,24h 55m,Changde,Istanbul,10:30 AM,6:25 AM,"5h 20m,5h 35m","Guangzhou Baiyun,Chengdu Tianfu Intl",2,1,1,"2,690"
+2024-03-02,Multiple Airlines,24h 20m,Changde,Istanbul,11:05 AM,6:25 AM,"6h 35m,2h 40m","Airport change PKX-PEK,Chengdu Tianfu Intl",2,1,1,"2,907"
+2024-03-02,"China Southern, Sichuan Airlines",24h 20m,Changde,Istanbul,11:05 AM,6:25 AM,"2h 40m,6h 20m","Beijing Daxing Intl,Chengdu Tianfu Intl",2,1,0,"3,387"
+2024-03-02,"China Southern, Sichuan Airlines",24h 20m,Changde,Istanbul,11:05 AM,6:25 AM,"3h 40m,5h 40m","Beijing Daxing Intl,Airport change CTU-TFU",2,1,0,"3,387"
+2024-03-02,Multiple Airlines,24h 20m,Changde,Istanbul,11:05 AM,6:25 AM,"6h 35m,2h 40m","Airport change PKX-PEK,Chengdu Tianfu Intl",2,1,1,"3,535"
+2024-03-02,"China Southern, Emirates",32h 55m,Changde,Istanbul,10:30 AM,2:25 PM,"7h 00m,10h 10m","Guangzhou Baiyun,Dubai Intl",2,1,1,"2,405"
+2024-03-02,"China Southern, Sichuan Airlines",28h 20m,Changde,Istanbul,7:05 AM,6:25 AM,"5h 00m,9h 20m","Guangzhou Baiyun,Airport change CTU-TFU",2,1,0,"2,690"
+2024-03-02,"China Southern, Sichuan Airlines",28h 20m,Changde,Istanbul,7:05 AM,6:25 AM,"8h 40m,5h 45m","Guangzhou Baiyun,Chengdu Tianfu Intl",2,1,0,"2,690"
+2024-03-02,"China Southern, Sichuan Airlines",28h 20m,Changde,Istanbul,7:05 AM,6:25 AM,"2h 50m,11h 35m","Guangzhou Baiyun,Airport change CTU-TFU",2,1,0,"2,690"
+2024-03-02,"China Southern, Sichuan Airlines",28h 20m,Changde,Istanbul,7:05 AM,6:25 AM,"5h 40m,8h 50m","Guangzhou Baiyun,Chengdu Tianfu Intl",2,1,0,"2,690"
+2024-03-02,"China Southern, Thai Airways",28h 00m,Changde,Istanbul,7:05 AM,6:05 AM,"6h 15m,6h 35m","Guangzhou Baiyun,Bangkok Suvarnabhumi",2,1,0,"5,402"
+2024-03-02,"China Eastern, Lufthansa",29h 55m,Changde,Istanbul,5:10 PM,6:05 PM,"6h 40m,7h 20m","Chengdu Tianfu Intl,Frankfurt am Main",2,1,0,"5,972"
+2024-03-02,Multiple Airlines,29h 55m,Changde,Istanbul,5:10 PM,6:05 PM,"6h 40m,7h 20m","Chengdu Tianfu Intl,Frankfurt am Main",2,1,2,"7,950"
+2024-03-03,Multiple Airlines,24h 50m,Changde,Istanbul,5:10 PM,1:00 PM,"6h 45m,2h 45m","Chengdu Tianfu Intl,Cairo",2,1,2,"1,279"
+2024-03-03,China Southern,49h 00m,Changde,Istanbul,10:05 AM,6:05 AM,"20h 20m,13h 15m","Guangzhou Baiyun,Beijing Daxing Intl",2,1,1,797
+2024-03-03,China Southern,36h 50m,Changde,Istanbul,10:15 PM,6:05 AM,"12h 05m,9h 25m","Zhuhai,Beijing Daxing Intl",2,1,1,849
+2024-03-03,China Southern,36h 50m,Changde,Istanbul,10:15 PM,6:05 AM,"8h 35m,12h 50m","Zhuhai,Beijing Daxing Intl",2,1,1,849
+2024-03-03,China Southern,36h 50m,Changde,Istanbul,10:15 PM,6:05 AM,"10h 05m,11h 20m","Zhuhai,Beijing Daxing Intl",2,1,1,849
+2024-03-03,China Southern,36h 50m,Changde,Istanbul,10:15 PM,6:05 AM,"16h 35m,4h 40m","Zhuhai,Beijing Daxing Intl",2,1,1,849
+2024-03-03,China Southern,36h 50m,Changde,Istanbul,10:15 PM,6:05 AM,"13h 30m,8h 00m","Zhuhai,Beijing Daxing Intl",2,1,1,849
+2024-03-03,Multiple Airlines,25h 25m,Changde,Istanbul,5:10 PM,1:35 PM,"6h 45m,3h 15m","Chengdu Tianfu Intl,Cairo",2,1,1,"1,444"
+2024-03-03,"China Southern, Uzbekistan Airways",22h 25m,Changde,Istanbul,11:05 AM,4:30 AM,"2h 05m,5h 40m","Beijing Daxing Intl,Tashkent Vostochny",2,1,1,"1,841"
+2024-03-03,Multiple Airlines,29h 40m,Changde,Istanbul,5:10 PM,5:50 PM,"6h 45m,7h 35m","Chengdu Tianfu Intl,Cairo",2,1,1,"1,284"
+2024-03-03,"China Southern, Egypt Air",31h 55m,Changde,Istanbul,10:05 AM,1:00 PM,"11h 40m,4h 25m","Guangzhou Baiyun,Cairo",2,1,2,"1,409"
+2024-03-03,"China Southern, Egypt Air",34h 55m,Changde,Istanbul,7:05 AM,1:00 PM,"14h 45m,4h 25m","Guangzhou Baiyun,Cairo",2,1,2,"1,409"
+2024-03-03,Multiple Airlines,30h 15m,Changde,Istanbul,11:05 AM,12:20 PM,"4h 45m,8h 20m","Beijing Daxing Intl,Doha Hamad Intl",2,1,0,"1,760"
+2024-03-03,"China Southern, Egypt Air",36h 45m,Changde,Istanbul,10:05 AM,5:50 PM,"11h 40m,9h 15m","Guangzhou Baiyun,Cairo",2,1,2,"1,408"
+2024-03-03,"China Southern, Egypt Air",32h 30m,Changde,Istanbul,10:05 AM,1:35 PM,"11h 40m,4h 55m","Guangzhou Baiyun,Cairo",2,1,2,"1,722"
+2024-03-03,Multiple Airlines,36h 35m,Changde,Istanbul,5:10 PM,12:45 AM,"6h 45m,14h 30m","Chengdu Tianfu Intl,Cairo",2,1,1,"1,444"
+2024-03-03,"China Southern, Egypt Air",35h 30m,Changde,Istanbul,7:05 AM,1:35 PM,"14h 45m,4h 55m","Guangzhou Baiyun,Cairo",2,1,2,"1,722"
+2024-03-03,Multiple Airlines,30h 00m,Changde,Istanbul,11:05 AM,12:05 PM,"4h 45m,8h 05m","Beijing Daxing Intl,Doha Hamad Intl",2,1,0,"2,283"
+2024-03-03,Multiple Airlines,36h 30m,Changde,Istanbul,11:05 AM,6:35 PM,"4h 45m,14h 35m","Beijing Daxing Intl,Doha Hamad Intl",2,1,0,"1,765"
+2024-03-03,Multiple Airlines,37h 00m,Changde,Istanbul,11:05 AM,7:05 PM,"4h 45m,15h 05m","Beijing Daxing Intl,Doha Hamad Intl",2,1,0,"1,765"
+2024-03-03,"China Southern, Azerbaijan Airlines",28h 30m,Changde,Istanbul,10:05 AM,9:35 AM,"2h 45m,7h 20m,2h 05m","Guangzhou Baiyun,Dubai Intl,Baku Heydar Aliyev",3,1,0,"2,228"
+2024-03-03,"China Southern, Azerbaijan Airlines",28h 30m,Changde,Istanbul,10:05 AM,9:35 AM,"7h 30m,2h 25m,2h 05m","Guangzhou Baiyun,Dubai Intl,Baku Heydar Aliyev",3,1,0,"2,228"
+2024-03-03,"China Southern, Azerbaijan Airlines",31h 30m,Changde,Istanbul,7:05 AM,9:35 AM,"5h 50m,7h 20m,2h 05m","Guangzhou Baiyun,Dubai Intl,Baku Heydar Aliyev",3,1,0,"2,228"
+2024-03-03,"China Southern, Azerbaijan Airlines",31h 30m,Changde,Istanbul,7:05 AM,9:35 AM,"10h 35m,2h 25m,2h 05m","Guangzhou Baiyun,Dubai Intl,Baku Heydar Aliyev",3,1,0,"2,228"
+2024-03-03,"China Southern, Azerbaijan Airlines",34h 40m,Changde,Istanbul,10:05 AM,3:45 PM,"2h 45m,7h 20m,8h 15m","Guangzhou Baiyun,Dubai Intl,Baku Heydar Aliyev",3,1,0,"2,228"
+2024-03-03,"China Southern, Azerbaijan Airlines",34h 40m,Changde,Istanbul,10:05 AM,3:45 PM,"7h 30m,2h 25m,8h 15m","Guangzhou Baiyun,Dubai Intl,Baku Heydar Aliyev",3,1,0,"2,228"
+2024-03-03,"China Southern, Emirates",33h 20m,Changde,Istanbul,10:05 AM,2:25 PM,"7h 30m,10h 10m","Guangzhou Baiyun,Dubai Intl",2,1,1,"2,405"
+2024-03-03,"China Southern, Emirates",33h 20m,Changde,Istanbul,10:05 AM,2:25 PM,"2h 45m,15h 05m","Guangzhou Baiyun,Dubai Intl",2,1,1,"2,405"
+2024-03-03,"China Southern, Azerbaijan Airlines",37h 40m,Changde,Istanbul,7:05 AM,3:45 PM,"5h 50m,7h 20m,8h 15m","Guangzhou Baiyun,Dubai Intl,Baku Heydar Aliyev",3,1,0,"2,228"
+2024-03-03,"China Southern, Azerbaijan Airlines",37h 40m,Changde,Istanbul,7:05 AM,3:45 PM,"10h 35m,2h 25m,8h 15m","Guangzhou Baiyun,Dubai Intl,Baku Heydar Aliyev",3,1,0,"2,228"
+2024-03-03,"China Southern, Emirates",36h 20m,Changde,Istanbul,7:05 AM,2:25 PM,"10h 35m,10h 10m","Guangzhou Baiyun,Dubai Intl",2,1,1,"2,405"
+2024-03-03,"China Southern, Emirates",36h 20m,Changde,Istanbul,7:05 AM,2:25 PM,"5h 50m,15h 05m","Guangzhou Baiyun,Dubai Intl",2,1,1,"2,405"
+2024-03-03,"China Southern, Emirates",37h 25m,Changde,Istanbul,10:05 AM,6:30 PM,"7h 30m,14h 15m","Guangzhou Baiyun,Dubai Intl",2,1,1,"2,405"
+2024-03-03,"China Southern, Emirates",37h 25m,Changde,Istanbul,10:05 AM,6:30 PM,"2h 45m,19h 10m","Guangzhou Baiyun,Dubai Intl",2,1,1,"2,405"
+2024-03-03,"China Southern, Etihad Airways",28h 10m,Changde,Istanbul,7:05 AM,6:15 AM,"4h 00m,6h 35m,1h 25m","Guangzhou Baiyun,Bangkok Suvarnabhumi,Abu Dhabi Intl",3,1,0,"2,790"
+2024-03-03,"China Southern, Etihad Airways",28h 15m,Changde,Istanbul,7:00 AM,6:15 AM,"7h 30m,2h 50m,1h 25m","Shenzhen,Bangkok Suvarnabhumi,Abu Dhabi Intl",3,1,0,"2,802"
+2024-03-03,Multiple Airlines,31h 25m,Changde,Istanbul,7:05 AM,9:30 AM,"4h 00m,9h 25m,1h 30m","Guangzhou Baiyun,Bangkok Suvarnabhumi,Tel Aviv Ben Gurion Intl",3,1,0,"2,883"
+2024-03-03,Multiple Airlines,31h 25m,Changde,Istanbul,7:05 AM,9:30 AM,"4h 00m,2h 00m,8h 55m","Guangzhou Baiyun,Bangkok Suvarnabhumi,Tel Aviv Ben Gurion Intl",3,1,0,"2,883"
+2024-03-03,Multiple Airlines,30h 50m,Changde,Istanbul,7:05 AM,8:55 AM,"4h 00m,2h 00m,8h 15m","Guangzhou Baiyun,Bangkok Suvarnabhumi,Tel Aviv Ben Gurion Intl",3,1,0,"2,941"
+2024-03-03,"China Southern, IndiGo",32h 40m,Changde,Istanbul,7:05 AM,10:45 AM,"4h 00m,2h 40m,9h 50m","Guangzhou Baiyun,Bangkok Suvarnabhumi,New Delhi Indira Gandhi Intl",3,1,0,"2,692"
+2024-03-03,"China Southern, Malaysia Airlines",25h 00m,Changde,Istanbul,10:05 AM,6:05 AM,"5h 55m,2h 00m","Guangzhou Baiyun,Kuala Lumpur Intl",2,1,0,"3,700"
+2024-03-03,"China Southern, Malaysia Airlines",28h 00m,Changde,Istanbul,7:05 AM,6:05 AM,"9h 00m,2h 00m","Guangzhou Baiyun,Kuala Lumpur Intl",2,1,0,"3,700"
+2024-03-03,"China Southern, Malaysia Airlines",28h 00m,Changde,Istanbul,7:05 AM,6:05 AM,"3h 50m,6h 50m","Guangzhou Baiyun,Kuala Lumpur Intl",2,1,0,"3,700"
+2024-03-03,"China Southern, Malaysia Airlines",34h 55m,Changde,Istanbul,10:05 AM,4:00 PM,"5h 55m,12h 05m","Guangzhou Baiyun,Kuala Lumpur Intl",2,1,0,"3,727"
+2024-03-03,"China Southern, flydubai",32h 15m,Changde,Istanbul,10:05 AM,1:20 PM,"7h 30m,9h 10m","Guangzhou Baiyun,Dubai Intl",2,1,0,"3,739"
+2024-03-03,"China Southern, flydubai",32h 15m,Changde,Istanbul,10:05 AM,1:20 PM,"2h 45m,14h 05m","Guangzhou Baiyun,Dubai Intl",2,1,0,"3,739"
+2024-03-03,"China Southern, Malaysia Airlines",37h 55m,Changde,Istanbul,7:05 AM,4:00 PM,"9h 00m,12h 05m","Guangzhou Baiyun,Kuala Lumpur Intl",2,1,0,"3,727"
+2024-03-03,"China Southern, flydubai",34h 30m,Changde,Istanbul,10:05 AM,3:35 PM,"7h 30m,11h 25m","Guangzhou Baiyun,Dubai Intl",2,1,0,"3,739"
+2024-03-03,"China Southern, flydubai",34h 30m,Changde,Istanbul,10:05 AM,3:35 PM,"2h 45m,16h 20m","Guangzhou Baiyun,Dubai Intl",2,1,0,"3,739"
+2024-03-03,"China Southern, flydubai",35h 15m,Changde,Istanbul,7:05 AM,1:20 PM,"10h 35m,9h 10m","Guangzhou Baiyun,Dubai Intl",2,1,0,"3,739"
+2024-03-03,"China Southern, flydubai",35h 15m,Changde,Istanbul,7:05 AM,1:20 PM,"5h 50m,14h 05m","Guangzhou Baiyun,Dubai Intl",2,1,0,"3,739"
+2024-03-03,"China Southern, Air Astana",25h 50m,Changde,Istanbul,10:05 AM,6:55 AM,"5h 30m,1h 30m,3h 20m","Guangzhou Baiyun,Urumqi,Nur-Sultan Nursultan Nazarbayev Intl",3,1,0,"4,959"
+2024-03-03,"China Southern, Air Astana",28h 50m,Changde,Istanbul,7:05 AM,6:55 AM,"8h 35m,1h 30m,3h 20m","Guangzhou Baiyun,Urumqi,Nur-Sultan Nursultan Nazarbayev Intl",3,1,0,"4,959"
+2024-03-03,"China Southern, Thai Airways",28h 00m,Changde,Istanbul,7:05 AM,6:05 AM,"6h 15m,6h 35m","Guangzhou Baiyun,Bangkok Suvarnabhumi",2,1,0,"5,402"
+2024-03-03,Multiple Airlines,31h 50m,Changde,Istanbul,11:05 AM,1:55 PM,"13h 10m,2h 50m","Airport change PKX-PEK,Warsaw Frederic Chopin",2,1,1,"5,634"
+2024-03-03,Multiple Airlines,35h 25m,Changde,Istanbul,11:05 AM,5:30 PM,"13h 10m,6h 20m","Airport change PKX-PEK,Warsaw Frederic Chopin",2,1,1,"5,634"
+2024-03-04,"China Eastern, China Southern",23h 35m,Changde,Istanbul,11:30 AM,6:05 AM,"7h 00m,1h 55m","Hangzhou,Beijing Daxing Intl",2,1,0,"1,008"
+2024-03-04,China Southern,28h 00m,Changde,Istanbul,7:05 AM,6:05 AM,"5h 25m,7h 15m","Guangzhou Baiyun,Beijing Daxing Intl",2,1,1,797
+2024-03-04,China Southern,28h 00m,Changde,Istanbul,7:05 AM,6:05 AM,"9h 25m,3h 15m","Guangzhou Baiyun,Beijing Daxing Intl",2,1,1,797
+2024-03-04,China Southern,28h 00m,Changde,Istanbul,7:05 AM,6:05 AM,"6h 25m,6h 15m","Guangzhou Baiyun,Beijing Daxing Intl",2,1,1,797
+2024-03-04,China Southern,28h 00m,Changde,Istanbul,7:05 AM,6:05 AM,"10h 25m,2h 35m","Guangzhou Baiyun,Beijing Daxing Intl",2,1,1,797
+2024-03-04,China Southern,28h 00m,Changde,Istanbul,7:05 AM,6:05 AM,"11h 25m,1h 30m","Guangzhou Baiyun,Beijing Daxing Intl",2,1,1,797
+2024-03-04,China Southern,28h 05m,Changde,Istanbul,7:00 AM,6:05 AM,"6h 55m,5h 55m","Shenzhen,Beijing Daxing Intl",2,1,1,854
+2024-03-04,China Southern,28h 05m,Changde,Istanbul,7:00 AM,6:05 AM,"3h 55m,8h 55m","Shenzhen,Beijing Daxing Intl",2,1,1,854
+2024-03-04,China Southern,28h 05m,Changde,Istanbul,7:00 AM,6:05 AM,"5h 55m,6h 45m","Shenzhen,Beijing Daxing Intl",2,1,1,854
+2024-03-04,China Southern,28h 05m,Changde,Istanbul,7:00 AM,6:05 AM,"7h 55m,4h 45m","Shenzhen,Beijing Daxing Intl",2,1,1,854
+2024-03-04,China Southern,28h 05m,Changde,Istanbul,7:00 AM,6:05 AM,"8h 55m,3h 55m","Shenzhen,Beijing Daxing Intl",2,1,1,854
+2024-03-04,China Southern,28h 05m,Changde,Istanbul,7:00 AM,6:05 AM,"1h 55m,10h 45m","Shenzhen,Beijing Daxing Intl",2,1,1,854
+2024-03-04,China Southern,28h 05m,Changde,Istanbul,7:00 AM,6:05 AM,"9h 55m,2h 55m","Shenzhen,Beijing Daxing Intl",2,1,1,854
+2024-03-04,China Southern,28h 05m,Changde,Istanbul,7:00 AM,6:05 AM,"10h 55m,1h 55m","Shenzhen,Beijing Daxing Intl",2,1,1,854
+2024-03-04,China Southern,28h 05m,Changde,Istanbul,7:00 AM,6:05 AM,"4h 55m,7h 55m","Shenzhen,Beijing Daxing Intl",2,1,1,854
+2024-03-04,China Southern,28h 05m,Changde,Istanbul,7:00 AM,6:05 AM,"0h 55m,11h 55m","Shenzhen,Beijing Daxing Intl",2,1,1,854
+2024-03-04,China Southern,28h 05m,Changde,Istanbul,7:00 AM,6:05 AM,"2h 55m,10h 05m","Shenzhen,Beijing Daxing Intl",2,1,1,854
+2024-03-04,"China Southern, Uzbekistan Airways",22h 25m,Changde,Istanbul,11:05 AM,4:30 AM,"2h 05m,5h 40m","Beijing Daxing Intl,Tashkent Vostochny",2,1,1,"1,841"
+2024-03-04,"China Southern, Azerbaijan Airlines",27h 30m,Changde,Istanbul,11:05 AM,9:35 AM,"11h 40m,2h 35m","Airport change PKX-PEK,Baku Heydar Aliyev",2,1,1,"1,481"
+2024-03-04,"China Southern, Azerbaijan Airlines",28h 50m,Changde,Istanbul,11:05 AM,10:55 AM,"11h 40m,3h 50m","Airport change PKX-PEK,Baku Heydar Aliyev",2,1,0,"1,487"
+2024-03-04,Multiple Airlines,24h 55m,Changde,Istanbul,11:05 AM,7:00 AM,"4h 45m,3h 00m","Beijing Daxing Intl,Doha Hamad Intl",2,1,0,"1,760"
+2024-03-04,"China Eastern, China Southern",23h 35m,Changde,Istanbul,11:30 AM,6:05 AM,"3h 25m,5h 30m","Hangzhou,Beijing Daxing Intl",2,1,0,"1,839"
+2024-03-04,Multiple Airlines,27h 00m,Changde,Istanbul,10:30 AM,8:30 AM,"8h 00m,3h 00m","Guangzhou Baiyun,Shanghai Pu Dong",2,1,1,"1,606"
+2024-03-04,"China Southern, China Eastern",27h 00m,Changde,Istanbul,10:30 AM,8:30 AM,"8h 00m,3h 00m","Guangzhou Baiyun,Shanghai Pu Dong",2,1,1,"1,606"
+2024-03-04,Multiple Airlines,27h 00m,Changde,Istanbul,10:30 AM,8:30 AM,"5h 20m,5h 40m","Guangzhou Baiyun,Airport change SHA-PVG",2,1,0,"1,606"
+2024-03-04,"China Southern, China Eastern",27h 00m,Changde,Istanbul,10:30 AM,8:30 AM,"4h 20m,6h 35m","Guangzhou Baiyun,Airport change SHA-PVG",2,1,0,"1,606"
+2024-03-04,"China Southern, China Eastern",27h 00m,Changde,Istanbul,10:30 AM,8:30 AM,"5h 20m,5h 40m","Guangzhou Baiyun,Airport change SHA-PVG",2,1,0,"1,606"
+2024-03-04,"China Southern, China Eastern",27h 00m,Changde,Istanbul,10:30 AM,8:30 AM,"6h 20m,4h 40m","Guangzhou Baiyun,Airport change SHA-PVG",2,1,0,"1,606"
+2024-03-04,"China Eastern, China Southern",23h 35m,Changde,Istanbul,11:30 AM,6:05 AM,"4h 00m,4h 45m","Hangzhou,Beijing Daxing Intl",2,1,0,"1,839"
+2024-03-04,Multiple Airlines,29h 40m,Changde,Istanbul,11:30 AM,12:10 PM,"3h 05m,6h 20m,2h 40m","Hangzhou,Xiamen Gaoqi Intl,Doha Hamad Intl",3,1,0,"1,580"
+2024-03-04,Multiple Airlines,30h 25m,Changde,Istanbul,7:05 AM,8:30 AM,"11h 35m,3h 00m","Guangzhou Baiyun,Shanghai Pu Dong",2,1,0,"1,606"
+2024-03-04,"China Southern, China Eastern",30h 25m,Changde,Istanbul,7:05 AM,8:30 AM,"11h 35m,3h 00m","Guangzhou Baiyun,Shanghai Pu Dong",2,1,0,"1,606"
+2024-03-04,"China Southern, China Eastern",30h 25m,Changde,Istanbul,7:05 AM,8:30 AM,"4h 15m,10h 25m","Guangzhou Baiyun,Shanghai Pu Dong",2,1,0,"1,606"
+2024-03-04,Multiple Airlines,30h 25m,Changde,Istanbul,7:05 AM,8:30 AM,"4h 15m,10h 25m","Guangzhou Baiyun,Shanghai Pu Dong",2,1,0,"1,606"
+2024-03-04,Multiple Airlines,30h 25m,Changde,Istanbul,7:05 AM,8:30 AM,"4h 55m,9h 50m","Guangzhou Baiyun,Airport change SHA-PVG",2,1,0,"1,606"
+2024-03-04,Multiple Airlines,30h 25m,Changde,Istanbul,7:05 AM,8:30 AM,"3h 55m,10h 40m","Guangzhou Baiyun,Airport change SHA-PVG",2,1,0,"1,606"
+2024-03-04,"China Southern, China Eastern",30h 25m,Changde,Istanbul,7:05 AM,8:30 AM,"3h 55m,10h 40m","Guangzhou Baiyun,Airport change SHA-PVG",2,1,0,"1,606"
+2024-03-04,"China Southern, China Eastern",30h 25m,Changde,Istanbul,7:05 AM,8:30 AM,"4h 55m,9h 50m","Guangzhou Baiyun,Airport change SHA-PVG",2,1,0,"1,606"
+2024-03-04,"China Southern, Azerbaijan Airlines",28h 25m,Changde,Istanbul,11:05 AM,10:30 AM,"11h 40m,3h 15m","Airport change PKX-PEK,Baku Heydar Aliyev",2,1,1,"1,770"
+2024-03-04,"China Eastern, Asiana Airlines",27h 30m,Changde,Istanbul,5:10 PM,3:40 PM,"5h 40m,4h 30m","Chengdu Tianfu Intl,Incheon Intl",2,1,0,"1,831"
+2024-03-04,Multiple Airlines,30h 15m,Changde,Istanbul,11:05 AM,12:20 PM,"4h 45m,8h 20m","Beijing Daxing Intl,Doha Hamad Intl",2,1,0,"1,760"
+2024-03-04,"China Southern, China Eastern",26h 25m,Changde,Istanbul,11:05 AM,8:30 AM,"4h 40m,5h 05m","Airport change PKX-PEK,Airport change SHA-PVG",2,1,0,"1,949"
+2024-03-04,"China Southern, China Eastern",26h 25m,Changde,Istanbul,11:05 AM,8:30 AM,"5h 40m,4h 10m","Airport change PKX-PEK,Airport change SHA-PVG",2,1,0,"1,949"
+2024-03-04,"China Southern, China Eastern",26h 25m,Changde,Istanbul,11:05 AM,8:30 AM,"4h 10m,5h 35m","Airport change PKX-PEK,Airport change SHA-PVG",2,1,0,"1,949"
+2024-03-04,"China Southern, China Eastern",26h 25m,Changde,Istanbul,11:05 AM,8:30 AM,"6h 55m,2h 40m","Beijing Daxing Intl,Shanghai Pu Dong",2,1,0,"1,949"
+2024-03-04,Multiple Airlines,30h 05m,Changde,Istanbul,11:05 AM,12:10 PM,"4h 45m,8h 10m","Beijing Daxing Intl,Doha Hamad Intl",2,1,1,"1,916"
+2024-03-04,"China Southern, Azerbaijan Airlines",28h 20m,Changde,Istanbul,7:05 AM,6:25 AM,"3h 30m,2h 05m,7h 30m","Guangzhou Baiyun,Urumqi,Baku Heydar Aliyev",3,1,0,"2,010"
+2024-03-04,"China Eastern, China Southern",20h 20m,Changde,Istanbul,5:10 PM,8:30 AM,"1h 05m,2h 45m","Chengdu Tianfu Intl,Shanghai Pu Dong",2,1,0,"2,514"
+2024-03-04,"China Southern, Azerbaijan Airlines",28h 05m,Changde,Istanbul,10:30 AM,9:35 AM,"7h 00m,2h 10m,2h 20m","Guangzhou Baiyun,Dubai Intl,Baku Heydar Aliyev",3,1,0,"2,228"
+2024-03-04,Multiple Airlines,27h 00m,Changde,Istanbul,10:30 AM,8:30 AM,"2h 40m,8h 05m","Guangzhou Baiyun,Shanghai Pu Dong",2,1,1,"2,947"
+2024-03-04,Multiple Airlines,23h 35m,Changde,Istanbul,11:30 AM,6:05 AM,"2h 45m,6h 15m","Hangzhou,Airport change PEK-PKX",2,1,1,"4,385"
+2024-03-04,"China Southern, Air China",28h 00m,Changde,Istanbul,7:05 AM,6:05 AM,"4h 05m,8h 50m","Guangzhou Baiyun,Airport change PEK-PKX",2,1,1,"4,426"
+2024-03-04,"China Southern, Shenzhen Airlines",28h 05m,Changde,Istanbul,7:00 AM,6:05 AM,"7h 55m,4h 50m","Shenzhen,Airport change PEK-PKX",2,1,1,"4,617"
+2024-03-04,"China Southern, Air China",28h 05m,Changde,Istanbul,7:00 AM,6:05 AM,"3h 00m,9h 55m","Shenzhen,Airport change PEK-PKX",2,1,1,"4,617"
+2024-03-04,"China Southern, Air China",28h 05m,Changde,Istanbul,7:00 AM,6:05 AM,"7h 55m,4h 50m","Shenzhen,Airport change PEK-PKX",2,1,1,"4,617"
+2024-03-04,"China Southern, Thai Airways",28h 00m,Changde,Istanbul,7:05 AM,6:05 AM,"6h 15m,6h 35m","Guangzhou Baiyun,Bangkok Suvarnabhumi",2,1,0,"5,402"
+2024-03-04,Multiple Airlines,24h 15m,Changde,Istanbul,5:10 PM,12:25 PM,"6h 40m,1h 35m","Chengdu Tianfu Intl,Frankfurt am Main",2,1,0,"5,982"
+2024-03-05,"China Southern, Thai Airways",28h 00m,Changde,Istanbul,7:05 AM,6:05 AM,"6h 15m,6h 35m","Guangzhou Baiyun,Bangkok Suvarnabhumi",2,1,0,"5,402"
+2024-03-06,China Southern,,Changde,Istanbul,7:00 AM,6:05 AM,"2h 55m,9h 55m","Shenzhen,Beijing Daxing Intl",2,1,1,854
+2024-03-06,China Southern,,Changde,Istanbul,7:00 AM,6:05 AM,"4h 55m,7h 55m","Shenzhen,Beijing Daxing Intl",2,1,1,854
+2024-03-06,China Southern,,Changde,Istanbul,7:00 AM,6:05 AM,"0h 55m,11h 55m","Shenzhen,Beijing Daxing Intl",2,1,1,854
+2024-03-06,China Southern,,Changde,Istanbul,7:00 AM,6:05 AM,"6h 55m,5h 55m","Shenzhen,Beijing Daxing Intl",2,1,1,854
+2024-03-06,China Southern,,Changde,Istanbul,7:00 AM,6:05 AM,"8h 55m,3h 55m","Shenzhen,Beijing Daxing Intl",2,1,1,854
+2024-03-06,"China Southern, Azerbaijan Airlines",,Changde,Istanbul,11:05 AM,9:35 AM,"11h 40m,2h 35m","Airport change PKX-PEK,Baku Heydar Aliyev",2,1,1,"1,481"
+2024-03-06,"China Eastern, China Southern",,Changde,Istanbul,11:30 AM,6:05 AM,"4h 00m,4h 45m","Hangzhou,Beijing Daxing Intl",2,1,0,"1,752"
+2024-03-06,"China Eastern, China Southern",,Changde,Istanbul,11:30 AM,6:05 AM,"3h 25m,5h 30m","Hangzhou,Beijing Daxing Intl",2,1,0,"1,752"
+2024-03-06,"China Southern, Azerbaijan Airlines",,Changde,Istanbul,11:05 AM,10:55 AM,"11h 40m,3h 50m","Airport change PKX-PEK,Baku Heydar Aliyev",2,1,0,"1,487"
+2024-03-06,Multiple Airlines,,Changde,Istanbul,10:30 AM,8:30 AM,"5h 20m,5h 40m","Guangzhou Baiyun,Airport change SHA-PVG",2,1,0,"1,606"
+2024-03-06,Multiple Airlines,,Changde,Istanbul,10:30 AM,8:30 AM,"8h 00m,3h 00m","Guangzhou Baiyun,Shanghai Pu Dong",2,1,1,"1,606"
+2024-03-06,"China Southern, China Eastern",,Changde,Istanbul,10:30 AM,8:30 AM,"6h 20m,4h 40m","Guangzhou Baiyun,Airport change SHA-PVG",2,1,0,"1,606"
+2024-03-06,"China Southern, China Eastern",,Changde,Istanbul,10:30 AM,8:30 AM,"4h 20m,6h 35m","Guangzhou Baiyun,Airport change SHA-PVG",2,1,0,"1,606"
+2024-03-06,"China Southern, China Eastern",,Changde,Istanbul,10:30 AM,8:30 AM,"5h 20m,5h 40m","Guangzhou Baiyun,Airport change SHA-PVG",2,1,0,"1,606"
+2024-03-06,"China Southern, China Eastern",,Changde,Istanbul,10:30 AM,8:30 AM,"8h 00m,3h 00m","Guangzhou Baiyun,Shanghai Pu Dong",2,1,0,"1,606"
+2024-03-06,Multiple Airlines,,Changde,Istanbul,7:05 AM,8:30 AM,"4h 15m,10h 25m","Guangzhou Baiyun,Shanghai Pu Dong",2,1,0,"1,606"
+2024-03-06,Multiple Airlines,,Changde,Istanbul,7:05 AM,8:30 AM,"11h 35m,3h 00m","Guangzhou Baiyun,Shanghai Pu Dong",2,1,0,"1,606"
+2024-03-06,Multiple Airlines,,Changde,Istanbul,7:05 AM,8:30 AM,"3h 55m,10h 40m","Guangzhou Baiyun,Airport change SHA-PVG",2,1,0,"1,606"
+2024-03-06,Multiple Airlines,,Changde,Istanbul,7:05 AM,8:30 AM,"4h 55m,9h 50m","Guangzhou Baiyun,Airport change SHA-PVG",2,1,0,"1,606"
+2024-03-06,"China Southern, China Eastern",,Changde,Istanbul,7:05 AM,8:30 AM,"4h 15m,10h 25m","Guangzhou Baiyun,Shanghai Pu Dong",2,1,0,"1,606"
+2024-03-06,"China Southern, China Eastern",,Changde,Istanbul,7:05 AM,8:30 AM,"11h 35m,3h 00m","Guangzhou Baiyun,Shanghai Pu Dong",2,1,0,"1,606"
+2024-03-06,"China Southern, China Eastern",,Changde,Istanbul,7:05 AM,8:30 AM,"4h 55m,9h 50m","Guangzhou Baiyun,Airport change SHA-PVG",2,1,0,"1,606"
+2024-03-06,"China Southern, China Eastern",,Changde,Istanbul,7:05 AM,8:30 AM,"3h 55m,10h 40m","Guangzhou Baiyun,Airport change SHA-PVG",2,1,0,"1,606"
+2024-03-06,Multiple Airlines,,Changde,Istanbul,11:05 AM,12:20 PM,"4h 45m,8h 20m","Beijing Daxing Intl,Doha Hamad Intl",2,1,0,"1,760"
+2024-03-06,"China Southern, China Eastern",,Changde,Istanbul,11:05 AM,8:30 AM,"5h 55m,3h 35m","Beijing Daxing Intl,Shanghai Pu Dong",2,1,0,"1,949"
+2024-03-06,"China Southern, China Eastern",,Changde,Istanbul,11:05 AM,8:30 AM,"5h 40m,4h 10m","Airport change PKX-PEK,Airport change SHA-PVG",2,1,0,"1,949"
+2024-03-06,"China Southern, China Eastern",,Changde,Istanbul,11:05 AM,8:30 AM,"6h 55m,2h 40m","Beijing Daxing Intl,Shanghai Pu Dong",2,1,0,"1,949"
+2024-03-06,Multiple Airlines,,Changde,Istanbul,11:05 AM,12:10 PM,"4h 45m,8h 10m","Beijing Daxing Intl,Doha Hamad Intl",2,1,1,"1,916"
+2024-03-06,"China Southern, Azerbaijan Airlines",,Changde,Istanbul,7:05 AM,6:25 AM,"3h 30m,2h 05m,7h 30m","Guangzhou Baiyun,Urumqi,Baku Heydar Aliyev",3,1,0,"2,010"
+2024-03-06,"China Eastern, China Southern",,Changde,Istanbul,5:10 PM,8:30 AM,"1h 05m,2h 45m","Chengdu Tianfu Intl,Shanghai Pu Dong",2,1,0,"2,514"
+2024-03-06,"China Southern, Turkish Airlines",,Changde,Istanbul,7:05 AM,5:50 AM,14h 40m,Guangzhou Baiyun,1,1,0,"4,297"
+2024-03-06,"China Southern, Thai Airways",,Changde,Istanbul,7:05 AM,6:05 AM,"6h 15m,6h 35m","Guangzhou Baiyun,Bangkok Suvarnabhumi",2,1,0,"5,402"
+2024-03-07,China Southern,,Changde,Istanbul,10:15 PM,6:05 AM,"13h 30m,8h 00m","Zhuhai,Beijing Daxing Intl",2,1,1,849
+2024-03-07,China Southern,,Changde,Istanbul,10:30 AM,6:05 AM,"20h 50m,12h 30m","Guangzhou Baiyun,Beijing Daxing Intl",2,1,1,797
+2024-03-07,China Southern,,Changde,Istanbul,10:15 PM,6:05 AM,"12h 05m,9h 25m","Zhuhai,Beijing Daxing Intl",2,1,1,849
+2024-03-07,China Southern,,Changde,Istanbul,10:15 PM,6:05 AM,"10h 05m,11h 20m","Zhuhai,Beijing Daxing Intl",2,1,1,849
+2024-03-07,China Southern,,Changde,Istanbul,10:15 PM,6:05 AM,"8h 35m,12h 50m","Zhuhai,Beijing Daxing Intl",2,1,1,849
+2024-03-07,China Southern,,Changde,Istanbul,10:15 PM,6:05 AM,"16h 35m,4h 40m","Zhuhai,Beijing Daxing Intl",2,1,1,849
+2024-03-07,Multiple Airlines,,Changde,Istanbul,11:30 AM,12:10 PM,"3h 05m,6h 20m,2h 40m","Hangzhou,Xiamen Gaoqi Intl,Doha Hamad Intl",3,1,1,"1,340"
+2024-03-07,Multiple Airlines,,Changde,Istanbul,11:05 AM,12:10 PM,"4h 45m,8h 10m","Beijing Daxing Intl,Doha Hamad Intl",2,1,1,"1,757"
+2024-03-07,China Southern,,Changde,Istanbul,7:00 AM,6:05 AM,"23h 55m,12h 55m","Shenzhen,Beijing Daxing Intl",2,1,1,854
+2024-03-07,China Southern,,Changde,Istanbul,7:00 AM,6:05 AM,"22h 55m,13h 55m","Shenzhen,Beijing Daxing Intl",2,1,1,854
+2024-03-07,"China Southern, Azerbaijan Airlines",,Changde,Istanbul,10:30 AM,9:35 AM,"23h 55m,2h 05m,10h 50m","Guangzhou Baiyun,Urumqi,Baku Heydar Aliyev",3,1,1,"1,728"
+2024-03-07,"China Southern, Azerbaijan Airlines",,Changde,Istanbul,10:30 AM,2:50 PM,"23h 55m,2h 05m,16h 05m","Guangzhou Baiyun,Urumqi,Baku Heydar Aliyev",3,1,1,"1,728"
+2024-03-07,"China Southern, Azerbaijan Airlines",,Changde,Istanbul,10:30 AM,9:35 AM,"23h 55m,10h 50m","Guangzhou Baiyun,Baku Heydar Aliyev",2,1,0,"2,078"
+2024-03-07,"China Southern, Azerbaijan Airlines",,Changde,Istanbul,10:30 AM,2:50 PM,"23h 55m,16h 05m","Guangzhou Baiyun,Baku Heydar Aliyev",2,1,0,"2,078"
+2024-03-07,"China Southern, flydubai",,Changde,Istanbul,10:30 AM,1:20 PM,"7h 00m,9h 10m","Guangzhou Baiyun,Dubai Intl",2,1,0,"3,739"
+2024-03-07,Multiple Airlines,,Changde,Istanbul,11:05 AM,12:10 PM,"4h 45m,8h 10m","Beijing Daxing Intl,Doha Hamad Intl",2,1,1,"1,757"
+2024-03-07,Multiple Airlines,,Changde,Istanbul,11:05 AM,12:20 PM,"4h 45m,8h 20m","Beijing Daxing Intl,Doha Hamad Intl",2,1,0,"1,760"
+2024-03-07,Multiple Airlines,,Changde,Istanbul,7:05 AM,6:05 AM,"6h 15m,7h 55m","Guangzhou Baiyun,Chengdu Tianfu Intl",2,1,0,"1,837"
+2024-03-07,Multiple Airlines,,Changde,Istanbul,11:30 AM,6:05 AM,"6h 40m,2h 45m","Hangzhou,Chengdu Tianfu Intl",2,1,0,"2,753"
+2024-03-07,"China Southern, Sichuan Airlines",,Changde,Istanbul,10:30 AM,6:05 AM,"5h 05m,5h 45m","Guangzhou Baiyun,Chengdu Tianfu Intl",2,1,0,"2,690"
+2024-03-07,"China Southern, Sichuan Airlines",,Changde,Istanbul,10:30 AM,6:05 AM,"2h 05m,8h 50m","Guangzhou Baiyun,Chengdu Tianfu Intl",2,1,0,"2,690"
+2024-03-07,Multiple Airlines,,Changde,Istanbul,10:30 AM,6:05 AM,"5h 20m,5h 35m","Guangzhou Baiyun,Chengdu Tianfu Intl",2,1,1,"2,690"
+2024-03-07,Multiple Airlines,,Changde,Istanbul,10:30 AM,6:05 AM,"3h 55m,6h 55m","Guangzhou Baiyun,Chengdu Tianfu Intl",2,1,1,"2,690"
+2024-03-07,Multiple Airlines,,Changde,Istanbul,11:05 AM,6:05 AM,"6h 35m,2h 40m","Airport change PKX-PEK,Chengdu Tianfu Intl",2,1,1,"2,907"
+2024-03-07,"China Southern, Turkish Airlines",,Changde,Istanbul,10:30 AM,5:50 AM,11h 05m,Guangzhou Baiyun,1,1,0,"2,847"
+2024-03-07,Multiple Airlines,,Changde,Istanbul,11:05 AM,6:05 AM,"6h 35m,2h 40m","Airport change PKX-PEK,Chengdu Tianfu Intl",2,1,1,"3,535"
+2024-03-07,"China Southern, Air Astana",,Changde,Istanbul,10:30 AM,6:55 AM,"4h 55m,1h 30m,3h 20m","Guangzhou Baiyun,Urumqi,Nur-Sultan Nursultan Nazarbayev Intl",3,1,0,"4,959"
+2024-03-07,"China Southern, Air Astana",,Changde,Istanbul,7:05 AM,6:55 AM,"8h 30m,1h 30m,3h 20m","Guangzhou Baiyun,Urumqi,Nur-Sultan Nursultan Nazarbayev Intl",3,1,0,"4,959"
+2024-03-07,"China Eastern, Lufthansa",,Changde,Istanbul,5:10 PM,5:45 PM,"6h 40m,7h 00m","Chengdu Tianfu Intl,Frankfurt am Main",2,1,0,"5,972"
+2024-03-07,Multiple Airlines,,Changde,Istanbul,5:10 PM,5:45 PM,"6h 40m,7h 00m","Chengdu Tianfu Intl,Frankfurt am Main",2,1,2,"7,949"
+2024-03-08,China Southern,,Changde,Istanbul,11:05 AM,6:05 AM,11h 10m,Beijing Daxing Intl,1,1,1,748
+2024-03-08,"China Southern, Kuwait Airways",,Changde,Istanbul,10:05 AM,4:45 PM,"16h 30m,4h 20m","Guangzhou Baiyun,Kuwait City",2,1,2,"1,175"
+2024-03-08,Multiple Airlines,,Changde,Istanbul,11:05 AM,12:10 PM,"4h 45m,8h 10m","Beijing Daxing Intl,Doha Hamad Intl",2,1,1,"1,757"
+2024-03-08,"China Southern, Kuwait Airways",,Changde,Istanbul,7:05 AM,4:45 PM,"19h 35m,4h 20m","Guangzhou Baiyun,Kuwait City",2,1,2,"1,175"
+2024-03-08,"China Southern, Azerbaijan Airlines",,Changde,Istanbul,7:05 AM,9:35 AM,"3h 30m,2h 05m,10h 50m","Guangzhou Baiyun,Urumqi,Baku Heydar Aliyev",3,1,1,"1,728"
+2024-03-08,"China Southern, Azerbaijan Airlines",,Changde,Istanbul,7:05 AM,9:35 AM,"3h 30m,10h 50m","Guangzhou Baiyun,Baku Heydar Aliyev",2,1,0,"2,078"
+2024-03-08,"China Southern, Azerbaijan Airlines",,Changde,Istanbul,10:05 AM,9:35 AM,"2h 45m,7h 05m,2h 20m","Guangzhou Baiyun,Dubai Intl,Baku Heydar Aliyev",3,1,0,"2,228"
+2024-03-08,"China Southern, Azerbaijan Airlines",,Changde,Istanbul,10:05 AM,9:35 AM,"7h 30m,2h 10m,2h 20m","Guangzhou Baiyun,Dubai Intl,Baku Heydar Aliyev",3,1,0,"2,228"
+2024-03-08,Multiple Airlines,,Changde,Istanbul,11:05 AM,7:05 PM,"4h 45m,15h 05m","Beijing Daxing Intl,Doha Hamad Intl",2,1,0,"1,765"
+2024-03-08,"China Southern, Azerbaijan Airlines",,Changde,Istanbul,7:05 AM,9:35 AM,"1h 30m,4h 05m,10h 50m","Guangzhou Baiyun,Urumqi,Baku Heydar Aliyev",3,1,0,"2,071"
+2024-03-08,"China Southern, Azerbaijan Airlines",,Changde,Istanbul,7:05 AM,2:50 PM,"3h 30m,2h 05m,16h 05m","Guangzhou Baiyun,Urumqi,Baku Heydar Aliyev",3,1,1,"1,728"
+2024-03-08,"China Southern, Azerbaijan Airlines",,Changde,Istanbul,7:05 AM,9:35 AM,"10h 35m,2h 10m,2h 20m","Guangzhou Baiyun,Dubai Intl,Baku Heydar Aliyev",3,1,0,"2,228"
+2024-03-08,"China Southern, Azerbaijan Airlines",,Changde,Istanbul,7:05 AM,9:35 AM,"5h 50m,7h 05m,2h 20m","Guangzhou Baiyun,Dubai Intl,Baku Heydar Aliyev",3,1,0,"2,228"
+2024-03-08,"China Southern, Azerbaijan Airlines",,Changde,Istanbul,7:05 AM,2:50 PM,"3h 30m,16h 05m","Guangzhou Baiyun,Baku Heydar Aliyev",2,1,0,"2,078"
+2024-03-08,"China Southern, Azerbaijan Airlines",,Changde,Istanbul,10:05 AM,2:50 PM,"2h 45m,7h 05m,7h 35m","Guangzhou Baiyun,Dubai Intl,Baku Heydar Aliyev",3,1,0,"2,228"
+2024-03-08,China Southern,,Changde,Istanbul,7:05 AM,6:05 AM,"6h 25m,6h 15m","Guangzhou Baiyun,Beijing Daxing Intl",2,1,0,797
+2024-03-08,"China Eastern, China Southern",,Changde,Istanbul,11:30 AM,6:05 AM,"2h 20m,6h 35m","Hangzhou,Beijing Daxing Intl",2,1,0,"1,008"
+2024-03-08,"China Eastern, China Southern",,Changde,Istanbul,11:30 AM,6:05 AM,"7h 00m,1h 55m","Hangzhou,Beijing Daxing Intl",2,1,0,"1,008"
+2024-03-08,China Southern,,Changde,Istanbul,7:05 AM,6:05 AM,"9h 25m,3h 15m","Guangzhou Baiyun,Beijing Daxing Intl",2,1,0,797
+2024-03-08,China Southern,,Changde,Istanbul,7:05 AM,6:05 AM,"5h 25m,7h 15m","Guangzhou Baiyun,Beijing Daxing Intl",2,1,0,797
+2024-03-08,China Southern,,Changde,Istanbul,7:05 AM,6:05 AM,"10h 25m,2h 25m","Guangzhou Baiyun,Beijing Daxing Intl",2,1,0,797
+2024-03-08,China Southern,,Changde,Istanbul,7:05 AM,6:05 AM,"11h 25m,1h 30m","Guangzhou Baiyun,Beijing Daxing Intl",2,1,0,797
+2024-03-08,China Southern,,Changde,Istanbul,7:00 AM,6:05 AM,"7h 55m,4h 45m","Shenzhen,Beijing Daxing Intl",2,1,0,854
+2024-03-08,China Southern,,Changde,Istanbul,7:00 AM,6:05 AM,"1h 55m,10h 50m","Shenzhen,Beijing Daxing Intl",2,1,0,854
+2024-03-08,China Southern,,Changde,Istanbul,7:00 AM,6:05 AM,"5h 55m,6h 45m","Shenzhen,Beijing Daxing Intl",2,1,0,854
+2024-03-08,China Southern,,Changde,Istanbul,7:00 AM,6:05 AM,"9h 55m,2h 55m","Shenzhen,Beijing Daxing Intl",2,1,0,854
+2024-03-08,China Southern,,Changde,Istanbul,7:00 AM,6:05 AM,"10h 55m,1h 55m","Shenzhen,Beijing Daxing Intl",2,1,0,854
+2024-03-08,China Southern,,Changde,Istanbul,7:00 AM,6:05 AM,"4h 55m,7h 55m","Shenzhen,Beijing Daxing Intl",2,1,0,854
+2024-03-08,China Southern,,Changde,Istanbul,7:00 AM,6:05 AM,"6h 55m,5h 55m","Shenzhen,Beijing Daxing Intl",2,1,0,854
+2024-03-08,China Southern,,Changde,Istanbul,7:00 AM,6:05 AM,"0h 55m,11h 55m","Shenzhen,Beijing Daxing Intl",2,1,0,854
+2024-03-08,Multiple Airlines,,Changde,Istanbul,5:10 PM,1:35 PM,"6h 45m,3h 15m","Chengdu Tianfu Intl,Cairo",2,1,1,"1,444"
+2024-03-08,China Southern,,Changde,Istanbul,7:00 AM,6:05 AM,"2h 55m,9h 55m","Shenzhen,Beijing Daxing Intl",2,1,0,854
+2024-03-08,China Southern,,Changde,Istanbul,7:00 AM,6:05 AM,"3h 55m,8h 55m","Shenzhen,Beijing Daxing Intl",2,1,0,854
+2024-03-08,China Southern,,Changde,Istanbul,7:00 AM,6:05 AM,"8h 55m,3h 55m","Shenzhen,Beijing Daxing Intl",2,1,0,854
+2024-03-08,Multiple Airlines,,Changde,Istanbul,5:10 PM,5:50 PM,"6h 45m,7h 35m","Chengdu Tianfu Intl,Cairo",2,1,1,"1,284"
+2024-03-08,"China Southern, Uzbekistan Airways",,Changde,Istanbul,11:05 AM,4:30 AM,"2h 05m,5h 40m","Beijing Daxing Intl,Tashkent Vostochny",2,1,1,"1,841"
+2024-03-08,"China Southern, China Eastern",,Changde,Istanbul,10:05 AM,8:30 AM,"6h 50m,4h 40m","Guangzhou Baiyun,Airport change SHA-PVG",2,1,0,"1,606"
+2024-03-08,Multiple Airlines,,Changde,Istanbul,10:05 AM,8:30 AM,"8h 30m,3h 00m","Guangzhou Baiyun,Shanghai Pu Dong",2,1,1,"1,606"
+2024-03-08,"China Southern, China Eastern",,Changde,Istanbul,10:05 AM,8:30 AM,"4h 50m,6h 35m","Guangzhou Baiyun,Airport change SHA-PVG",2,1,0,"1,606"
+2024-03-08,"China Eastern, China Southern",,Changde,Istanbul,11:30 AM,6:05 AM,"3h 25m,5h 30m","Hangzhou,Beijing Daxing Intl",2,1,0,"1,790"
+2024-03-08,"China Eastern, China Southern",,Changde,Istanbul,11:30 AM,6:05 AM,"4h 00m,4h 45m","Hangzhou,Beijing Daxing Intl",2,1,0,"1,790"
+2024-03-08,"China Southern, China Eastern",,Changde,Istanbul,10:05 AM,8:30 AM,"8h 30m,3h 00m","Guangzhou Baiyun,Shanghai Pu Dong",2,1,0,"1,606"
+2024-03-08,"China Southern, China Eastern",,Changde,Istanbul,10:05 AM,8:30 AM,"3h 50m,7h 40m","Guangzhou Baiyun,Airport change SHA-PVG",2,1,0,"1,606"
+2024-03-08,Multiple Airlines,,Changde,Istanbul,10:05 AM,8:30 AM,"5h 50m,5h 40m","Guangzhou Baiyun,Airport change SHA-PVG",2,1,0,"1,606"
+2024-03-08,Multiple Airlines,,Changde,Istanbul,7:05 AM,8:30 AM,"11h 35m,3h 00m","Guangzhou Baiyun,Shanghai Pu Dong",2,1,0,"1,606"
+2024-03-08,Multiple Airlines,,Changde,Istanbul,7:05 AM,8:30 AM,"4h 15m,10h 25m","Guangzhou Baiyun,Shanghai Pu Dong",2,1,0,"1,606"
+2024-03-08,"China Southern, China Eastern",,Changde,Istanbul,7:05 AM,8:30 AM,"4h 15m,10h 25m","Guangzhou Baiyun,Shanghai Pu Dong",2,1,0,"1,606"
+2024-03-08,Multiple Airlines,,Changde,Istanbul,7:05 AM,8:30 AM,"4h 55m,9h 50m","Guangzhou Baiyun,Airport change SHA-PVG",2,1,0,"1,606"
+2024-03-08,"China Southern, China Eastern",,Changde,Istanbul,7:05 AM,8:30 AM,"3h 55m,10h 40m","Guangzhou Baiyun,Airport change SHA-PVG",2,1,0,"1,606"
+2024-03-08,"China Southern, China Eastern",,Changde,Istanbul,7:05 AM,8:30 AM,"11h 35m,3h 00m","Guangzhou Baiyun,Shanghai Pu Dong",2,1,0,"1,606"
+2024-03-08,Multiple Airlines,,Changde,Istanbul,7:05 AM,8:30 AM,"3h 55m,10h 40m","Guangzhou Baiyun,Airport change SHA-PVG",2,1,0,"1,606"
+2024-03-08,"China Southern, China Eastern",,Changde,Istanbul,7:05 AM,8:30 AM,"4h 55m,9h 50m","Guangzhou Baiyun,Airport change SHA-PVG",2,1,0,"1,606"
+2024-03-08,Multiple Airlines,,Changde,Istanbul,11:05 AM,12:10 PM,"4h 45m,8h 10m","Beijing Daxing Intl,Doha Hamad Intl",2,1,1,"1,757"
+2024-03-08,Multiple Airlines,,Changde,Istanbul,11:05 AM,12:20 PM,"4h 45m,8h 20m","Beijing Daxing Intl,Doha Hamad Intl",2,1,0,"1,760"
+2024-03-08,"China Southern, Azerbaijan Airlines",,Changde,Istanbul,7:05 AM,6:25 AM,"3h 30m,2h 05m,7h 30m","Guangzhou Baiyun,Urumqi,Baku Heydar Aliyev",3,1,0,"2,010"
+2024-03-08,"China Eastern, China Southern",,Changde,Istanbul,5:10 PM,8:30 AM,"1h 05m,2h 45m","Chengdu Tianfu Intl,Shanghai Pu Dong",2,1,0,"2,514"
+2024-03-08,"China Southern, Azerbaijan Airlines",,Changde,Istanbul,10:05 AM,9:35 AM,"2h 45m,7h 05m,2h 20m","Guangzhou Baiyun,Dubai Intl,Baku Heydar Aliyev",3,1,0,"2,228"
+2024-03-08,"China Southern, Azerbaijan Airlines",,Changde,Istanbul,10:05 AM,9:35 AM,"7h 30m,2h 10m,2h 20m","Guangzhou Baiyun,Dubai Intl,Baku Heydar Aliyev",3,1,0,"2,228"
+2024-03-08,"China Southern, Thai Airways",,Changde,Istanbul,7:05 AM,6:05 AM,"6h 15m,6h 35m","Guangzhou Baiyun,Bangkok Suvarnabhumi",2,1,0,"5,402"
+2024-03-09,"China Southern, Sichuan Airlines",28h 20m,Changde,Istanbul,7:05 AM,6:25 AM,"5h 00m,9h 20m","Guangzhou Baiyun,Airport change CTU-TFU",2,1,0,"2,690"
+2024-03-09,"China Southern, Malaysia Airlines",28h 00m,Changde,Istanbul,7:05 AM,6:05 AM,"6h 05m,5h 00m","Guangzhou Baiyun,Kuala Lumpur Intl",2,1,0,"3,107"
+2024-03-09,"China Southern, Sichuan Airlines",24h 20m,Changde,Istanbul,11:05 AM,6:25 AM,"2h 40m,6h 20m","Beijing Daxing Intl,Chengdu Tianfu Intl",2,1,0,"3,387"
+2024-03-09,"China Southern, Sichuan Airlines",24h 20m,Changde,Istanbul,11:05 AM,6:25 AM,"3h 40m,5h 40m","Beijing Daxing Intl,Airport change CTU-TFU",2,1,0,"3,387"
+2024-03-09,Multiple Airlines,24h 20m,Changde,Istanbul,11:05 AM,6:25 AM,"6h 35m,2h 40m","Airport change PKX-PEK,Chengdu Tianfu Intl",2,1,1,"3,535"
+2024-03-09,"China Southern, Malaysia Airlines",28h 00m,Changde,Istanbul,7:05 AM,6:05 AM,"3h 50m,6h 50m","Guangzhou Baiyun,Kuala Lumpur Intl",2,1,0,"3,700"
+2024-03-09,"China Southern, Thai Airways",28h 00m,Changde,Istanbul,7:05 AM,6:05 AM,"6h 15m,6h 35m","Guangzhou Baiyun,Bangkok Suvarnabhumi",2,1,0,"5,402"
+2024-03-09,"China Eastern, Lufthansa",29h 55m,Changde,Istanbul,5:10 PM,6:05 PM,"6h 40m,7h 20m","Chengdu Tianfu Intl,Frankfurt am Main",2,1,0,"5,972"
+2024-03-09,Multiple Airlines,29h 55m,Changde,Istanbul,5:10 PM,6:05 PM,"6h 40m,7h 20m","Chengdu Tianfu Intl,Frankfurt am Main",2,1,2,"7,949"
+2024-03-10,"China Southern, Qatar Airways",,Changde,Istanbul,7:05 AM,12:20 PM,"3h 50m,9h 25m,2h 35m","Guangzhou Baiyun,Kuala Lumpur Intl,Doha Hamad Intl",3,1,0,941
+2024-03-10,Multiple Airlines,,Changde,Istanbul,7:05 AM,7:00 AM,"3h 50m,4h 15m,2h 15m","Guangzhou Baiyun,Kuala Lumpur Intl,Abu Dhabi Intl",3,1,0,"1,090"
+2024-03-10,"China Southern, Egypt Air",,Changde,Istanbul,7:05 AM,1:00 PM,"14h 45m,4h 25m","Guangzhou Baiyun,Cairo",2,1,2,"1,409"
+2024-03-10,"China Southern, Emirates",,Changde,Istanbul,7:05 AM,1:20 PM,"3h 50m,2h 05m,10h 50m","Guangzhou Baiyun,Kuala Lumpur Intl,Dubai Intl",3,1,0,"1,023"
+2024-03-10,"China Southern, Egypt Air",,Changde,Istanbul,10:05 AM,5:50 PM,"11h 40m,9h 15m","Guangzhou Baiyun,Cairo",2,1,2,"1,408"
+2024-03-10,Multiple Airlines,,Changde,Istanbul,5:10 PM,12:45 AM,"6h 45m,14h 30m","Chengdu Tianfu Intl,Cairo",2,1,1,"1,444"
+2024-03-10,Multiple Airlines,,Changde,Istanbul,11:05 AM,12:20 PM,"4h 45m,8h 20m","Beijing Daxing Intl,Doha Hamad Intl",2,1,0,"1,760"
+2024-03-10,Multiple Airlines,,Changde,Istanbul,11:05 AM,12:05 PM,"4h 45m,8h 05m","Beijing Daxing Intl,Doha Hamad Intl",2,1,1,"1,817"
+2024-03-10,"China Southern, Egypt Air",,Changde,Istanbul,10:05 AM,1:35 PM,"11h 40m,4h 55m","Guangzhou Baiyun,Cairo",2,1,2,"1,722"
+2024-03-10,"China Southern, Egypt Air",,Changde,Istanbul,7:05 AM,1:35 PM,"14h 45m,4h 55m","Guangzhou Baiyun,Cairo",2,1,2,"1,722"
+2024-03-10,Multiple Airlines,,Changde,Istanbul,11:30 AM,4:00 PM,"3h 05m,2h 20m,9h 45m","Hangzhou,Xiamen Gaoqi Intl,Kuala Lumpur Intl",3,1,0,"1,458"
+2024-03-10,Multiple Airlines,,Changde,Istanbul,11:05 AM,6:35 PM,"4h 45m,14h 35m","Beijing Daxing Intl,Doha Hamad Intl",2,1,0,"1,765"
+2024-03-10,Multiple Airlines,,Changde,Istanbul,11:05 AM,7:05 PM,"4h 45m,15h 05m","Beijing Daxing Intl,Doha Hamad Intl",2,1,0,"1,765"
+2024-03-10,"China Eastern, Batik Air",,Changde,Istanbul,5:10 PM,10:45 PM,"1h 35m,10h 15m,2h 00m","Chengdu Tianfu Intl,Shanghai Hongqiao Intl,Kuala Lumpur Intl",3,1,0,"1,545"
+2024-03-10,"China Southern, Azerbaijan Airlines",,Changde,Istanbul,10:05 AM,9:35 AM,"2h 45m,7h 20m,2h 05m","Guangzhou Baiyun,Dubai Intl,Baku Heydar Aliyev",3,1,0,"2,228"
+2024-03-10,"China Southern, Azerbaijan Airlines",,Changde,Istanbul,10:05 AM,9:35 AM,"7h 30m,2h 25m,2h 05m","Guangzhou Baiyun,Dubai Intl,Baku Heydar Aliyev",3,1,0,"2,228"
+2024-03-10,"China Southern, Turkish Airlines",,Changde,Istanbul,10:05 AM,4:00 PM,"4h 55m,3h 50m,7h 15m","Guangzhou Baiyun,Changsha Huanghua Intl,Kuala Lumpur Intl",3,1,0,"1,585"
+2024-03-10,"China Southern, Azerbaijan Airlines",,Changde,Istanbul,7:05 AM,9:35 AM,"5h 50m,7h 20m,2h 05m","Guangzhou Baiyun,Dubai Intl,Baku Heydar Aliyev",3,1,0,"2,228"
+2024-03-10,"China Southern, Azerbaijan Airlines",,Changde,Istanbul,7:05 AM,9:35 AM,"10h 35m,2h 25m,2h 05m","Guangzhou Baiyun,Dubai Intl,Baku Heydar Aliyev",3,1,0,"2,228"
+2024-03-10,"China Southern, Turkish Airlines",,Changde,Istanbul,11:05 AM,4:00 PM,"3h 55m,2h 00m,7h 15m","Beijing Daxing Intl,Changsha Huanghua Intl,Kuala Lumpur Intl",3,1,0,"1,829"
+2024-03-10,"China Southern, Azerbaijan Airlines",,Changde,Istanbul,10:05 AM,3:45 PM,"7h 30m,2h 25m,8h 15m","Guangzhou Baiyun,Dubai Intl,Baku Heydar Aliyev",3,1,0,"2,228"
+2024-03-10,"China Southern, Azerbaijan Airlines",,Changde,Istanbul,10:05 AM,3:45 PM,"2h 45m,7h 20m,8h 15m","Guangzhou Baiyun,Dubai Intl,Baku Heydar Aliyev",3,1,0,"2,228"
+2024-03-10,Multiple Airlines,,Changde,Istanbul,10:05 AM,6:05 AM,"3h 40m,1h 25m,1h 55m","Guangzhou Baiyun,Ho Chi Minh City,Kuala Lumpur Intl",3,1,0,"2,471"
+2024-03-10,"China Southern, Azerbaijan Airlines",,Changde,Istanbul,7:05 AM,3:45 PM,"5h 50m,7h 20m,8h 15m","Guangzhou Baiyun,Dubai Intl,Baku Heydar Aliyev",3,1,0,"2,228"
+2024-03-10,"China Southern, Azerbaijan Airlines",,Changde,Istanbul,7:05 AM,3:45 PM,"10h 35m,2h 25m,8h 15m","Guangzhou Baiyun,Dubai Intl,Baku Heydar Aliyev",3,1,0,"2,228"
+2024-03-10,Multiple Airlines,,Changde,Istanbul,10:05 AM,4:00 PM,"3h 40m,1h 25m,12h 00m","Guangzhou Baiyun,Ho Chi Minh City,Kuala Lumpur Intl",3,1,0,"2,494"
+2024-03-10,Multiple Airlines,,Changde,Istanbul,7:05 AM,9:15 AM,"3h 50m,6h 05m,2h 55m","Guangzhou Baiyun,Kuala Lumpur Intl,Dubai Intl",3,1,0,"2,887"
+2024-03-10,Multiple Airlines,,Changde,Istanbul,7:05 AM,1:20 PM,"3h 50m,6h 05m,6h 50m","Guangzhou Baiyun,Kuala Lumpur Intl,Dubai Intl",3,1,0,"2,840"
+2024-03-10,"China Southern, flydubai",,Changde,Istanbul,10:05 AM,1:20 PM,"7h 30m,9h 10m","Guangzhou Baiyun,Dubai Intl",2,1,0,"3,739"
+2024-03-10,"China Southern, flydubai",,Changde,Istanbul,10:05 AM,1:20 PM,"2h 45m,14h 05m","Guangzhou Baiyun,Dubai Intl",2,1,0,"3,739"
+2024-03-10,"China Southern, flydubai",,Changde,Istanbul,10:05 AM,3:35 PM,"7h 30m,11h 25m","Guangzhou Baiyun,Dubai Intl",2,1,0,"3,739"
+2024-03-10,"China Southern, flydubai",,Changde,Istanbul,10:05 AM,3:35 PM,"2h 45m,16h 20m","Guangzhou Baiyun,Dubai Intl",2,1,0,"3,739"
+2024-03-10,"China Southern, flydubai",,Changde,Istanbul,7:05 AM,1:20 PM,"10h 35m,9h 10m","Guangzhou Baiyun,Dubai Intl",2,1,0,"3,739"
+2024-03-10,"China Southern, Etihad Airways",,Changde,Istanbul,11:05 AM,6:15 AM,"6h 40m,1h 10m","Beijing Daxing Intl,Abu Dhabi Intl",2,1,0,"5,022"
+2024-03-10,"China Southern, Air Astana",,Changde,Istanbul,10:05 AM,6:55 AM,"5h 30m,1h 30m,3h 20m","Guangzhou Baiyun,Urumqi,Nur-Sultan Nursultan Nazarbayev Intl",3,1,0,"4,959"
+2024-03-10,"China Southern, Air Astana",,Changde,Istanbul,7:05 AM,6:55 AM,"8h 35m,1h 30m,3h 20m","Guangzhou Baiyun,Urumqi,Nur-Sultan Nursultan Nazarbayev Intl",3,1,0,"4,959"
+2024-03-10,"China Southern, Thai Airways",,Changde,Istanbul,7:05 AM,6:05 AM,"6h 15m,6h 35m","Guangzhou Baiyun,Bangkok Suvarnabhumi",2,1,0,"5,402"
+2024-03-10,Multiple Airlines,,Changde,Istanbul,11:05 AM,1:55 PM,"13h 10m,2h 50m","Airport change PKX-PEK,Warsaw Frederic Chopin",2,1,1,"5,634"
+2024-03-10,Multiple Airlines,,Changde,Istanbul,11:05 AM,5:30 PM,"13h 10m,6h 20m","Airport change PKX-PEK,Warsaw Frederic Chopin",2,1,1,"5,634"
+2024-03-11,China Southern,,Changde,Istanbul,11:05 AM,6:05 AM,11h 10m,Beijing Daxing Intl,1,1,1,711
+2024-03-11,China Southern,,Changde,Istanbul,10:30 AM,6:05 AM,"3h 50m,5h 15m","Guangzhou Baiyun,Beijing Daxing Intl",2,1,1,797
+2024-03-11,China Southern,,Changde,Istanbul,7:05 AM,6:05 AM,"1h 25m,11h 35m","Guangzhou Baiyun,Beijing Daxing Intl",2,1,1,797
+2024-03-11,China Southern,,Changde,Istanbul,7:05 AM,6:05 AM,"7h 25m,5h 15m","Guangzhou Baiyun,Beijing Daxing Intl",2,1,1,797
+2024-03-11,China Southern,,Changde,Istanbul,7:05 AM,6:05 AM,"2h 25m,10h 35m","Guangzhou Baiyun,Beijing Daxing Intl",2,1,1,797
+2024-03-11,China Southern,,Changde,Istanbul,7:00 AM,6:05 AM,"1h 55m,10h 45m","Shenzhen,Beijing Daxing Intl",2,1,1,854
+2024-03-11,China Southern,,Changde,Istanbul,7:00 AM,6:05 AM,"9h 55m,2h 55m","Shenzhen,Beijing Daxing Intl",2,1,1,854
+2024-03-11,China Southern,,Changde,Istanbul,7:00 AM,6:05 AM,"0h 55m,11h 55m","Shenzhen,Beijing Daxing Intl",2,1,1,854
+2024-03-11,China Southern,,Changde,Istanbul,7:00 AM,6:05 AM,"6h 55m,5h 55m","Shenzhen,Beijing Daxing Intl",2,1,1,854
+2024-03-11,China Southern,,Changde,Istanbul,7:00 AM,6:05 AM,"3h 55m,8h 55m","Shenzhen,Beijing Daxing Intl",2,1,1,854
+2024-03-11,China Southern,,Changde,Istanbul,7:00 AM,6:05 AM,"10h 55m,1h 55m","Shenzhen,Beijing Daxing Intl",2,1,1,854
+2024-03-11,China Southern,,Changde,Istanbul,7:00 AM,6:05 AM,"8h 55m,3h 55m","Shenzhen,Beijing Daxing Intl",2,1,1,854
+2024-03-11,China Southern,,Changde,Istanbul,7:00 AM,6:05 AM,"2h 55m,10h 05m","Shenzhen,Beijing Daxing Intl",2,1,1,854
+2024-03-11,China Southern,,Changde,Istanbul,7:00 AM,6:05 AM,"7h 55m,4h 45m","Shenzhen,Beijing Daxing Intl",2,1,1,854
+2024-03-11,China Southern,,Changde,Istanbul,7:00 AM,6:05 AM,"4h 55m,7h 55m","Shenzhen,Beijing Daxing Intl",2,1,1,854
+2024-03-11,China Southern,,Changde,Istanbul,7:05 AM,6:05 AM,"5h 25m,7h 15m","Guangzhou Baiyun,Beijing Daxing Intl",2,1,1,797
+2024-03-11,"China Eastern, China Southern",,Changde,Istanbul,11:30 AM,6:05 AM,"7h 00m,1h 55m","Hangzhou,Beijing Daxing Intl",2,1,0,"1,008"
+2024-03-11,"China Eastern, China Southern",,Changde,Istanbul,11:30 AM,6:05 AM,"2h 20m,6h 35m","Hangzhou,Beijing Daxing Intl",2,1,0,"1,008"
+2024-03-11,China Southern,,Changde,Istanbul,7:05 AM,6:05 AM,"9h 25m,3h 15m","Guangzhou Baiyun,Beijing Daxing Intl",2,1,1,797
+2024-03-11,China Southern,,Changde,Istanbul,7:05 AM,6:05 AM,"6h 25m,6h 15m","Guangzhou Baiyun,Beijing Daxing Intl",2,1,1,797
+2024-03-11,China Southern,,Changde,Istanbul,7:05 AM,6:05 AM,"10h 25m,2h 35m","Guangzhou Baiyun,Beijing Daxing Intl",2,1,1,797
+2024-03-11,China Southern,,Changde,Istanbul,7:05 AM,6:05 AM,"11h 25m,1h 30m","Guangzhou Baiyun,Beijing Daxing Intl",2,1,1,797
+2024-03-11,China Southern,,Changde,Istanbul,7:00 AM,6:05 AM,"1h 55m,10h 45m","Shenzhen,Beijing Daxing Intl",2,1,1,854
+2024-03-11,China Southern,,Changde,Istanbul,7:00 AM,6:05 AM,"9h 55m,2h 55m","Shenzhen,Beijing Daxing Intl",2,1,1,854
+2024-03-11,China Southern,,Changde,Istanbul,7:00 AM,6:05 AM,"0h 55m,11h 55m","Shenzhen,Beijing Daxing Intl",2,1,1,854
+2024-03-11,China Southern,,Changde,Istanbul,7:00 AM,6:05 AM,"6h 55m,5h 55m","Shenzhen,Beijing Daxing Intl",2,1,1,854
+2024-03-11,China Southern,,Changde,Istanbul,7:00 AM,6:05 AM,"3h 55m,8h 55m","Shenzhen,Beijing Daxing Intl",2,1,1,854
+2024-03-11,China Southern,,Changde,Istanbul,7:00 AM,6:05 AM,"10h 55m,1h 55m","Shenzhen,Beijing Daxing Intl",2,1,1,854
+2024-03-11,China Southern,,Changde,Istanbul,7:00 AM,6:05 AM,"7h 55m,4h 45m","Shenzhen,Beijing Daxing Intl",2,1,1,854
+2024-03-11,China Southern,,Changde,Istanbul,7:00 AM,6:05 AM,"4h 55m,7h 55m","Shenzhen,Beijing Daxing Intl",2,1,1,854
+2024-03-11,China Southern,,Changde,Istanbul,7:00 AM,6:05 AM,"5h 55m,6h 45m","Shenzhen,Beijing Daxing Intl",2,1,1,854
+2024-03-11,China Southern,,Changde,Istanbul,7:00 AM,6:05 AM,"8h 55m,3h 55m","Shenzhen,Beijing Daxing Intl",2,1,1,854
+2024-03-11,China Southern,,Changde,Istanbul,7:00 AM,6:05 AM,"2h 55m,10h 05m","Shenzhen,Beijing Daxing Intl",2,1,1,854
+2024-03-11,Multiple Airlines,,Changde,Istanbul,5:10 PM,1:35 PM,"6h 45m,3h 15m","Chengdu Tianfu Intl,Cairo",2,1,1,"1,444"
+2024-03-11,Multiple Airlines,,Changde,Istanbul,5:10 PM,5:50 PM,"6h 45m,7h 35m","Chengdu Tianfu Intl,Cairo",2,1,1,"1,284"
+2024-03-11,"China Southern, Uzbekistan Airways",,Changde,Istanbul,11:05 AM,4:30 AM,"2h 05m,5h 40m","Beijing Daxing Intl,Tashkent Vostochny",2,1,1,"1,836"
+2024-03-11,"China Southern, Azerbaijan Airlines",,Changde,Istanbul,11:05 AM,9:35 AM,"11h 40m,2h 35m","Airport change PKX-PEK,Baku Heydar Aliyev",2,1,1,"1,481"
+2024-03-11,"China Southern, Azerbaijan Airlines",,Changde,Istanbul,11:05 AM,10:55 AM,"11h 40m,3h 50m","Airport change PKX-PEK,Baku Heydar Aliyev",2,1,0,"1,487"
+2024-03-11,Multiple Airlines,,Changde,Istanbul,10:30 AM,8:30 AM,"8h 00m,3h 00m","Guangzhou Baiyun,Shanghai Pu Dong",2,1,0,"1,606"
+2024-03-11,"China Southern, China Eastern",,Changde,Istanbul,10:30 AM,8:30 AM,"5h 20m,5h 40m","Guangzhou Baiyun,Airport change SHA-PVG",2,1,0,"1,606"
+2024-03-11,"China Southern, China Eastern",,Changde,Istanbul,10:30 AM,8:30 AM,"8h 00m,3h 00m","Guangzhou Baiyun,Shanghai Pu Dong",2,1,0,"1,606"
+2024-03-11,"China Southern, China Eastern",,Changde,Istanbul,10:30 AM,8:30 AM,"6h 20m,4h 40m","Guangzhou Baiyun,Airport change SHA-PVG",2,1,0,"1,606"
+2024-03-11,Multiple Airlines,,Changde,Istanbul,10:30 AM,8:30 AM,"5h 20m,5h 40m","Guangzhou Baiyun,Airport change SHA-PVG",2,1,0,"1,606"
+2024-03-11,"China Southern, China Eastern",,Changde,Istanbul,10:30 AM,8:30 AM,"4h 20m,6h 35m","Guangzhou Baiyun,Airport change SHA-PVG",2,1,0,"1,606"
+2024-03-11,Multiple Airlines,,Changde,Istanbul,11:30 AM,12:10 PM,"3h 05m,6h 20m,2h 40m","Hangzhou,Xiamen Gaoqi Intl,Doha Hamad Intl",3,1,0,"1,339"
+2024-03-11,Multiple Airlines,,Changde,Istanbul,11:05 AM,7:00 AM,"4h 45m,3h 00m","Beijing Daxing Intl,Doha Hamad Intl",2,1,0,"1,760"
+2024-03-11,Multiple Airlines,,Changde,Istanbul,7:05 AM,8:30 AM,"4h 15m,10h 25m","Guangzhou Baiyun,Shanghai Pu Dong",2,1,0,"1,606"
+2024-03-11,Multiple Airlines,,Changde,Istanbul,7:05 AM,8:30 AM,"11h 35m,3h 00m","Guangzhou Baiyun,Shanghai Pu Dong",2,1,0,"1,606"
+2024-03-11,"China Southern, China Eastern",,Changde,Istanbul,7:05 AM,8:30 AM,"11h 35m,3h 00m","Guangzhou Baiyun,Shanghai Pu Dong",2,1,0,"1,606"
+2024-03-11,Multiple Airlines,,Changde,Istanbul,7:05 AM,8:30 AM,"4h 55m,9h 50m","Guangzhou Baiyun,Airport change SHA-PVG",2,1,0,"1,606"
+2024-03-11,Multiple Airlines,,Changde,Istanbul,7:05 AM,8:30 AM,"3h 55m,10h 40m","Guangzhou Baiyun,Airport change SHA-PVG",2,1,0,"1,606"
+2024-03-11,"China Southern, China Eastern",,Changde,Istanbul,7:05 AM,8:30 AM,"3h 55m,10h 40m","Guangzhou Baiyun,Airport change SHA-PVG",2,1,0,"1,606"
+2024-03-11,"China Southern, China Eastern",,Changde,Istanbul,7:05 AM,8:30 AM,"4h 55m,9h 50m","Guangzhou Baiyun,Airport change SHA-PVG",2,1,0,"1,606"
+2024-03-11,"China Southern, China Eastern",,Changde,Istanbul,7:05 AM,8:30 AM,"4h 15m,10h 25m","Guangzhou Baiyun,Shanghai Pu Dong",2,1,0,"1,606"
+2024-03-11,"China Eastern, Asiana Airlines",,Changde,Istanbul,5:10 PM,3:40 PM,"5h 40m,4h 30m","Chengdu Tianfu Intl,Incheon Intl",2,1,0,"1,831"
+2024-03-11,Multiple Airlines,,Changde,Istanbul,11:05 AM,12:10 PM,"4h 45m,8h 10m","Beijing Daxing Intl,Doha Hamad Intl",2,1,1,"1,757"
+2024-03-11,Multiple Airlines,,Changde,Istanbul,11:05 AM,12:20 PM,"4h 45m,8h 20m","Beijing Daxing Intl,Doha Hamad Intl",2,1,0,"1,760"
+2024-03-11,"China Southern, Azerbaijan Airlines",,Changde,Istanbul,7:05 AM,6:25 AM,"3h 30m,2h 05m,7h 30m","Guangzhou Baiyun,Urumqi,Baku Heydar Aliyev",3,1,0,"2,010"
+2024-03-11,"China Southern, Azerbaijan Airlines",,Changde,Istanbul,10:30 AM,9:35 AM,"7h 00m,2h 10m,2h 20m","Guangzhou Baiyun,Dubai Intl,Baku Heydar Aliyev",3,1,0,"2,228"
+2024-03-11,"China Southern, Turkish Airlines",,Changde,Istanbul,7:05 AM,5:50 AM,14h 40m,Guangzhou Baiyun,1,1,0,"2,845"
+2024-03-11,Multiple Airlines,,Changde,Istanbul,11:30 AM,6:05 AM,"2h 45m,6h 15m","Hangzhou,Airport change PEK-PKX",2,1,1,"4,385"
+2024-03-11,"China Southern, Thai Airways",,Changde,Istanbul,7:05 AM,6:05 AM,"6h 15m,6h 35m","Guangzhou Baiyun,Bangkok Suvarnabhumi",2,1,0,"5,402"
+2024-03-12,"China Eastern, Sichuan Airlines",17h 55m,Changde,Istanbul,,,6h 40m,Chengdu Tianfu Intl,0,1,2,"1,168"
+2024-03-12,China Southern,49h 00m,Changde,Istanbul,,,"21h 20m,12h 30m","Guangzhou Baiyun,Beijing Daxing Intl",0,1,1,797
+2024-03-12,Multiple Airlines,24h 50m,Changde,Istanbul,,,"6h 45m,2h 45m","Chengdu Tianfu Intl,Cairo",0,1,2,"1,279"
+2024-03-12,Multiple Airlines,29h 40m,Changde,Istanbul,,,"6h 45m,7h 35m","Chengdu Tianfu Intl,Cairo",0,1,2,"1,277"
+2024-03-12,"China Southern, Sichuan Airlines",25h 00m,Changde,Istanbul,,,"5h 15m,6h 25m","Guangzhou Baiyun,Chengdu Tianfu Intl",0,1,0,"1,319"
+2024-03-12,Multiple Airlines,25h 25m,Changde,Istanbul,,,"6h 45m,3h 15m","Chengdu Tianfu Intl,Cairo",0,1,1,"1,444"
+2024-03-12,"China Southern, Sichuan Airlines",28h 00m,Changde,Istanbul,,,"4h 20m,9h 50m","Guangzhou Baiyun,Airport change CTU-TFU",0,1,0,"1,319"
+2024-03-12,"China Southern, Sichuan Airlines",28h 00m,Changde,Istanbul,,,"3h 20m,11h 20m","Guangzhou Baiyun,Chengdu Tianfu Intl",0,1,0,"1,319"
+2024-03-12,"China Southern, Sichuan Airlines",28h 00m,Changde,Istanbul,,,"8h 20m,6h 25m","Guangzhou Baiyun,Chengdu Tianfu Intl",0,1,0,"1,319"
+2024-03-12,"China Southern, Sichuan Airlines",24h 00m,Changde,Istanbul,,,"7h 10m,2h 20m","Airport change PKX-PEK,Chengdu Tianfu Intl",0,1,0,"1,662"
+2024-03-12,"China Southern, Sichuan Airlines",28h 05m,Changde,Istanbul,,,"8h 00m,6h 35m","Shenzhen,Chengdu Tianfu Intl",0,1,1,"1,371"
+2024-03-12,Multiple Airlines,30h 15m,Changde,Istanbul,,,"4h 45m,8h 20m","Beijing Daxing Intl,Doha Hamad Intl",0,1,0,"1,532"
+2024-03-12,Multiple Airlines,24h 00m,Changde,Istanbul,,,"2h 35m,6h 30m","Beijing Daxing Intl,Airport change CTU-TFU",0,1,0,"2,276"
+2024-03-12,Multiple Airlines,30h 05m,Changde,Istanbul,,,"4h 45m,8h 10m","Beijing Daxing Intl,Doha Hamad Intl",0,1,1,"1,757"
+2024-03-12,Multiple Airlines,28h 00m,Changde,Istanbul,,,"6h 15m,7h 55m","Guangzhou Baiyun,Chengdu Tianfu Intl",0,1,0,"1,837"
+2024-03-13,China Southern,24h 00m,Changde,Istanbul,,,11h 10m,Beijing Daxing Intl,0,1,2,705
+2024-03-13,China Southern,24h 35m,Changde,Istanbul,,,"2h 50m,6h 15m","Guangzhou Baiyun,Beijing Daxing Intl",0,1,2,787
+2024-03-13,China Southern,24h 35m,Changde,Istanbul,,,"0h 50m,8h 30m","Guangzhou Baiyun,Beijing Daxing Intl",0,1,2,787
+2024-03-13,China Southern,24h 35m,Changde,Istanbul,,,"3h 50m,5h 15m","Guangzhou Baiyun,Beijing Daxing Intl",0,1,2,787
+2024-03-13,China Southern,24h 35m,Changde,Istanbul,,,"1h 50m,7h 15m","Guangzhou Baiyun,Beijing Daxing Intl",0,1,2,787
+2024-03-13,China Southern,24h 35m,Changde,Istanbul,,,"6h 50m,2h 25m","Guangzhou Baiyun,Beijing Daxing Intl",0,1,0,797
+2024-03-13,China Southern,24h 35m,Changde,Istanbul,,,"5h 50m,3h 15m","Guangzhou Baiyun,Beijing Daxing Intl",0,1,0,797
+2024-03-13,China Southern,24h 35m,Changde,Istanbul,,,"7h 50m,1h 30m","Guangzhou Baiyun,Beijing Daxing Intl",0,1,0,797
+2024-03-13,"China Eastern, China Southern",23h 35m,Changde,Istanbul,,,"7h 00m,1h 55m","Hangzhou,Beijing Daxing Intl",0,1,0,"1,008"
+2024-03-13,Multiple Airlines,24h 50m,Changde,Istanbul,,,"6h 45m,2h 45m","Chengdu Tianfu Intl,Cairo",0,1,2,"1,279"
+2024-03-13,China Southern,28h 00m,Changde,Istanbul,,,"4h 25m,8h 30m","Guangzhou Baiyun,Beijing Daxing Intl",0,1,2,787
+2024-03-13,China Southern,28h 00m,Changde,Istanbul,,,"1h 25m,11h 35m","Guangzhou Baiyun,Beijing Daxing Intl",0,1,2,787
+2024-03-13,China Southern,28h 00m,Changde,Istanbul,,,"2h 25m,10h 30m","Guangzhou Baiyun,Beijing Daxing Intl",0,1,2,787
+2024-03-13,"China Eastern, China Southern",23h 35m,Changde,Istanbul,,,"2h 20m,6h 35m","Hangzhou,Beijing Daxing Intl",0,1,0,"1,008"
+2024-03-13,China Southern,28h 00m,Changde,Istanbul,,,"3h 25m,9h 45m","Guangzhou Baiyun,Beijing Daxing Intl",0,1,2,787
+2024-03-14,"China Eastern, Sichuan Airlines",17h 55m,Changde,Istanbul,5:10 PM,6:05 AM,6h 40m,Chengdu Tianfu Intl,1,1,2,"1,168"
+2024-03-14,China Southern,48h 35m,Changde,Istanbul,10:30 AM,6:05 AM,"20h 50m,12h 30m","Guangzhou Baiyun,Beijing Daxing Intl",2,1,1,797
+2024-03-14,Multiple Airlines,24h 50m,Changde,Istanbul,5:10 PM,1:00 PM,"6h 45m,2h 45m","Chengdu Tianfu Intl,Cairo",2,1,2,"1,279"
+2024-03-14,"China Southern, Sichuan Airlines",24h 35m,Changde,Istanbul,10:30 AM,6:05 AM,"4h 45m,6h 25m","Guangzhou Baiyun,Chengdu Tianfu Intl",2,1,0,"1,319"
+2024-03-14,"China Southern, Sichuan Airlines",28h 00m,Changde,Istanbul,7:05 AM,6:05 AM,"4h 20m,9h 50m","Guangzhou Baiyun,Airport change CTU-TFU",2,1,0,"1,319"
+2024-03-14,Multiple Airlines,24h 40m,Changde,Istanbul,11:05 AM,6:45 AM,"4h 45m,2h 45m","Beijing Daxing Intl,Doha Hamad Intl",2,1,0,"1,760"
+2024-03-14,"China Southern, Sichuan Airlines",28h 00m,Changde,Istanbul,7:05 AM,6:05 AM,"3h 20m,11h 20m","Guangzhou Baiyun,Chengdu Tianfu Intl",2,1,0,"1,319"
+2024-03-14,"China Southern, Sichuan Airlines",28h 00m,Changde,Istanbul,7:05 AM,6:05 AM,"8h 20m,6h 25m","Guangzhou Baiyun,Chengdu Tianfu Intl",2,1,0,"1,319"
+2024-03-14,"China Southern, Sichuan Airlines",24h 00m,Changde,Istanbul,11:05 AM,6:05 AM,"7h 10m,2h 20m","Airport change PKX-PEK,Chengdu Tianfu Intl",2,1,0,"1,662"
+2024-03-14,"China Southern, Sichuan Airlines",28h 05m,Changde,Istanbul,7:00 AM,6:05 AM,"8h 00m,6h 35m","Shenzhen,Chengdu Tianfu Intl",2,1,1,"1,371"
+2024-03-14,"China Eastern, Asiana Airlines",27h 30m,Changde,Istanbul,5:10 PM,3:40 PM,"5h 40m,4h 30m","Chengdu Tianfu Intl,Incheon Intl",2,1,0,"1,706"
+2024-03-14,Multiple Airlines,29h 40m,Changde,Istanbul,11:30 AM,12:10 PM,"3h 05m,6h 20m,2h 40m","Hangzhou,Xiamen Gaoqi Intl,Doha Hamad Intl",3,1,0,"1,339"
+2024-03-14,"China Southern, Sichuan Airlines",28h 05m,Changde,Istanbul,7:00 AM,6:05 AM,"6h 40m,7h 35m","Shenzhen,Airport change CTU-TFU",2,1,0,"1,721"
+2024-03-14,"China Southern, Sichuan Airlines",28h 05m,Changde,Istanbul,7:00 AM,6:05 AM,"2h 10m,12h 25m","Shenzhen,Airport change CTU-TFU",2,1,0,"1,721"
+2024-03-14,Multiple Airlines,30h 05m,Changde,Istanbul,11:05 AM,12:10 PM,"4h 45m,8h 10m","Beijing Daxing Intl,Doha Hamad Intl",2,1,0,"1,760"
+2024-03-14,Multiple Airlines,30h 15m,Changde,Istanbul,11:05 AM,12:20 PM,"4h 45m,8h 20m","Beijing Daxing Intl,Doha Hamad Intl",2,1,0,"1,760"
+2024-03-14,Multiple Airlines,24h 00m,Changde,Istanbul,11:05 AM,6:05 AM,"2h 35m,6h 30m","Beijing Daxing Intl,Airport change CTU-TFU",2,1,0,"2,276"
+2024-03-14,Multiple Airlines,28h 00m,Changde,Istanbul,7:05 AM,6:05 AM,"6h 15m,7h 55m","Guangzhou Baiyun,Chengdu Tianfu Intl",2,1,0,"1,837"
+2024-03-14,Multiple Airlines,28h 05m,Changde,Istanbul,7:00 AM,6:05 AM,"10h 50m,3h 40m","Shenzhen,Chengdu Tianfu Intl",2,1,1,"1,932"
+2024-03-14,"China Southern, Sichuan Airlines",24h 35m,Changde,Istanbul,10:30 AM,6:05 AM,"2h 05m,8h 50m","Guangzhou Baiyun,Chengdu Tianfu Intl",2,1,0,"2,690"
+2024-03-14,Multiple Airlines,24h 35m,Changde,Istanbul,10:30 AM,6:05 AM,"3h 55m,6h 55m","Guangzhou Baiyun,Chengdu Tianfu Intl",2,1,1,"2,690"
+2024-03-14,Multiple Airlines,24h 35m,Changde,Istanbul,10:30 AM,6:05 AM,"3h 50m,7h 05m","Guangzhou Baiyun,Chengdu Tianfu Intl",2,1,1,"2,690"
+2024-03-14,"China Southern, Sichuan Airlines",24h 35m,Changde,Istanbul,10:30 AM,6:05 AM,"3h 20m,7h 30m","Guangzhou Baiyun,Airport change CTU-TFU",2,1,0,"2,690"
+2024-03-14,"China Southern, Sichuan Airlines",24h 35m,Changde,Istanbul,10:30 AM,6:05 AM,"5h 05m,5h 45m","Guangzhou Baiyun,Chengdu Tianfu Intl",2,1,1,"2,690"
+2024-03-14,"China Southern, Sichuan Airlines",24h 35m,Changde,Istanbul,10:30 AM,6:05 AM,"1h 25m,9h 20m","Guangzhou Baiyun,Airport change CTU-TFU",2,1,0,"2,690"
+2024-03-14,Multiple Airlines,24h 35m,Changde,Istanbul,10:30 AM,6:05 AM,"5h 20m,5h 35m","Guangzhou Baiyun,Chengdu Tianfu Intl",2,1,1,"2,690"
+2024-03-14,Multiple Airlines,28h 00m,Changde,Istanbul,7:05 AM,6:05 AM,"3h 55m,10h 20m","Guangzhou Baiyun,Chengdu Tianfu Intl",2,1,1,"2,690"
+2024-03-14,"China Southern, Sichuan Airlines",28h 00m,Changde,Istanbul,7:05 AM,6:05 AM,"0h 55m,13h 40m","Guangzhou Baiyun,Airport change CTU-TFU",2,1,0,"2,690"
+2024-03-14,"China Southern, Sichuan Airlines",28h 00m,Changde,Istanbul,7:05 AM,6:05 AM,"6h 55m,7h 30m","Guangzhou Baiyun,Airport change CTU-TFU",2,1,0,"2,690"
+2024-03-14,"China Southern, Sichuan Airlines",28h 00m,Changde,Istanbul,7:05 AM,6:05 AM,"5h 00m,9h 20m","Guangzhou Baiyun,Airport change CTU-TFU",2,1,0,"2,690"
+2024-03-14,Multiple Airlines,28h 00m,Changde,Istanbul,7:05 AM,6:05 AM,"9h 55m,4h 30m","Guangzhou Baiyun,Chengdu Tianfu Intl",2,1,1,"2,690"
+2024-03-14,"China Southern, Sichuan Airlines",28h 00m,Changde,Istanbul,7:05 AM,6:05 AM,"8h 40m,5h 45m","Guangzhou Baiyun,Chengdu Tianfu Intl",2,1,1,"2,690"
+2024-03-14,Multiple Airlines,28h 00m,Changde,Istanbul,7:05 AM,6:05 AM,"7h 30m,6h 55m","Guangzhou Baiyun,Chengdu Tianfu Intl",2,1,1,"2,690"
+2024-03-14,"China Southern, Sichuan Airlines",28h 00m,Changde,Istanbul,7:05 AM,6:05 AM,"2h 50m,11h 35m","Guangzhou Baiyun,Airport change CTU-TFU",2,1,0,"2,690"
+2024-03-14,"China Southern, Sichuan Airlines",28h 00m,Changde,Istanbul,7:05 AM,6:05 AM,"5h 40m,8h 50m","Guangzhou Baiyun,Chengdu Tianfu Intl",2,1,1,"2,690"
+2024-03-14,Multiple Airlines,28h 00m,Changde,Istanbul,7:05 AM,6:05 AM,"7h 25m,7h 05m","Guangzhou Baiyun,Chengdu Tianfu Intl",2,1,1,"2,690"
+2024-03-14,Multiple Airlines,28h 00m,Changde,Istanbul,7:05 AM,6:05 AM,"8h 55m,5h 35m","Guangzhou Baiyun,Chengdu Tianfu Intl",2,1,1,"2,690"
+2024-03-14,Multiple Airlines,28h 00m,Changde,Istanbul,7:05 AM,6:05 AM,"4h 05m,10h 05m","Guangzhou Baiyun,Chengdu Tianfu Intl",2,1,1,"2,690"
+2024-03-14,"China Southern, Air Astana",25h 25m,Changde,Istanbul,10:30 AM,6:55 AM,"4h 55m,1h 30m,3h 20m","Guangzhou Baiyun,Urumqi,Nur-Sultan Nursultan Nazarbayev Intl",3,1,0,"4,959"
+2024-03-14,"China Southern, Air Astana",28h 50m,Changde,Istanbul,7:05 AM,6:55 AM,"8h 30m,1h 30m,3h 20m","Guangzhou Baiyun,Urumqi,Nur-Sultan Nursultan Nazarbayev Intl",3,1,0,"4,959"
+2024-03-15,"China Eastern, China Southern",23h 35m,Changde,Istanbul,11:30 AM,6:05 AM,"7h 00m,1h 55m","Hangzhou,Beijing Daxing Intl",2,1,0,"1,008"
+2024-03-15,China Southern,28h 00m,Changde,Istanbul,7:05 AM,6:05 AM,"7h 25m,5h 15m","Guangzhou Baiyun,Beijing Daxing Intl",2,1,1,797
+2024-03-15,China Southern,28h 00m,Changde,Istanbul,7:05 AM,6:05 AM,"5h 25m,7h 15m","Guangzhou Baiyun,Beijing Daxing Intl",2,1,1,797
+2024-03-15,China Southern,28h 00m,Changde,Istanbul,7:05 AM,6:05 AM,"9h 25m,3h 15m","Guangzhou Baiyun,Beijing Daxing Intl",2,1,1,797
+2024-03-15,China Southern,28h 00m,Changde,Istanbul,7:05 AM,6:05 AM,"10h 25m,2h 25m","Guangzhou Baiyun,Beijing Daxing Intl",2,1,1,797
+2024-03-15,China Southern,28h 00m,Changde,Istanbul,7:05 AM,6:05 AM,"11h 25m,1h 30m","Guangzhou Baiyun,Beijing Daxing Intl",2,1,1,797
+2024-03-15,China Southern,28h 05m,Changde,Istanbul,7:00 AM,6:05 AM,"10h 55m,1h 55m","Shenzhen,Beijing Daxing Intl",2,1,1,854
+2024-03-15,China Southern,28h 05m,Changde,Istanbul,7:00 AM,6:05 AM,"6h 55m,5h 55m","Shenzhen,Beijing Daxing Intl",2,1,1,854
+2024-03-15,China Southern,28h 05m,Changde,Istanbul,7:00 AM,6:05 AM,"5h 55m,6h 45m","Shenzhen,Beijing Daxing Intl",2,1,1,854
+2024-03-15,China Southern,28h 05m,Changde,Istanbul,7:00 AM,6:05 AM,"7h 55m,4h 45m","Shenzhen,Beijing Daxing Intl",2,1,1,854
+2024-03-15,China Southern,28h 05m,Changde,Istanbul,7:00 AM,6:05 AM,"1h 55m,10h 50m","Shenzhen,Beijing Daxing Intl",2,1,1,854
+2024-03-15,Multiple Airlines,25h 25m,Changde,Istanbul,5:10 PM,1:35 PM,"6h 45m,3h 15m","Chengdu Tianfu Intl,Cairo",2,1,1,"1,444"
+2024-03-15,China Southern,28h 05m,Changde,Istanbul,7:00 AM,6:05 AM,"2h 55m,9h 55m","Shenzhen,Beijing Daxing Intl",2,1,1,854
+2024-03-15,China Southern,28h 05m,Changde,Istanbul,7:00 AM,6:05 AM,"3h 55m,8h 55m","Shenzhen,Beijing Daxing Intl",2,1,1,854
+2024-03-15,China Southern,28h 05m,Changde,Istanbul,7:00 AM,6:05 AM,"9h 55m,2h 55m","Shenzhen,Beijing Daxing Intl",2,1,1,854
+2024-03-15,China Southern,28h 05m,Changde,Istanbul,7:00 AM,6:05 AM,"4h 55m,7h 55m","Shenzhen,Beijing Daxing Intl",2,1,1,854
+2024-03-15,China Southern,28h 05m,Changde,Istanbul,7:00 AM,6:05 AM,"8h 55m,3h 55m","Shenzhen,Beijing Daxing Intl",2,1,1,854
+2024-03-15,China Southern,28h 05m,Changde,Istanbul,7:00 AM,6:05 AM,"0h 55m,11h 55m","Shenzhen,Beijing Daxing Intl",2,1,1,854
+2024-03-15,Multiple Airlines,29h 40m,Changde,Istanbul,5:10 PM,5:50 PM,"6h 45m,7h 35m","Chengdu Tianfu Intl,Cairo",2,1,1,"1,284"
+2024-03-15,"China Eastern, China Southern",23h 35m,Changde,Istanbul,11:30 AM,6:05 AM,"3h 25m,5h 30m","Hangzhou,Beijing Daxing Intl",2,1,0,"1,790"
+2024-03-15,"China Eastern, China Southern",23h 35m,Changde,Istanbul,11:30 AM,6:05 AM,"4h 00m,4h 45m","Hangzhou,Beijing Daxing Intl",2,1,0,"1,790"
+2024-03-15,Multiple Airlines,27h 25m,Changde,Istanbul,10:05 AM,8:30 AM,"5h 50m,5h 40m","Guangzhou Baiyun,Airport change SHA-PVG",2,1,0,"1,606"
+2024-03-15,Multiple Airlines,27h 25m,Changde,Istanbul,10:05 AM,8:30 AM,"8h 30m,3h 00m","Guangzhou Baiyun,Shanghai Pu Dong",2,1,1,"1,606"
+2024-03-15,"China Southern, China Eastern",27h 25m,Changde,Istanbul,10:05 AM,8:30 AM,"4h 50m,6h 35m","Guangzhou Baiyun,Airport change SHA-PVG",2,1,0,"1,606"
+2024-03-15,"China Southern, China Eastern",27h 25m,Changde,Istanbul,10:05 AM,8:30 AM,"6h 50m,4h 40m","Guangzhou Baiyun,Airport change SHA-PVG",2,1,0,"1,606"
+2024-03-15,"China Southern, China Eastern",27h 25m,Changde,Istanbul,10:05 AM,8:30 AM,"5h 50m,5h 40m","Guangzhou Baiyun,Airport change SHA-PVG",2,1,0,"1,606"
+2024-03-15,"China Southern, China Eastern",27h 25m,Changde,Istanbul,10:05 AM,8:30 AM,"3h 50m,7h 40m","Guangzhou Baiyun,Airport change SHA-PVG",2,1,0,"1,606"
+2024-03-15,"China Southern, China Eastern",27h 25m,Changde,Istanbul,10:05 AM,8:30 AM,"8h 30m,3h 00m","Guangzhou Baiyun,Shanghai Pu Dong",2,1,0,"1,606"
+2024-03-15,Multiple Airlines,30h 15m,Changde,Istanbul,11:05 AM,12:20 PM,"4h 45m,8h 20m","Beijing Daxing Intl,Doha Hamad Intl",2,1,0,"1,532"
+2024-03-15,Multiple Airlines,30h 25m,Changde,Istanbul,7:05 AM,8:30 AM,"3h 55m,10h 40m","Guangzhou Baiyun,Airport change SHA-PVG",2,1,0,"1,606"
+2024-03-15,Multiple Airlines,30h 25m,Changde,Istanbul,7:05 AM,8:30 AM,"11h 35m,3h 00m","Guangzhou Baiyun,Shanghai Pu Dong",2,1,1,"1,606"
+2024-03-15,Multiple Airlines,30h 25m,Changde,Istanbul,7:05 AM,8:30 AM,"8h 55m,5h 40m","Guangzhou Baiyun,Airport change SHA-PVG",2,1,0,"1,606"
+2024-03-15,"China Southern, China Eastern",30h 25m,Changde,Istanbul,7:05 AM,8:30 AM,"4h 15m,10h 25m","Guangzhou Baiyun,Shanghai Pu Dong",2,1,1,"1,606"
+2024-03-15,Multiple Airlines,30h 25m,Changde,Istanbul,7:05 AM,8:30 AM,"4h 15m,10h 25m","Guangzhou Baiyun,Shanghai Pu Dong",2,1,1,"1,606"
+2024-03-15,Multiple Airlines,30h 25m,Changde,Istanbul,7:05 AM,8:30 AM,"4h 55m,9h 50m","Guangzhou Baiyun,Airport change SHA-PVG",2,1,0,"1,606"
+2024-03-15,Multiple Airlines,30h 25m,Changde,Istanbul,7:05 AM,8:30 AM,"5h 55m,8h 35m","Guangzhou Baiyun,Airport change SHA-PVG",2,1,0,"1,606"
+2024-03-15,"China Southern, China Eastern",30h 25m,Changde,Istanbul,7:05 AM,8:30 AM,"4h 55m,9h 50m","Guangzhou Baiyun,Airport change SHA-PVG",2,1,0,"1,606"
+2024-03-15,"China Southern, China Eastern",30h 25m,Changde,Istanbul,7:05 AM,8:30 AM,"3h 55m,10h 40m","Guangzhou Baiyun,Airport change SHA-PVG",2,1,0,"1,606"
+2024-03-15,"China Southern, China Eastern",30h 25m,Changde,Istanbul,7:05 AM,8:30 AM,"11h 35m,3h 00m","Guangzhou Baiyun,Shanghai Pu Dong",2,1,0,"1,606"
+2024-03-15,Multiple Airlines,30h 05m,Changde,Istanbul,11:05 AM,12:10 PM,"4h 45m,8h 10m","Beijing Daxing Intl,Doha Hamad Intl",2,1,0,"1,760"
+2024-03-15,"China Southern, Azerbaijan Airlines",28h 20m,Changde,Istanbul,7:05 AM,6:25 AM,"3h 30m,2h 05m,7h 30m","Guangzhou Baiyun,Urumqi,Baku Heydar Aliyev",3,1,0,"2,070"
+2024-03-15,"China Eastern, China Southern",20h 20m,Changde,Istanbul,5:10 PM,8:30 AM,"1h 05m,2h 45m","Chengdu Tianfu Intl,Shanghai Pu Dong",2,1,0,"2,514"
+2024-03-15,"China Southern, Azerbaijan Airlines",28h 30m,Changde,Istanbul,10:05 AM,9:35 AM,"7h 30m,2h 10m,2h 20m","Guangzhou Baiyun,Dubai Intl,Baku Heydar Aliyev",3,1,0,"2,281"
+2024-03-15,"China Southern, Azerbaijan Airlines",28h 30m,Changde,Istanbul,10:05 AM,9:35 AM,"2h 45m,7h 05m,2h 20m","Guangzhou Baiyun,Dubai Intl,Baku Heydar Aliyev",3,1,0,"2,281"
+2024-03-16,"China Eastern, Sichuan Airlines",18h 15m,Changde,Istanbul,5:10 PM,6:25 AM,6h 40m,Chengdu Tianfu Intl,1,1,2,"1,168"
+2024-03-16,Multiple Airlines,27h 55m,Changde,Istanbul,7:00 AM,5:55 AM,"3h 35m,2h 05m,2h 20m","Shenzhen,Singapore Changi,Jakarta Soekarno-Hatta Intl",3,1,0,"1,047"
+2024-03-16,Multiple Airlines,24h 50m,Changde,Istanbul,5:10 PM,1:00 PM,"6h 45m,2h 45m","Chengdu Tianfu Intl,Cairo",2,1,2,"1,279"
+2024-03-16,"China Southern, Etihad Airways",28h 20m,Changde,Istanbul,7:00 AM,6:20 AM,"3h 35m,2h 55m,3h 10m","Shenzhen,Singapore Changi,Abu Dhabi Intl",3,1,0,"1,056"
+2024-03-16,"China Southern, Gulf Air",27h 45m,Changde,Istanbul,7:00 AM,5:45 AM,"3h 35m,5h 10m,0h 50m","Shenzhen,Singapore Changi,Manama Bahrain Intl",3,1,0,"1,078"
+2024-03-16,"China Southern, Sichuan Airlines",24h 55m,Changde,Istanbul,10:30 AM,6:25 AM,"4h 45m,6h 25m","Guangzhou Baiyun,Chengdu Tianfu Intl",2,1,0,"1,319"
+2024-03-16,Multiple Airlines,25h 25m,Changde,Istanbul,5:10 PM,1:35 PM,"6h 45m,3h 15m","Chengdu Tianfu Intl,Cairo",2,1,1,"1,444"
+2024-03-16,Multiple Airlines,24h 55m,Changde,Istanbul,11:05 AM,7:00 AM,"4h 45m,3h 00m","Beijing Daxing Intl,Doha Hamad Intl",2,1,0,"1,532"
+2024-03-16,Multiple Airlines,29h 40m,Changde,Istanbul,5:10 PM,5:50 PM,"6h 45m,7h 35m","Chengdu Tianfu Intl,Cairo",2,1,1,"1,284"
+2024-03-16,Multiple Airlines,30h 05m,Changde,Istanbul,7:00 AM,8:05 AM,"3h 35m,2h 55m,4h 55m","Shenzhen,Singapore Changi,Abu Dhabi Intl",3,1,0,"1,063"
+2024-03-16,Multiple Airlines,29h 00m,Changde,Istanbul,7:00 AM,7:00 AM,"3h 35m,2h 55m,3h 45m","Shenzhen,Singapore Changi,Abu Dhabi Intl",3,1,0,"1,076"
+2024-03-16,"China Southern, Sichuan Airlines",28h 20m,Changde,Istanbul,7:05 AM,6:25 AM,"4h 20m,9h 50m","Guangzhou Baiyun,Airport change CTU-TFU",2,1,0,"1,319"
+2024-03-16,"China Southern, Sichuan Airlines",28h 20m,Changde,Istanbul,7:05 AM,6:25 AM,"3h 20m,11h 20m","Guangzhou Baiyun,Chengdu Tianfu Intl",2,1,0,"1,319"
+2024-03-16,"China Southern, Sichuan Airlines",28h 20m,Changde,Istanbul,7:05 AM,6:25 AM,"8h 20m,6h 25m","Guangzhou Baiyun,Chengdu Tianfu Intl",2,1,0,"1,319"
+2024-03-16,Multiple Airlines,27h 55m,Changde,Istanbul,7:00 AM,5:55 AM,"3h 35m,2h 05m,2h 20m","Shenzhen,Singapore Changi,Jakarta Soekarno-Hatta Intl",3,1,0,"1,062"
+2024-03-16,"China Southern, Sichuan Airlines",24h 20m,Changde,Istanbul,11:05 AM,6:25 AM,"7h 10m,2h 20m","Airport change PKX-PEK,Chengdu Tianfu Intl",2,1,1,"1,662"
+2024-03-16,"China Southern, Sichuan Airlines",28h 25m,Changde,Istanbul,7:00 AM,6:25 AM,"8h 00m,6h 40m","Shenzhen,Chengdu Tianfu Intl",2,1,1,"1,371"
+2024-03-16,Multiple Airlines,30h 15m,Changde,Istanbul,11:05 AM,12:20 PM,"4h 45m,8h 20m","Beijing Daxing Intl,Doha Hamad Intl",2,1,0,"1,532"
+2024-03-16,Multiple Airlines,29h 25m,Changde,Istanbul,7:00 AM,7:25 AM,"3h 35m,4h 40m,2h 20m","Shenzhen,Singapore Changi,Dubai Intl",3,1,0,"1,146"
+2024-03-16,Multiple Airlines,30h 00m,Changde,Istanbul,11:05 AM,12:05 PM,"4h 45m,8h 05m","Beijing Daxing Intl,Doha Hamad Intl",2,1,0,"1,760"
+2024-03-16,Multiple Airlines,24h 20m,Changde,Istanbul,11:05 AM,6:25 AM,"2h 35m,6h 30m","Beijing Daxing Intl,Airport change CTU-TFU",2,1,0,"2,341"
+2024-03-16,Multiple Airlines,28h 20m,Changde,Istanbul,7:05 AM,6:25 AM,"6h 15m,7h 55m","Guangzhou Baiyun,Chengdu Tianfu Intl",2,1,0,"1,928"
+2024-03-16,Multiple Airlines,28h 25m,Changde,Istanbul,7:00 AM,6:25 AM,"10h 50m,3h 40m","Shenzhen,Chengdu Tianfu Intl",2,1,1,"1,932"
+2024-03-16,"China Southern, Sichuan Airlines",24h 55m,Changde,Istanbul,10:30 AM,6:25 AM,"2h 05m,8h 50m","Guangzhou Baiyun,Chengdu Tianfu Intl",2,1,0,"2,690"
+2024-03-16,"China Southern, Sichuan Airlines",24h 55m,Changde,Istanbul,10:30 AM,6:25 AM,"5h 05m,5h 45m","Guangzhou Baiyun,Chengdu Tianfu Intl",2,1,0,"2,690"
+2024-03-16,"China Southern, Sichuan Airlines",24h 55m,Changde,Istanbul,10:30 AM,6:25 AM,"3h 20m,7h 30m","Guangzhou Baiyun,Airport change CTU-TFU",2,1,0,"2,690"
+2024-03-16,Multiple Airlines,23h 55m,Changde,Istanbul,11:30 AM,6:25 AM,"6h 40m,2h 45m","Hangzhou,Chengdu Tianfu Intl",2,1,0,"2,753"
+2024-03-16,Multiple Airlines,24h 55m,Changde,Istanbul,10:30 AM,6:25 AM,"3h 55m,6h 55m","Guangzhou Baiyun,Chengdu Tianfu Intl",2,1,1,"2,690"
+2024-03-16,Multiple Airlines,24h 55m,Changde,Istanbul,10:30 AM,6:25 AM,"6h 20m,4h 30m","Guangzhou Baiyun,Chengdu Tianfu Intl",2,1,1,"2,690"
+2024-03-16,"China Southern, Sichuan Airlines",24h 55m,Changde,Istanbul,10:30 AM,6:25 AM,"1h 25m,9h 20m","Guangzhou Baiyun,Airport change CTU-TFU",2,1,0,"2,690"
+2024-03-16,Multiple Airlines,24h 20m,Changde,Istanbul,11:05 AM,6:25 AM,"6h 35m,2h 40m","Airport change PKX-PEK,Chengdu Tianfu Intl",2,1,1,"2,907"
+2024-03-16,"China Southern, Sichuan Airlines",28h 20m,Changde,Istanbul,7:05 AM,6:25 AM,"5h 40m,8h 50m","Guangzhou Baiyun,Chengdu Tianfu Intl",2,1,0,"2,690"
+2024-03-16,"China Southern, Sichuan Airlines",28h 20m,Changde,Istanbul,7:05 AM,6:25 AM,"8h 40m,5h 45m","Guangzhou Baiyun,Chengdu Tianfu Intl",2,1,0,"2,690"
+2024-03-16,"China Southern, Sichuan Airlines",28h 20m,Changde,Istanbul,7:05 AM,6:25 AM,"5h 00m,9h 20m","Guangzhou Baiyun,Airport change CTU-TFU",2,1,0,"2,690"
+2024-03-16,"China Southern, Sichuan Airlines",28h 20m,Changde,Istanbul,7:05 AM,6:25 AM,"2h 50m,11h 35m","Guangzhou Baiyun,Airport change CTU-TFU",2,1,0,"2,690"
+2024-03-16,"China Southern, Emirates",32h 55m,Changde,Istanbul,10:30 AM,2:25 PM,"7h 00m,10h 10m","Guangzhou Baiyun,Dubai Intl",2,1,1,"2,405"
+2024-03-16,"China Southern, Sichuan Airlines",24h 20m,Changde,Istanbul,11:05 AM,6:25 AM,"2h 40m,6h 20m","Beijing Daxing Intl,Chengdu Tianfu Intl",2,1,0,"3,387"
+2024-03-16,"China Southern, Sichuan Airlines",24h 20m,Changde,Istanbul,11:05 AM,6:25 AM,"3h 40m,5h 40m","Beijing Daxing Intl,Airport change CTU-TFU",2,1,0,"3,387"
+2024-03-16,Multiple Airlines,24h 20m,Changde,Istanbul,11:05 AM,6:25 AM,"6h 35m,2h 40m","Airport change PKX-PEK,Chengdu Tianfu Intl",2,1,1,"3,535"
+2024-03-16,"China Southern, Etihad Airways",24h 15m,Changde,Istanbul,11:05 AM,6:20 AM,"6h 40m,1h 15m","Beijing Daxing Intl,Abu Dhabi Intl",2,1,0,"5,022"
+2024-03-16,"China Southern, Thai Airways",28h 00m,Changde,Istanbul,7:05 AM,6:05 AM,"6h 15m,6h 35m","Guangzhou Baiyun,Bangkok Suvarnabhumi",2,1,0,"5,402"
+2024-03-16,Multiple Airlines,24h 15m,Changde,Istanbul,5:10 PM,12:25 PM,"6h 40m,1h 35m","Chengdu Tianfu Intl,Frankfurt am Main",2,1,0,"5,982"
+2024-03-16,"China Eastern, Lufthansa",29h 55m,Changde,Istanbul,5:10 PM,6:05 PM,"6h 40m,7h 20m","Chengdu Tianfu Intl,Frankfurt am Main",2,1,0,"5,972"
+2024-03-17,China Southern,36h 50m,Changde,Istanbul,10:15 PM,6:05 AM,"16h 35m,4h 40m","Zhuhai,Beijing Daxing Intl",2,1,1,849
+2024-03-17,China Southern,49h 00m,Changde,Istanbul,10:05 AM,6:05 AM,"21h 20m,12h 30m","Guangzhou Baiyun,Beijing Daxing Intl",2,1,1,814
+2024-03-17,China Southern,36h 50m,Changde,Istanbul,10:15 PM,6:05 AM,"10h 05m,11h 20m","Zhuhai,Beijing Daxing Intl",2,1,1,849
+2024-03-17,China Southern,36h 50m,Changde,Istanbul,10:15 PM,6:05 AM,"8h 35m,12h 50m","Zhuhai,Beijing Daxing Intl",2,1,1,849
+2024-03-17,China Southern,36h 50m,Changde,Istanbul,10:15 PM,6:05 AM,"12h 05m,9h 25m","Zhuhai,Beijing Daxing Intl",2,1,1,849
+2024-03-17,China Southern,36h 50m,Changde,Istanbul,10:15 PM,6:05 AM,"13h 30m,8h 00m","Zhuhai,Beijing Daxing Intl",2,1,1,849
+2024-03-17,China Southern,49h 00m,Changde,Istanbul,10:05 AM,6:05 AM,"23h 20m,10h 35m","Guangzhou Baiyun,Beijing Daxing Intl",2,1,1,814
+2024-03-17,Multiple Airlines,30h 00m,Changde,Istanbul,11:05 AM,12:05 PM,"4h 45m,8h 05m","Beijing Daxing Intl,Doha Hamad Intl",2,1,0,"1,760"
+2024-03-17,Multiple Airlines,37h 00m,Changde,Istanbul,11:05 AM,7:05 PM,"4h 45m,15h 05m","Beijing Daxing Intl,Doha Hamad Intl",2,1,0,"1,537"
+2024-03-17,China Southern,52h 05m,Changde,Istanbul,7:00 AM,6:05 AM,"22h 55m,13h 55m","Shenzhen,Beijing Daxing Intl",2,1,1,854
+2024-03-17,China Southern,52h 05m,Changde,Istanbul,7:00 AM,6:05 AM,"23h 55m,12h 55m","Shenzhen,Beijing Daxing Intl",2,1,1,854
+2024-03-17,"China Southern, Azerbaijan Airlines",28h 30m,Changde,Istanbul,10:05 AM,9:35 AM,"2h 45m,7h 20m,2h 05m","Guangzhou Baiyun,Dubai Intl,Baku Heydar Aliyev",3,1,0,"2,317"
+2024-03-17,"China Southern, Azerbaijan Airlines",28h 30m,Changde,Istanbul,10:05 AM,9:35 AM,"7h 30m,2h 25m,2h 05m","Guangzhou Baiyun,Dubai Intl,Baku Heydar Aliyev",3,1,0,"2,317"
+2024-03-17,"China Southern, Azerbaijan Airlines",31h 30m,Changde,Istanbul,7:05 AM,9:35 AM,"5h 50m,7h 20m,2h 05m","Guangzhou Baiyun,Dubai Intl,Baku Heydar Aliyev",3,1,0,"2,317"
+2024-03-17,"China Southern, Azerbaijan Airlines",31h 30m,Changde,Istanbul,7:05 AM,9:35 AM,"10h 35m,2h 25m,2h 05m","Guangzhou Baiyun,Dubai Intl,Baku Heydar Aliyev",3,1,0,"2,317"
+2024-03-17,Multiple Airlines,36h 35m,Changde,Istanbul,5:10 PM,12:45 AM,"6h 45m,14h 30m","Chengdu Tianfu Intl,Cairo",2,1,1,"1,444"
+2024-03-17,"China Southern, Egypt Air",32h 30m,Changde,Istanbul,10:05 AM,1:35 PM,"11h 40m,4h 55m","Guangzhou Baiyun,Cairo",2,1,2,"1,722"
+2024-03-17,Multiple Airlines,36h 30m,Changde,Istanbul,11:05 AM,6:35 PM,"4h 45m,14h 35m","Beijing Daxing Intl,Doha Hamad Intl",2,1,0,"1,537"
+2024-03-17,Multiple Airlines,37h 00m,Changde,Istanbul,11:05 AM,7:05 PM,"4h 45m,15h 05m","Beijing Daxing Intl,Doha Hamad Intl",2,1,0,"1,537"
+2024-03-17,"China Southern, Egypt Air",35h 30m,Changde,Istanbul,7:05 AM,1:35 PM,"14h 45m,4h 55m","Guangzhou Baiyun,Cairo",2,1,2,"1,722"
+2024-03-17,"China Southern, Azerbaijan Airlines",28h 30m,Changde,Istanbul,10:05 AM,9:35 AM,"2h 45m,7h 20m,2h 05m","Guangzhou Baiyun,Dubai Intl,Baku Heydar Aliyev",3,1,0,"2,317"
+2024-03-17,"China Southern, Azerbaijan Airlines",28h 30m,Changde,Istanbul,10:05 AM,9:35 AM,"7h 30m,2h 25m,2h 05m","Guangzhou Baiyun,Dubai Intl,Baku Heydar Aliyev",3,1,0,"2,317"
+2024-03-17,"China Southern, Azerbaijan Airlines",31h 30m,Changde,Istanbul,7:05 AM,9:35 AM,"5h 50m,7h 20m,2h 05m","Guangzhou Baiyun,Dubai Intl,Baku Heydar Aliyev",3,1,0,"2,317"
+2024-03-17,"China Southern, Azerbaijan Airlines",31h 30m,Changde,Istanbul,7:05 AM,9:35 AM,"10h 35m,2h 25m,2h 05m","Guangzhou Baiyun,Dubai Intl,Baku Heydar Aliyev",3,1,0,"2,317"
+2024-03-17,"China Southern, Emirates",33h 20m,Changde,Istanbul,10:05 AM,2:25 PM,"7h 30m,10h 10m","Guangzhou Baiyun,Dubai Intl",2,1,1,"2,405"
+2024-03-17,"China Southern, Emirates",33h 20m,Changde,Istanbul,10:05 AM,2:25 PM,"2h 45m,15h 05m","Guangzhou Baiyun,Dubai Intl",2,1,1,"2,405"
+2024-03-17,"China Southern, Azerbaijan Airlines",34h 40m,Changde,Istanbul,10:05 AM,3:45 PM,"2h 45m,7h 20m,8h 15m","Guangzhou Baiyun,Dubai Intl,Baku Heydar Aliyev",3,1,0,"2,317"
+2024-03-17,"China Southern, Azerbaijan Airlines",34h 40m,Changde,Istanbul,10:05 AM,3:45 PM,"7h 30m,2h 25m,8h 15m","Guangzhou Baiyun,Dubai Intl,Baku Heydar Aliyev",3,1,0,"2,317"
+2024-03-17,"China Southern, Emirates",36h 20m,Changde,Istanbul,7:05 AM,2:25 PM,"5h 50m,15h 05m","Guangzhou Baiyun,Dubai Intl",2,1,1,"2,405"
+2024-03-17,"China Southern, Emirates",36h 20m,Changde,Istanbul,7:05 AM,2:25 PM,"10h 35m,10h 10m","Guangzhou Baiyun,Dubai Intl",2,1,1,"2,405"
+2024-03-17,"China Southern, Emirates",37h 25m,Changde,Istanbul,10:05 AM,6:30 PM,"2h 45m,19h 10m","Guangzhou Baiyun,Dubai Intl",2,1,1,"2,405"
+2024-03-17,"China Southern, Emirates",37h 25m,Changde,Istanbul,10:05 AM,6:30 PM,"7h 30m,14h 15m","Guangzhou Baiyun,Dubai Intl",2,1,1,"2,405"
+2024-03-17,"China Southern, Azerbaijan Airlines",37h 40m,Changde,Istanbul,7:05 AM,3:45 PM,"5h 50m,7h 20m,8h 15m","Guangzhou Baiyun,Dubai Intl,Baku Heydar Aliyev",3,1,0,"2,317"
+2024-03-17,"China Southern, Azerbaijan Airlines",37h 40m,Changde,Istanbul,7:05 AM,3:45 PM,"10h 35m,2h 25m,8h 15m","Guangzhou Baiyun,Dubai Intl,Baku Heydar Aliyev",3,1,0,"2,317"
+2024-03-17,"China Southern, Emirates",36h 25m,Changde,Istanbul,7:00 AM,2:25 PM,"8h 40m,12h 00m","Shenzhen,Dubai Intl",2,1,1,"2,579"
+2024-03-17,"China Southern, Malaysia Airlines",25h 00m,Changde,Istanbul,10:05 AM,6:05 AM,"5h 55m,2h 00m","Guangzhou Baiyun,Kuala Lumpur Intl",2,1,0,"3,700"
+2024-03-17,"China Southern, Malaysia Airlines",28h 00m,Changde,Istanbul,7:05 AM,6:05 AM,"3h 50m,6h 50m","Guangzhou Baiyun,Kuala Lumpur Intl",2,1,0,"3,700"
+2024-03-17,"China Southern, Malaysia Airlines",28h 00m,Changde,Istanbul,7:05 AM,6:05 AM,"9h 00m,2h 00m","Guangzhou Baiyun,Kuala Lumpur Intl",2,1,0,"3,700"
+2024-03-17,"China Southern, flydubai",32h 15m,Changde,Istanbul,10:05 AM,1:20 PM,"2h 45m,14h 05m","Guangzhou Baiyun,Dubai Intl",2,1,0,"3,739"
+2024-03-17,"China Southern, flydubai",32h 15m,Changde,Istanbul,10:05 AM,1:20 PM,"7h 30m,9h 10m","Guangzhou Baiyun,Dubai Intl",2,1,0,"3,739"
+2024-03-17,"China Southern, flydubai",34h 30m,Changde,Istanbul,10:05 AM,3:35 PM,"7h 30m,11h 25m","Guangzhou Baiyun,Dubai Intl",2,1,0,"3,739"
+2024-03-17,"China Southern, Air Astana",25h 50m,Changde,Istanbul,10:05 AM,6:55 AM,"5h 30m,1h 30m,3h 20m","Guangzhou Baiyun,Urumqi,Nur-Sultan Nursultan Nazarbayev Intl",3,1,0,"4,959"
+2024-03-17,"China Southern, Air Astana",28h 50m,Changde,Istanbul,7:05 AM,6:55 AM,"8h 35m,1h 30m,3h 20m","Guangzhou Baiyun,Urumqi,Nur-Sultan Nursultan Nazarbayev Intl",3,1,0,"4,959"
+2024-03-17,"China Southern, Thai Airways",28h 00m,Changde,Istanbul,7:05 AM,6:05 AM,"6h 15m,6h 35m","Guangzhou Baiyun,Bangkok Suvarnabhumi",2,1,0,"5,402"
+2024-03-17,Multiple Airlines,31h 50m,Changde,Istanbul,11:05 AM,1:55 PM,"13h 10m,2h 50m","Airport change PKX-PEK,Warsaw Frederic Chopin",2,1,1,"5,634"
+2024-03-17,Multiple Airlines,35h 25m,Changde,Istanbul,11:05 AM,5:30 PM,"13h 10m,6h 20m","Airport change PKX-PEK,Warsaw Frederic Chopin",2,1,1,"5,634"
+2024-03-18,China Southern,24h 00m,Changde,Istanbul,11:05 AM,6:05 AM,11h 10m,Beijing Daxing Intl,1,1,2,705
+2024-03-18,"China Eastern, China Southern",17h 55m,Changde,Istanbul,5:10 PM,6:05 AM,"1h 35m,1h 40m","Chengdu Tianfu Intl,Beijing Daxing Intl",2,1,0,997
+2024-03-18,China Southern,24h 35m,Changde,Istanbul,10:30 AM,6:05 AM,"2h 50m,6h 15m","Guangzhou Baiyun,Beijing Daxing Intl",2,1,2,785
+2024-03-18,China Southern,24h 35m,Changde,Istanbul,10:30 AM,6:05 AM,"1h 50m,7h 15m","Guangzhou Baiyun,Beijing Daxing Intl",2,1,2,785
+2024-03-18,China Southern,24h 35m,Changde,Istanbul,10:30 AM,6:05 AM,"3h 50m,5h 15m","Guangzhou Baiyun,Beijing Daxing Intl",2,1,2,785
+2024-03-18,China Southern,24h 35m,Changde,Istanbul,10:30 AM,6:05 AM,"0h 50m,8h 30m","Guangzhou Baiyun,Beijing Daxing Intl",2,1,2,785
+2024-03-18,China Southern,24h 35m,Changde,Istanbul,10:30 AM,6:05 AM,"7h 50m,1h 30m","Guangzhou Baiyun,Beijing Daxing Intl",2,1,1,797
+2024-03-18,China Southern,24h 35m,Changde,Istanbul,10:30 AM,6:05 AM,"6h 50m,2h 35m","Guangzhou Baiyun,Beijing Daxing Intl",2,1,1,797
+2024-03-18,China Southern,24h 35m,Changde,Istanbul,10:30 AM,6:05 AM,"5h 50m,3h 15m","Guangzhou Baiyun,Beijing Daxing Intl",2,1,1,797
+2024-03-18,China Southern,28h 00m,Changde,Istanbul,7:05 AM,6:05 AM,"3h 25m,9h 45m","Guangzhou Baiyun,Beijing Daxing Intl",2,1,2,785
+2024-03-18,China Southern,28h 00m,Changde,Istanbul,7:05 AM,6:05 AM,"1h 25m,11h 35m","Guangzhou Baiyun,Beijing Daxing Intl",2,1,2,785
+2024-03-18,China Southern,28h 00m,Changde,Istanbul,7:05 AM,6:05 AM,"4h 25m,8h 30m","Guangzhou Baiyun,Beijing Daxing Intl",2,1,2,785
+2024-03-18,Multiple Airlines,24h 50m,Changde,Istanbul,5:10 PM,1:00 PM,"6h 45m,2h 45m","Chengdu Tianfu Intl,Cairo",2,1,2,"1,279"
+2024-03-18,China Southern,28h 00m,Changde,Istanbul,7:05 AM,6:05 AM,"2h 25m,10h 35m","Guangzhou Baiyun,Beijing Daxing Intl",2,1,2,789
+2024-03-18,China Southern,28h 00m,Changde,Istanbul,7:05 AM,6:05 AM,"10h 25m,2h 35m","Guangzhou Baiyun,Beijing Daxing Intl",2,1,1,797
+2024-03-18,"China Eastern, China Southern",23h 35m,Changde,Istanbul,11:30 AM,6:05 AM,"2h 20m,6h 35m","Hangzhou,Beijing Daxing Intl",2,1,0,"1,008"
+2024-03-18,"China Eastern, China Southern",23h 35m,Changde,Istanbul,11:30 AM,6:05 AM,"7h 00m,1h 55m","Hangzhou,Beijing Daxing Intl",2,1,0,"1,008"
+2024-03-18,China Southern,28h 00m,Changde,Istanbul,7:05 AM,6:05 AM,"7h 25m,5h 15m","Guangzhou Baiyun,Beijing Daxing Intl",2,1,1,797
+2024-03-18,China Southern,28h 00m,Changde,Istanbul,7:05 AM,6:05 AM,"6h 25m,6h 15m","Guangzhou Baiyun,Beijing Daxing Intl",2,1,1,797
+2024-03-18,China Southern,28h 00m,Changde,Istanbul,7:05 AM,6:05 AM,"9h 25m,3h 15m","Guangzhou Baiyun,Beijing Daxing Intl",2,1,1,797
+2024-03-18,China Southern,28h 00m,Changde,Istanbul,7:05 AM,6:05 AM,"11h 25m,1h 30m","Guangzhou Baiyun,Beijing Daxing Intl",2,1,1,797
+2024-03-18,China Southern,28h 00m,Changde,Istanbul,7:05 AM,6:05 AM,"5h 25m,7h 15m","Guangzhou Baiyun,Beijing Daxing Intl",2,1,1,797
+2024-03-18,China Southern,28h 05m,Changde,Istanbul,7:00 AM,6:05 AM,"1h 55m,10h 45m","Shenzhen,Beijing Daxing Intl",2,1,1,854
+2024-03-18,China Southern,28h 05m,Changde,Istanbul,7:00 AM,6:05 AM,"4h 55m,7h 55m","Shenzhen,Beijing Daxing Intl",2,1,1,854
+2024-03-18,China Southern,28h 05m,Changde,Istanbul,7:00 AM,6:05 AM,"9h 55m,2h 55m","Shenzhen,Beijing Daxing Intl",2,1,1,854
+2024-03-18,China Southern,28h 05m,Changde,Istanbul,7:00 AM,6:05 AM,"3h 55m,8h 55m","Shenzhen,Beijing Daxing Intl",2,1,1,854
+2024-03-18,China Southern,28h 05m,Changde,Istanbul,7:00 AM,6:05 AM,"6h 55m,5h 55m","Shenzhen,Beijing Daxing Intl",2,1,1,854
+2024-03-18,China Southern,28h 05m,Changde,Istanbul,7:00 AM,6:05 AM,"5h 55m,6h 45m","Shenzhen,Beijing Daxing Intl",2,1,1,854
+2024-03-18,China Southern,28h 05m,Changde,Istanbul,7:00 AM,6:05 AM,"7h 55m,4h 45m","Shenzhen,Beijing Daxing Intl",2,1,1,854
+2024-03-18,China Southern,28h 05m,Changde,Istanbul,7:00 AM,6:05 AM,"10h 55m,1h 55m","Shenzhen,Beijing Daxing Intl",2,1,1,854
+2024-03-18,China Southern,28h 05m,Changde,Istanbul,7:00 AM,6:05 AM,"0h 55m,11h 55m","Shenzhen,Beijing Daxing Intl",2,1,1,854
+2024-03-18,China Southern,28h 05m,Changde,Istanbul,7:00 AM,6:05 AM,"8h 55m,3h 55m","Shenzhen,Beijing Daxing Intl",2,1,1,854
+2024-03-18,China Southern,28h 05m,Changde,Istanbul,7:00 AM,6:05 AM,"2h 55m,10h 05m","Shenzhen,Beijing Daxing Intl",2,1,1,854
+2024-03-18,Multiple Airlines,24h 55m,Changde,Istanbul,11:05 AM,7:00 AM,"4h 45m,3h 00m","Beijing Daxing Intl,Doha Hamad Intl",2,1,0,"1,532"
+2024-03-18,Multiple Airlines,25h 25m,Changde,Istanbul,5:10 PM,1:35 PM,"6h 45m,3h 15m","Chengdu Tianfu Intl,Cairo",2,1,1,"1,444"
+2024-03-18,Multiple Airlines,29h 40m,Changde,Istanbul,5:10 PM,5:50 PM,"6h 45m,7h 35m","Chengdu Tianfu Intl,Cairo",2,1,1,"1,284"
+2024-03-18,"China Southern, Azerbaijan Airlines",27h 30m,Changde,Istanbul,11:05 AM,9:35 AM,"11h 40m,2h 35m","Airport change PKX-PEK,Baku Heydar Aliyev",2,1,1,"1,511"
+2024-03-18,"China Southern, China Eastern",27h 00m,Changde,Istanbul,10:30 AM,8:30 AM,"4h 20m,6h 35m","Guangzhou Baiyun,Airport change SHA-PVG",2,1,0,"1,606"
+2024-03-18,Multiple Airlines,27h 00m,Changde,Istanbul,10:30 AM,8:30 AM,"8h 00m,3h 00m","Guangzhou Baiyun,Shanghai Pu Dong",2,1,1,"1,606"
+2024-03-18,"China Southern, China Eastern",27h 00m,Changde,Istanbul,10:30 AM,8:30 AM,"8h 00m,3h 00m","Guangzhou Baiyun,Shanghai Pu Dong",2,1,1,"1,606"
+2024-03-18,"China Southern, China Eastern",27h 00m,Changde,Istanbul,10:30 AM,8:30 AM,"6h 20m,4h 40m","Guangzhou Baiyun,Airport change SHA-PVG",2,1,0,"1,606"
+2024-03-18,Multiple Airlines,29h 40m,Changde,Istanbul,11:30 AM,12:10 PM,"3h 05m,6h 20m,2h 40m","Hangzhou,Xiamen Gaoqi Intl,Doha Hamad Intl",3,1,0,"1,339"
+2024-03-18,Multiple Airlines,27h 00m,Changde,Istanbul,10:30 AM,8:30 AM,"5h 20m,5h 40m","Guangzhou Baiyun,Airport change SHA-PVG",2,1,0,"1,606"
+2024-03-18,"China Southern, China Eastern",27h 00m,Changde,Istanbul,10:30 AM,8:30 AM,"5h 20m,5h 40m","Guangzhou Baiyun,Airport change SHA-PVG",2,1,0,"1,606"
+2024-03-18,Multiple Airlines,30h 15m,Changde,Istanbul,11:05 AM,12:20 PM,"4h 45m,8h 20m","Beijing Daxing Intl,Doha Hamad Intl",2,1,0,"1,532"
+2024-03-18,"China Eastern, Asiana Airlines",27h 30m,Changde,Istanbul,5:10 PM,3:40 PM,"5h 40m,4h 30m","Chengdu Tianfu Intl,Incheon Intl",2,1,0,"1,706"
+2024-03-18,"China Southern, Azerbaijan Airlines",28h 50m,Changde,Istanbul,11:05 AM,10:55 AM,"11h 40m,3h 50m","Airport change PKX-PEK,Baku Heydar Aliyev",2,1,0,"1,650"
+2024-03-18,"China Southern, China Eastern",30h 25m,Changde,Istanbul,7:05 AM,8:30 AM,"11h 35m,3h 00m","Guangzhou Baiyun,Shanghai Pu Dong",2,1,0,"1,606"
+2024-03-18,Multiple Airlines,30h 25m,Changde,Istanbul,7:05 AM,8:30 AM,"11h 35m,3h 00m","Guangzhou Baiyun,Shanghai Pu Dong",2,1,0,"1,606"
+2024-03-18,Multiple Airlines,30h 25m,Changde,Istanbul,7:05 AM,8:30 AM,"4h 15m,10h 25m","Guangzhou Baiyun,Shanghai Pu Dong",2,1,0,"1,606"
+2024-03-18,"China Southern, China Eastern",30h 25m,Changde,Istanbul,7:05 AM,8:30 AM,"3h 55m,10h 40m","Guangzhou Baiyun,Airport change SHA-PVG",2,1,0,"1,606"
+2024-03-18,Multiple Airlines,30h 25m,Changde,Istanbul,7:05 AM,8:30 AM,"4h 55m,9h 50m","Guangzhou Baiyun,Airport change SHA-PVG",2,1,0,"1,606"
+2024-03-18,Multiple Airlines,30h 25m,Changde,Istanbul,7:05 AM,8:30 AM,"3h 55m,10h 40m","Guangzhou Baiyun,Airport change SHA-PVG",2,1,0,"1,606"
+2024-03-18,"China Southern, China Eastern",30h 25m,Changde,Istanbul,7:05 AM,8:30 AM,"4h 55m,9h 50m","Guangzhou Baiyun,Airport change SHA-PVG",2,1,0,"1,606"
+2024-03-18,"China Southern, China Eastern",30h 25m,Changde,Istanbul,7:05 AM,8:30 AM,"4h 15m,10h 25m","Guangzhou Baiyun,Shanghai Pu Dong",2,1,0,"1,606"
+2024-03-18,Multiple Airlines,30h 05m,Changde,Istanbul,11:05 AM,12:10 PM,"4h 45m,8h 10m","Beijing Daxing Intl,Doha Hamad Intl",2,1,0,"1,760"
+2024-03-18,"China Southern, Azerbaijan Airlines",28h 20m,Changde,Istanbul,7:05 AM,6:25 AM,"3h 30m,2h 05m,7h 30m","Guangzhou Baiyun,Urumqi,Baku Heydar Aliyev",3,1,0,"2,010"
+2024-03-18,"China Eastern, China Southern",20h 20m,Changde,Istanbul,5:10 PM,8:30 AM,"1h 05m,2h 45m","Chengdu Tianfu Intl,Shanghai Pu Dong",2,1,0,"2,514"
+2024-03-18,"China Southern, Azerbaijan Airlines",28h 05m,Changde,Istanbul,10:30 AM,9:35 AM,"7h 00m,2h 10m,2h 20m","Guangzhou Baiyun,Dubai Intl,Baku Heydar Aliyev",3,1,0,"2,296"
+2024-03-18,Multiple Airlines,23h 35m,Changde,Istanbul,11:30 AM,6:05 AM,"2h 45m,6h 15m","Hangzhou,Airport change PEK-PKX",2,1,1,"4,385"
+2024-03-18,"China Southern, Thai Airways",28h 00m,Changde,Istanbul,7:05 AM,6:05 AM,"6h 15m,6h 35m","Guangzhou Baiyun,Bangkok Suvarnabhumi",2,1,0,"5,402"
+2024-03-19,"China Eastern, Sichuan Airlines",,Changde,Istanbul,,,6h 40m,Chengdu Tianfu Intl,0,1,2,"1,168"
+2024-03-19,China Southern,,Changde,Istanbul,,,"23h 20m,10h 30m","Guangzhou Baiyun,Beijing Daxing Intl",0,1,1,797
+2024-03-19,Multiple Airlines,,Changde,Istanbul,,,"6h 45m,2h 45m","Chengdu Tianfu Intl,Cairo",0,1,2,"1,279"
+2024-03-19,"China Southern, Sichuan Airlines",,Changde,Istanbul,,,"5h 15m,6h 25m","Guangzhou Baiyun,Chengdu Tianfu Intl",0,1,0,"1,319"
+2024-03-19,Multiple Airlines,,Changde,Istanbul,,,"6h 45m,7h 35m","Chengdu Tianfu Intl,Cairo",0,1,2,"1,277"
+2024-03-19,Multiple Airlines,,Changde,Istanbul,,,"6h 45m,3h 15m","Chengdu Tianfu Intl,Cairo",0,1,1,"1,444"
+2024-03-19,"China Southern, Sichuan Airlines",,Changde,Istanbul,,,"4h 20m,9h 50m","Guangzhou Baiyun,Airport change CTU-TFU",0,1,0,"1,319"
+2024-03-19,"China Southern, Sichuan Airlines",,Changde,Istanbul,,,"3h 20m,11h 20m","Guangzhou Baiyun,Chengdu Tianfu Intl",0,1,0,"1,319"
+2024-03-19,"China Southern, Sichuan Airlines",,Changde,Istanbul,,,"8h 20m,6h 25m","Guangzhou Baiyun,Chengdu Tianfu Intl",0,1,0,"1,319"
+2024-03-19,"China Southern, Sichuan Airlines",,Changde,Istanbul,,,"7h 10m,2h 20m","Airport change PKX-PEK,Chengdu Tianfu Intl",0,1,0,"1,662"
+2024-03-19,"China Southern, Sichuan Airlines",,Changde,Istanbul,,,"8h 00m,6h 35m","Shenzhen,Chengdu Tianfu Intl",0,1,1,"1,371"
+2024-03-19,Multiple Airlines,,Changde,Istanbul,,,"4h 45m,8h 20m","Beijing Daxing Intl,Doha Hamad Intl",0,1,0,"1,532"
+2024-03-19,Multiple Airlines,,Changde,Istanbul,,,"2h 35m,6h 30m","Beijing Daxing Intl,Airport change CTU-TFU",0,1,0,"2,276"
+2024-03-19,Multiple Airlines,,Changde,Istanbul,,,"4h 45m,8h 10m","Beijing Daxing Intl,Doha Hamad Intl",0,1,0,"1,760"
+2024-03-19,Multiple Airlines,,Changde,Istanbul,,,"6h 15m,7h 55m","Guangzhou Baiyun,Chengdu Tianfu Intl",0,1,0,"1,837"
+2024-03-20,China Southern,24h 00m,Changde,Istanbul,,,11h 10m,Beijing Daxing Intl,0,1,2,705
+2024-03-20,"China Eastern, China Southern",17h 55m,Changde,Istanbul,,,"1h 35m,1h 40m","Chengdu Tianfu Intl,Beijing Daxing Intl",0,1,0,997
+2024-03-20,China Southern,24h 35m,Changde,Istanbul,,,"0h 50m,8h 30m","Guangzhou Baiyun,Beijing Daxing Intl",0,1,2,785
+2024-03-20,China Southern,24h 35m,Changde,Istanbul,,,"1h 50m,7h 15m","Guangzhou Baiyun,Beijing Daxing Intl",0,1,2,785
+2024-03-20,China Southern,24h 35m,Changde,Istanbul,,,"3h 50m,5h 15m","Guangzhou Baiyun,Beijing Daxing Intl",0,1,2,785
+2024-03-20,China Southern,24h 35m,Changde,Istanbul,,,"2h 50m,6h 15m","Guangzhou Baiyun,Beijing Daxing Intl",0,1,2,785
+2024-03-20,China Southern,24h 35m,Changde,Istanbul,,,"7h 50m,1h 30m","Guangzhou Baiyun,Beijing Daxing Intl",0,1,1,797
+2024-03-20,China Southern,24h 35m,Changde,Istanbul,,,"6h 50m,2h 25m","Guangzhou Baiyun,Beijing Daxing Intl",0,1,1,797
+2024-03-20,China Southern,24h 35m,Changde,Istanbul,,,"5h 50m,3h 15m","Guangzhou Baiyun,Beijing Daxing Intl",0,1,1,797
+2024-03-20,China Southern,28h 00m,Changde,Istanbul,,,"2h 25m,10h 30m","Guangzhou Baiyun,Beijing Daxing Intl",0,1,2,785
+2024-03-20,China Southern,28h 00m,Changde,Istanbul,,,"4h 25m,8h 30m","Guangzhou Baiyun,Beijing Daxing Intl",0,1,2,785
+2024-03-20,China Southern,28h 00m,Changde,Istanbul,,,"1h 25m,11h 35m","Guangzhou Baiyun,Beijing Daxing Intl",0,1,2,785
+2024-03-20,Multiple Airlines,24h 50m,Changde,Istanbul,,,"6h 45m,2h 45m","Chengdu Tianfu Intl,Cairo",0,1,2,"1,279"
+2024-03-20,China Southern,28h 00m,Changde,Istanbul,,,"3h 25m,9h 45m","Guangzhou Baiyun,Beijing Daxing Intl",0,1,2,785
+2024-03-20,"China Eastern, China Southern",23h 35m,Changde,Istanbul,,,"2h 20m,6h 35m","Hangzhou,Beijing Daxing Intl",0,1,0,"1,008"
+2024-03-21,"China Eastern, Sichuan Airlines",17h 55m,Changde,Istanbul,5:10 PM,6:05 AM,6h 40m,Chengdu Tianfu Intl,1,1,2,"1,168"
+2024-03-21,China Southern,48h 35m,Changde,Istanbul,10:30 AM,6:05 AM,"22h 50m,10h 30m","Guangzhou Baiyun,Beijing Daxing Intl",2,1,1,797
+2024-03-21,Multiple Airlines,24h 50m,Changde,Istanbul,5:10 PM,1:00 PM,"6h 45m,2h 45m","Chengdu Tianfu Intl,Cairo",2,1,2,"1,279"
+2024-03-21,"China Southern, Sichuan Airlines",24h 35m,Changde,Istanbul,10:30 AM,6:05 AM,"4h 45m,6h 25m","Guangzhou Baiyun,Chengdu Tianfu Intl",2,1,0,"1,319"
+2024-03-21,Multiple Airlines,25h 25m,Changde,Istanbul,5:10 PM,1:35 PM,"6h 45m,3h 15m","Chengdu Tianfu Intl,Cairo",2,1,1,"1,444"
+2024-03-21,Multiple Airlines,24h 40m,Changde,Istanbul,11:05 AM,6:45 AM,"4h 45m,2h 45m","Beijing Daxing Intl,Doha Hamad Intl",2,1,0,"1,532"
+2024-03-21,Multiple Airlines,29h 40m,Changde,Istanbul,5:10 PM,5:50 PM,"6h 45m,7h 35m","Chengdu Tianfu Intl,Cairo",2,1,1,"1,284"
+2024-03-21,"China Southern, Sichuan Airlines",28h 00m,Changde,Istanbul,7:05 AM,6:05 AM,"4h 20m,9h 50m","Guangzhou Baiyun,Airport change CTU-TFU",2,1,0,"1,319"
+2024-03-21,"China Southern, Sichuan Airlines",28h 00m,Changde,Istanbul,7:05 AM,6:05 AM,"3h 20m,11h 20m","Guangzhou Baiyun,Chengdu Tianfu Intl",2,1,0,"1,319"
+2024-03-21,"China Southern, Sichuan Airlines",28h 00m,Changde,Istanbul,7:05 AM,6:05 AM,"8h 20m,6h 25m","Guangzhou Baiyun,Chengdu Tianfu Intl",2,1,0,"1,319"
+2024-03-21,"China Southern, Sichuan Airlines",24h 00m,Changde,Istanbul,11:05 AM,6:05 AM,"7h 10m,2h 20m","Airport change PKX-PEK,Chengdu Tianfu Intl",2,1,0,"1,662"
+2024-03-21,"China Southern, Sichuan Airlines",28h 05m,Changde,Istanbul,7:00 AM,6:05 AM,"8h 00m,6h 35m","Shenzhen,Chengdu Tianfu Intl",2,1,1,"1,371"
+2024-03-21,"China Southern, Etihad Airways",28h 15m,Changde,Istanbul,7:05 AM,6:20 AM,"4h 00m,2h 25m,3h 10m","Guangzhou Baiyun,Singapore Changi,Abu Dhabi Intl",3,1,0,"1,163"
+2024-03-21,"China Southern, Gulf Air",27h 40m,Changde,Istanbul,7:05 AM,5:45 AM,"4h 00m,4h 40m,0h 50m","Guangzhou Baiyun,Singapore Changi,Manama Bahrain Intl",3,1,0,"1,187"
+2024-03-21,Multiple Airlines,30h 15m,Changde,Istanbul,11:05 AM,12:20 PM,"4h 45m,8h 20m","Beijing Daxing Intl,Doha Hamad Intl",2,1,0,"1,532"
+2024-03-21,"China Eastern, Asiana Airlines",27h 30m,Changde,Istanbul,5:10 PM,3:40 PM,"5h 40m,4h 30m","Chengdu Tianfu Intl,Incheon Intl",2,1,0,"1,706"
+2024-03-21,Multiple Airlines,24h 00m,Changde,Istanbul,11:05 AM,6:05 AM,"2h 35m,6h 30m","Beijing Daxing Intl,Airport change CTU-TFU",2,1,0,"2,341"
+2024-03-21,Multiple Airlines,29h 20m,Changde,Istanbul,7:05 AM,7:25 AM,"4h 00m,4h 10m,2h 20m","Guangzhou Baiyun,Singapore Changi,Dubai Intl",3,1,0,"1,215"
+2024-03-21,Multiple Airlines,28h 00m,Changde,Istanbul,7:05 AM,6:05 AM,"6h 15m,7h 55m","Guangzhou Baiyun,Chengdu Tianfu Intl",2,1,0,"1,928"
+2024-03-21,Multiple Airlines,28h 00m,Changde,Istanbul,7:05 AM,6:05 AM,"4h 00m,4h 10m,1h 45m","Guangzhou Baiyun,Singapore Changi,Kuala Lumpur Intl",3,1,0,"1,225"
+2024-03-21,Multiple Airlines,28h 00m,Changde,Istanbul,7:05 AM,6:05 AM,"4h 00m,1h 55m,4h 00m","Guangzhou Baiyun,Singapore Changi,Kuala Lumpur Intl",3,1,0,"1,225"
+2024-03-21,Multiple Airlines,28h 00m,Changde,Istanbul,7:05 AM,6:05 AM,"4h 00m,2h 40m,3h 10m","Guangzhou Baiyun,Singapore Changi,Kuala Lumpur Intl",3,1,0,"1,225"
+2024-03-21,Multiple Airlines,30h 05m,Changde,Istanbul,11:05 AM,12:10 PM,"4h 45m,8h 10m","Beijing Daxing Intl,Doha Hamad Intl",2,1,1,"1,966"
+2024-03-21,Multiple Airlines,28h 00m,Changde,Istanbul,7:05 AM,6:05 AM,"4h 00m,2h 50m,3h 00m","Guangzhou Baiyun,Singapore Changi,Kuala Lumpur Intl",3,1,0,"1,231"
+2024-03-21,Multiple Airlines,29h 40m,Changde,Istanbul,11:30 AM,12:10 PM,"3h 05m,6h 20m,2h 40m","Hangzhou,Xiamen Gaoqi Intl,Doha Hamad Intl",3,1,0,"1,580"
+2024-03-21,Multiple Airlines,23h 35m,Changde,Istanbul,11:30 AM,6:05 AM,"6h 40m,2h 45m","Hangzhou,Chengdu Tianfu Intl",2,1,0,"2,753"
+2024-03-21,"China Southern, Sichuan Airlines",24h 35m,Changde,Istanbul,10:30 AM,6:05 AM,"2h 05m,8h 50m","Guangzhou Baiyun,Chengdu Tianfu Intl",2,1,0,"2,690"
+2024-03-21,"China Southern, Sichuan Airlines",24h 35m,Changde,Istanbul,10:30 AM,6:05 AM,"5h 05m,5h 45m","Guangzhou Baiyun,Chengdu Tianfu Intl",2,1,0,"2,690"
+2024-03-21,Multiple Airlines,24h 35m,Changde,Istanbul,10:30 AM,6:05 AM,"5h 20m,5h 35m","Guangzhou Baiyun,Chengdu Tianfu Intl",2,1,1,"2,690"
+2024-03-21,Multiple Airlines,24h 35m,Changde,Istanbul,10:30 AM,6:05 AM,"3h 55m,6h 55m","Guangzhou Baiyun,Chengdu Tianfu Intl",2,1,1,"2,690"
+2024-03-21,Multiple Airlines,24h 00m,Changde,Istanbul,11:05 AM,6:05 AM,"6h 35m,2h 40m","Airport change PKX-PEK,Chengdu Tianfu Intl",2,1,1,"2,907"
+2024-03-21,Multiple Airlines,24h 00m,Changde,Istanbul,11:05 AM,6:05 AM,"6h 35m,2h 40m","Airport change PKX-PEK,Chengdu Tianfu Intl",2,1,1,"3,535"
+2024-03-21,"China Southern, Air Astana",25h 25m,Changde,Istanbul,10:30 AM,6:55 AM,"4h 55m,1h 30m,3h 20m","Guangzhou Baiyun,Urumqi,Nur-Sultan Nursultan Nazarbayev Intl",3,1,0,"4,959"
+2024-03-21,"China Southern, Air Astana",28h 50m,Changde,Istanbul,7:05 AM,6:55 AM,"8h 30m,1h 30m,3h 20m","Guangzhou Baiyun,Urumqi,Nur-Sultan Nursultan Nazarbayev Intl",3,1,0,"4,959"
+2024-03-21,"China Southern, Thai Airways",28h 00m,Changde,Istanbul,7:05 AM,6:05 AM,"6h 15m,6h 35m","Guangzhou Baiyun,Bangkok Suvarnabhumi",2,1,0,"5,402"
+2024-03-21,"China Eastern, Lufthansa",29h 35m,Changde,Istanbul,5:10 PM,5:45 PM,"6h 40m,7h 00m","Chengdu Tianfu Intl,Frankfurt am Main",2,1,0,"5,972"
+2024-03-21,Multiple Airlines,28h 55m,Changde,Istanbul,5:10 PM,5:05 PM,"6h 40m,1h 50m,3h 00m","Chengdu Tianfu Intl,Frankfurt am Main,Antalya",3,0,0,"6,804"
+2024-03-21,Multiple Airlines,29h 35m,Changde,Istanbul,5:10 PM,5:45 PM,"6h 40m,7h 00m","Chengdu Tianfu Intl,Frankfurt am Main",2,1,2,"7,953"
+2024-03-22,China Southern,24h 00m,Changde,Istanbul,,,11h 10m,Beijing Daxing Intl,0,1,2,705
+2024-03-22,"China Eastern, China Southern",17h 55m,Changde,Istanbul,,,"1h 35m,1h 40m","Chengdu Tianfu Intl,Beijing Daxing Intl",0,1,0,997
+2024-03-22,China Southern,25h 00m,Changde,Istanbul,,,"1h 20m,8h 30m","Guangzhou Baiyun,Beijing Daxing Intl",0,1,2,785
+2024-03-22,China Southern,25h 00m,Changde,Istanbul,,,"2h 20m,7h 15m","Guangzhou Baiyun,Beijing Daxing Intl",0,1,2,785
+2024-03-22,China Southern,25h 00m,Changde,Istanbul,,,"3h 20m,6h 15m","Guangzhou Baiyun,Beijing Daxing Intl",0,1,2,785
+2024-03-22,China Southern,25h 00m,Changde,Istanbul,,,"4h 20m,5h 15m","Guangzhou Baiyun,Beijing Daxing Intl",0,1,2,785
+2024-03-22,China Southern,25h 00m,Changde,Istanbul,,,"7h 20m,2h 25m","Guangzhou Baiyun,Beijing Daxing Intl",0,1,1,797
+2024-03-22,China Southern,25h 00m,Changde,Istanbul,,,"6h 20m,3h 15m","Guangzhou Baiyun,Beijing Daxing Intl",0,1,1,797
+2024-03-22,China Southern,25h 00m,Changde,Istanbul,,,"8h 20m,1h 30m","Guangzhou Baiyun,Beijing Daxing Intl",0,1,1,797
+2024-03-22,China Southern,28h 00m,Changde,Istanbul,,,"2h 25m,10h 30m","Guangzhou Baiyun,Beijing Daxing Intl",0,1,2,785
+2024-03-22,China Southern,28h 00m,Changde,Istanbul,,,"3h 25m,9h 45m","Guangzhou Baiyun,Beijing Daxing Intl",0,1,2,785
+2024-03-22,Multiple Airlines,24h 50m,Changde,Istanbul,,,"6h 45m,2h 45m","Chengdu Tianfu Intl,Cairo",0,1,2,"1,279"
+2024-03-22,China Southern,28h 00m,Changde,Istanbul,,,"4h 25m,8h 30m","Guangzhou Baiyun,Beijing Daxing Intl",0,1,2,785
+2024-03-22,China Southern,28h 00m,Changde,Istanbul,,,"1h 25m,11h 30m","Guangzhou Baiyun,Beijing Daxing Intl",0,1,2,785
+2024-03-22,"China Eastern, China Southern",23h 35m,Changde,Istanbul,,,"7h 00m,1h 55m","Hangzhou,Beijing Daxing Intl",0,1,0,"1,008"
+2024-03-23,Multiple Airlines,30h 00m,Changde,Istanbul,,,"4h 45m,8h 05m","Beijing Daxing Intl,Doha Hamad Intl",0,1,1,"1,759"
+2024-03-23,"China Southern, flydubai",31h 50m,Changde,Istanbul,,,"7h 00m,9h 10m","Guangzhou Baiyun,Dubai Intl",0,1,0,"3,739"
+2024-03-23,"China Southern, flydubai",33h 50m,Changde,Istanbul,,,"7h 00m,11h 10m","Guangzhou Baiyun,Dubai Intl",0,1,0,"3,739"
+2024-03-23,"China Southern, flydubai",35h 15m,Changde,Istanbul,,,"10h 35m,9h 10m","Guangzhou Baiyun,Dubai Intl",0,1,0,"3,739"
+2024-03-23,"China Southern, Etihad Airways",24h 15m,Changde,Istanbul,,,"6h 40m,1h 15m","Beijing Daxing Intl,Abu Dhabi Intl",0,1,0,"5,053"
+2024-03-23,"China Southern, flydubai",37h 15m,Changde,Istanbul,,,"10h 35m,11h 10m","Guangzhou Baiyun,Dubai Intl",0,1,0,"3,739"
+2024-03-23,Multiple Airlines,24h 15m,Changde,Istanbul,,,"6h 40m,1h 35m","Chengdu Tianfu Intl,Frankfurt am Main",0,1,1,"6,289"
+2024-03-24,China Southern,49h 00m,Changde,Istanbul,10:05 AM,6:05 AM,"22h 20m,11h 35m","Guangzhou Baiyun,Beijing Daxing Intl",2,1,1,814
+2024-03-24,"China Southern, Batik Air",23h 50m,Changde,Istanbul,7:05 AM,1:55 AM,"3h 50m,3h 00m","Guangzhou Baiyun,Kuala Lumpur Intl",2,1,0,"1,097"
+2024-03-24,China Southern,36h 50m,Changde,Istanbul,10:15 PM,6:05 AM,"13h 30m,8h 00m","Zhuhai,Beijing Daxing Intl",2,1,1,849
+2024-03-24,China Southern,36h 50m,Changde,Istanbul,10:15 PM,6:05 AM,"12h 05m,9h 25m","Zhuhai,Beijing Daxing Intl",2,1,1,849
+2024-03-24,China Southern,36h 50m,Changde,Istanbul,10:15 PM,6:05 AM,"10h 05m,11h 20m","Zhuhai,Beijing Daxing Intl",2,1,1,849
+2024-03-24,China Southern,36h 50m,Changde,Istanbul,10:15 PM,6:05 AM,"8h 35m,12h 50m","Zhuhai,Beijing Daxing Intl",2,1,1,849
+2024-03-24,China Southern,36h 50m,Changde,Istanbul,10:15 PM,6:05 AM,"16h 35m,4h 40m","Zhuhai,Beijing Daxing Intl",2,1,1,849
+2024-03-24,"China Southern, Turkish Airlines",28h 00m,Changde,Istanbul,7:05 AM,6:05 AM,"3h 50m,6h 50m","Guangzhou Baiyun,Kuala Lumpur Intl",2,1,0,"1,122"
+2024-03-24,Multiple Airlines,24h 50m,Changde,Istanbul,5:10 PM,1:00 PM,"6h 45m,2h 45m","Chengdu Tianfu Intl,Cairo",2,1,2,"1,279"
+2024-03-24,Multiple Airlines,25h 25m,Changde,Istanbul,5:10 PM,1:35 PM,"6h 45m,3h 15m","Chengdu Tianfu Intl,Cairo",2,1,0,"1,466"
+2024-03-24,"China Southern, Uzbekistan Airways",22h 25m,Changde,Istanbul,11:05 AM,4:30 AM,"2h 05m,5h 40m","Beijing Daxing Intl,Tashkent Vostochny",2,1,1,"1,840"
+2024-03-24,"China Southern, Etihad Airways",28h 10m,Changde,Istanbul,7:05 AM,6:15 AM,"3h 50m,4h 15m,1h 35m","Guangzhou Baiyun,Kuala Lumpur Intl,Abu Dhabi Intl",3,1,0,991
+2024-03-24,China Southern,49h 00m,Changde,Istanbul,10:05 AM,6:05 AM,"20h 20m,13h 15m","Guangzhou Baiyun,Beijing Daxing Intl",2,1,1,814
+2024-03-24,China Southern,49h 00m,Changde,Istanbul,10:05 AM,6:05 AM,"21h 20m,12h 30m","Guangzhou Baiyun,Beijing Daxing Intl",2,1,1,814
+2024-03-24,China Southern,52h 00m,Changde,Istanbul,7:05 AM,6:05 AM,"23h 25m,13h 15m","Guangzhou Baiyun,Beijing Daxing Intl",2,1,1,814
+2024-03-24,"China Southern, Qatar Airways",34h 15m,Changde,Istanbul,7:05 AM,12:20 PM,"3h 50m,9h 25m,2h 35m","Guangzhou Baiyun,Kuala Lumpur Intl,Doha Hamad Intl",3,1,0,944
+2024-03-24,"China Southern, Egypt Air",31h 55m,Changde,Istanbul,10:05 AM,1:00 PM,"11h 40m,4h 25m","Guangzhou Baiyun,Cairo",2,1,2,"1,409"
+2024-03-24,"China Southern, Qatar Airways",34h 15m,Changde,Istanbul,7:05 AM,12:20 PM,"3h 50m,4h 00m,8h 10m","Guangzhou Baiyun,Kuala Lumpur Intl,Doha Hamad Intl",3,1,0,944
+2024-03-24,"China Southern, Egypt Air",34h 55m,Changde,Istanbul,7:05 AM,1:00 PM,"14h 45m,4h 25m","Guangzhou Baiyun,Cairo",2,1,2,"1,409"
+2024-03-24,Multiple Airlines,31h 10m,Changde,Istanbul,7:05 AM,9:15 AM,"3h 50m,6h 05m,2h 55m","Guangzhou Baiyun,Kuala Lumpur Intl,Dubai Intl",3,1,0,"1,084"
+2024-03-24,Multiple Airlines,35h 15m,Changde,Istanbul,7:05 AM,1:20 PM,"3h 50m,6h 05m,6h 50m","Guangzhou Baiyun,Kuala Lumpur Intl,Dubai Intl",3,1,0,"1,039"
+2024-03-24,"China Southern, Egypt Air",36h 45m,Changde,Istanbul,10:05 AM,5:50 PM,"11h 40m,9h 15m","Guangzhou Baiyun,Cairo",2,1,2,"1,408"
+2024-03-24,Multiple Airlines,30h 00m,Changde,Istanbul,11:05 AM,12:05 PM,"4h 45m,8h 05m","Beijing Daxing Intl,Doha Hamad Intl",2,1,0,"1,760"
+2024-03-24,Multiple Airlines,36h 35m,Changde,Istanbul,5:10 PM,12:45 AM,"6h 45m,14h 30m","Chengdu Tianfu Intl,Cairo",2,1,1,"1,444"
+2024-03-24,Multiple Airlines,36h 30m,Changde,Istanbul,11:05 AM,6:35 PM,"4h 45m,14h 35m","Beijing Daxing Intl,Doha Hamad Intl",2,1,0,"1,537"
+2024-03-24,Multiple Airlines,37h 00m,Changde,Istanbul,11:05 AM,7:05 PM,"4h 45m,15h 05m","Beijing Daxing Intl,Doha Hamad Intl",2,1,0,"1,537"
+2024-03-24,"China Southern, Egypt Air",32h 30m,Changde,Istanbul,10:05 AM,1:35 PM,"11h 40m,4h 55m","Guangzhou Baiyun,Cairo",2,1,2,"1,722"
+2024-03-24,Multiple Airlines,37h 30m,Changde,Istanbul,7:05 AM,3:35 PM,"3h 50m,6h 05m,9h 05m","Guangzhou Baiyun,Kuala Lumpur Intl,Dubai Intl",3,1,0,"1,039"
+2024-03-24,"China Southern, Egypt Air",35h 30m,Changde,Istanbul,7:05 AM,1:35 PM,"14h 45m,4h 55m","Guangzhou Baiyun,Cairo",2,1,2,"1,722"
+2024-03-24,"China Eastern, Batik Air",34h 35m,Changde,Istanbul,5:10 PM,10:45 PM,"1h 35m,10h 15m,2h 00m","Chengdu Tianfu Intl,Shanghai Hongqiao Intl,Kuala Lumpur Intl",3,1,0,"1,457"
+2024-03-24,Multiple Airlines,33h 30m,Changde,Istanbul,11:30 AM,4:00 PM,"3h 05m,2h 20m,9h 45m","Hangzhou,Xiamen Gaoqi Intl,Kuala Lumpur Intl",3,1,0,"1,459"
+2024-03-24,"China Southern, Turkish Airlines",34h 55m,Changde,Istanbul,10:05 AM,4:00 PM,"4h 55m,3h 50m,7h 15m","Guangzhou Baiyun,Changsha Huanghua Intl,Kuala Lumpur Intl",3,1,0,"1,454"
+2024-03-24,"China Southern, Azerbaijan Airlines",28h 30m,Changde,Istanbul,10:05 AM,9:35 AM,"2h 45m,7h 20m,2h 05m","Guangzhou Baiyun,Dubai Intl,Baku Heydar Aliyev",3,1,0,"2,454"
+2024-03-24,"China Southern, Azerbaijan Airlines",28h 30m,Changde,Istanbul,10:05 AM,9:35 AM,"7h 30m,2h 25m,2h 05m","Guangzhou Baiyun,Dubai Intl,Baku Heydar Aliyev",3,1,0,"2,454"
+2024-03-24,"China Southern, Turkish Airlines",33h 55m,Changde,Istanbul,11:05 AM,4:00 PM,"3h 55m,2h 00m,7h 15m","Beijing Daxing Intl,Changsha Huanghua Intl,Kuala Lumpur Intl",3,1,0,"1,831"
+2024-03-24,"China Southern, Turkish Airlines",33h 55m,Changde,Istanbul,11:05 AM,4:00 PM,"1h 35m,4h 10m,7h 15m","Beijing Daxing Intl,Changsha Huanghua Intl,Kuala Lumpur Intl",3,1,0,"1,831"
+2024-03-24,"China Southern, Emirates",33h 20m,Changde,Istanbul,10:05 AM,2:25 PM,"2h 45m,15h 05m","Guangzhou Baiyun,Dubai Intl",2,1,1,"2,405"
+2024-03-24,"China Southern, Emirates",33h 20m,Changde,Istanbul,10:05 AM,2:25 PM,"7h 30m,10h 10m","Guangzhou Baiyun,Dubai Intl",2,1,1,"2,405"
+2024-03-24,"China Southern, Azerbaijan Airlines",31h 30m,Changde,Istanbul,7:05 AM,9:35 AM,"5h 50m,7h 20m,2h 05m","Guangzhou Baiyun,Dubai Intl,Baku Heydar Aliyev",3,1,0,"2,454"
+2024-03-24,"China Southern, Azerbaijan Airlines",31h 30m,Changde,Istanbul,7:05 AM,9:35 AM,"10h 35m,2h 25m,2h 05m","Guangzhou Baiyun,Dubai Intl,Baku Heydar Aliyev",3,1,0,"2,454"
+2024-03-24,Multiple Airlines,25h 00m,Changde,Istanbul,10:05 AM,6:05 AM,"3h 40m,1h 25m,1h 55m","Guangzhou Baiyun,Ho Chi Minh City,Kuala Lumpur Intl",3,1,0,"2,517"
+2024-03-24,"China Southern, Emirates",36h 20m,Changde,Istanbul,7:05 AM,2:25 PM,"5h 50m,15h 05m","Guangzhou Baiyun,Dubai Intl",2,1,1,"2,405"
+2024-03-24,"China Southern, Emirates",36h 20m,Changde,Istanbul,7:05 AM,2:25 PM,"10h 35m,10h 10m","Guangzhou Baiyun,Dubai Intl",2,1,1,"2,405"
+2024-03-24,"China Southern, Emirates",37h 25m,Changde,Istanbul,10:05 AM,6:30 PM,"7h 30m,14h 15m","Guangzhou Baiyun,Dubai Intl",2,1,1,"2,405"
+2024-03-24,"China Southern, Emirates",37h 25m,Changde,Istanbul,10:05 AM,6:30 PM,"2h 45m,19h 10m","Guangzhou Baiyun,Dubai Intl",2,1,1,"2,405"
+2024-03-24,"China Southern, Azerbaijan Airlines",34h 40m,Changde,Istanbul,10:05 AM,3:45 PM,"2h 45m,7h 20m,8h 15m","Guangzhou Baiyun,Dubai Intl,Baku Heydar Aliyev",3,1,0,"2,507"
+2024-03-24,"China Southern, Azerbaijan Airlines",34h 40m,Changde,Istanbul,10:05 AM,3:45 PM,"7h 30m,2h 25m,8h 15m","Guangzhou Baiyun,Dubai Intl,Baku Heydar Aliyev",3,1,0,"2,507"
+2024-03-24,"China Southern, Emirates",36h 25m,Changde,Istanbul,7:00 AM,2:25 PM,"8h 40m,12h 00m","Shenzhen,Dubai Intl",2,1,1,"2,579"
+2024-03-24,"China Southern, Azerbaijan Airlines",37h 40m,Changde,Istanbul,7:05 AM,3:45 PM,"10h 35m,2h 25m,8h 15m","Guangzhou Baiyun,Dubai Intl,Baku Heydar Aliyev",3,1,0,"2,507"
+2024-03-24,"China Southern, Azerbaijan Airlines",37h 40m,Changde,Istanbul,7:05 AM,3:45 PM,"5h 50m,7h 20m,8h 15m","Guangzhou Baiyun,Dubai Intl,Baku Heydar Aliyev",3,1,0,"2,507"
+2024-03-24,Multiple Airlines,34h 55m,Changde,Istanbul,10:05 AM,4:00 PM,"3h 40m,1h 25m,12h 00m","Guangzhou Baiyun,Ho Chi Minh City,Kuala Lumpur Intl",3,1,0,"2,495"
+2024-03-24,"China Southern, Salam Air",33h 25m,Changde,Istanbul,10:05 AM,2:30 PM,"5h 55m,5h 25m,3h 55m","Guangzhou Baiyun,Kuala Lumpur Intl,Muscat See",3,1,0,"2,588"
+2024-03-24,"China Southern, Malaysia Airlines",25h 00m,Changde,Istanbul,10:05 AM,6:05 AM,"5h 55m,2h 00m","Guangzhou Baiyun,Kuala Lumpur Intl",2,1,0,"3,700"
+2024-03-24,"China Southern, Malaysia Airlines",28h 00m,Changde,Istanbul,7:05 AM,6:05 AM,"9h 00m,2h 00m","Guangzhou Baiyun,Kuala Lumpur Intl",2,1,0,"3,700"
+2024-03-24,"China Southern, Malaysia Airlines",28h 00m,Changde,Istanbul,7:05 AM,6:05 AM,"3h 50m,6h 50m","Guangzhou Baiyun,Kuala Lumpur Intl",2,1,0,"3,700"
+2024-03-24,"China Southern, Thai Airways",28h 00m,Changde,Istanbul,7:05 AM,6:05 AM,"6h 15m,6h 35m","Guangzhou Baiyun,Bangkok Suvarnabhumi",2,1,0,"5,402"
+2024-03-24,Multiple Airlines,31h 50m,Changde,Istanbul,11:05 AM,1:55 PM,"13h 10m,2h 50m","Airport change PKX-PEK,Warsaw Frederic Chopin",2,1,1,"5,634"
+2024-03-24,Multiple Airlines,35h 25m,Changde,Istanbul,11:05 AM,5:30 PM,"13h 10m,6h 20m","Airport change PKX-PEK,Warsaw Frederic Chopin",2,1,1,"5,634"
+2024-03-25,China Southern,24h 00m,Changde,Istanbul,11:05 AM,6:05 AM,11h 10m,Beijing Daxing Intl,1,1,2,705
+2024-03-25,China Southern,24h 35m,Changde,Istanbul,10:30 AM,6:05 AM,"0h 50m,8h 30m","Guangzhou Baiyun,Beijing Daxing Intl",2,1,2,785
+2024-03-25,China Southern,24h 35m,Changde,Istanbul,10:30 AM,6:05 AM,"2h 50m,6h 15m","Guangzhou Baiyun,Beijing Daxing Intl",2,1,2,785
+2024-03-25,China Southern,24h 35m,Changde,Istanbul,10:30 AM,6:05 AM,"3h 50m,5h 15m","Guangzhou Baiyun,Beijing Daxing Intl",2,1,2,785
+2024-03-25,China Southern,24h 35m,Changde,Istanbul,10:30 AM,6:05 AM,"1h 50m,7h 15m","Guangzhou Baiyun,Beijing Daxing Intl",2,1,2,785
+2024-03-25,China Southern,24h 35m,Changde,Istanbul,10:30 AM,6:05 AM,"6h 50m,2h 35m","Guangzhou Baiyun,Beijing Daxing Intl",2,1,1,797
+2024-03-25,China Southern,28h 00m,Changde,Istanbul,7:05 AM,6:05 AM,"1h 25m,11h 35m","Guangzhou Baiyun,Beijing Daxing Intl",2,1,2,785
+2024-03-25,China Southern,28h 00m,Changde,Istanbul,7:05 AM,6:05 AM,"4h 25m,8h 30m","Guangzhou Baiyun,Beijing Daxing Intl",2,1,2,785
+2024-03-25,China Southern,28h 00m,Changde,Istanbul,7:05 AM,6:05 AM,"2h 25m,10h 35m","Guangzhou Baiyun,Beijing Daxing Intl",2,1,2,785
+2024-03-25,China Southern,28h 00m,Changde,Istanbul,7:05 AM,6:05 AM,"3h 25m,9h 45m","Guangzhou Baiyun,Beijing Daxing Intl",2,1,2,785
+2024-03-25,China Southern,28h 00m,Changde,Istanbul,7:05 AM,6:05 AM,"6h 25m,6h 15m","Guangzhou Baiyun,Beijing Daxing Intl",2,1,1,797
+2024-03-25,China Southern,28h 00m,Changde,Istanbul,7:05 AM,6:05 AM,"10h 25m,2h 35m","Guangzhou Baiyun,Beijing Daxing Intl",2,1,1,797
+2024-03-25,China Southern,28h 00m,Changde,Istanbul,7:05 AM,6:05 AM,"7h 25m,5h 15m","Guangzhou Baiyun,Beijing Daxing Intl",2,1,1,797
+2024-03-25,China Southern,28h 05m,Changde,Istanbul,7:00 AM,6:05 AM,"6h 55m,5h 55m","Shenzhen,Beijing Daxing Intl",2,1,1,854
+2024-03-25,China Southern,28h 05m,Changde,Istanbul,7:00 AM,6:05 AM,"2h 55m,10h 05m","Shenzhen,Beijing Daxing Intl",2,1,1,854
+2024-03-25,China Southern,28h 00m,Changde,Istanbul,7:05 AM,6:05 AM,"6h 25m,6h 15m","Guangzhou Baiyun,Beijing Daxing Intl",2,1,1,797
+2024-03-25,China Southern,28h 00m,Changde,Istanbul,7:05 AM,6:05 AM,"10h 25m,2h 35m","Guangzhou Baiyun,Beijing Daxing Intl",2,1,1,797
+2024-03-25,"China Eastern, China Southern",23h 35m,Changde,Istanbul,11:30 AM,6:05 AM,"2h 20m,6h 35m","Hangzhou,Beijing Daxing Intl",2,1,0,"1,008"
+2024-03-25,China Southern,28h 00m,Changde,Istanbul,7:05 AM,6:05 AM,"7h 25m,5h 15m","Guangzhou Baiyun,Beijing Daxing Intl",2,1,1,797
+2024-03-25,China Southern,28h 00m,Changde,Istanbul,7:05 AM,6:05 AM,"5h 25m,7h 15m","Guangzhou Baiyun,Beijing Daxing Intl",2,1,1,797
+2024-03-25,China Southern,28h 00m,Changde,Istanbul,7:05 AM,6:05 AM,"9h 25m,3h 15m","Guangzhou Baiyun,Beijing Daxing Intl",2,1,1,797
+2024-03-25,China Southern,28h 00m,Changde,Istanbul,7:05 AM,6:05 AM,"11h 25m,1h 30m","Guangzhou Baiyun,Beijing Daxing Intl",2,1,1,797
+2024-03-25,China Southern,28h 05m,Changde,Istanbul,7:00 AM,6:05 AM,"6h 55m,5h 55m","Shenzhen,Beijing Daxing Intl",2,1,1,854
+2024-03-25,China Southern,28h 05m,Changde,Istanbul,7:00 AM,6:05 AM,"5h 55m,6h 45m","Shenzhen,Beijing Daxing Intl",2,1,1,854
+2024-03-25,China Southern,28h 05m,Changde,Istanbul,7:00 AM,6:05 AM,"1h 55m,10h 45m","Shenzhen,Beijing Daxing Intl",2,1,1,854
+2024-03-25,China Southern,28h 05m,Changde,Istanbul,7:00 AM,6:05 AM,"8h 55m,3h 55m","Shenzhen,Beijing Daxing Intl",2,1,1,854
+2024-03-25,China Southern,28h 05m,Changde,Istanbul,7:00 AM,6:05 AM,"3h 55m,8h 55m","Shenzhen,Beijing Daxing Intl",2,1,1,854
+2024-03-25,China Southern,28h 05m,Changde,Istanbul,7:00 AM,6:05 AM,"9h 55m,2h 55m","Shenzhen,Beijing Daxing Intl",2,1,1,854
+2024-03-25,China Southern,28h 05m,Changde,Istanbul,7:00 AM,6:05 AM,"4h 55m,7h 55m","Shenzhen,Beijing Daxing Intl",2,1,1,854
+2024-03-25,China Southern,28h 05m,Changde,Istanbul,7:00 AM,6:05 AM,"7h 55m,4h 45m","Shenzhen,Beijing Daxing Intl",2,1,1,854
+2024-03-25,China Southern,28h 05m,Changde,Istanbul,7:00 AM,6:05 AM,"0h 55m,11h 55m","Shenzhen,Beijing Daxing Intl",2,1,1,854
+2024-03-25,China Southern,28h 05m,Changde,Istanbul,7:00 AM,6:05 AM,"10h 55m,1h 55m","Shenzhen,Beijing Daxing Intl",2,1,1,854
+2024-03-25,China Southern,28h 05m,Changde,Istanbul,7:00 AM,6:05 AM,"2h 55m,10h 05m","Shenzhen,Beijing Daxing Intl",2,1,1,854
+2024-03-25,Multiple Airlines,24h 55m,Changde,Istanbul,11:05 AM,7:00 AM,"4h 45m,3h 00m","Beijing Daxing Intl,Doha Hamad Intl",2,1,0,"1,532"
+2024-03-25,"China Southern, Azerbaijan Airlines",27h 30m,Changde,Istanbul,11:05 AM,9:35 AM,"11h 40m,2h 35m","Airport change PKX-PEK,Baku Heydar Aliyev",2,1,1,"1,481"
+2024-03-25,"China Southern, Azerbaijan Airlines",28h 50m,Changde,Istanbul,11:05 AM,10:55 AM,"11h 40m,3h 50m","Airport change PKX-PEK,Baku Heydar Aliyev",2,1,1,"1,486"
+2024-03-25,"China Southern, China Eastern",27h 00m,Changde,Istanbul,10:30 AM,8:30 AM,"4h 20m,6h 35m","Guangzhou Baiyun,Airport change SHA-PVG",2,1,0,"1,606"
+2024-03-25,Multiple Airlines,27h 00m,Changde,Istanbul,10:30 AM,8:30 AM,"5h 20m,5h 40m","Guangzhou Baiyun,Airport change SHA-PVG",2,1,0,"1,606"
+2024-03-25,Multiple Airlines,27h 00m,Changde,Istanbul,10:30 AM,8:30 AM,"8h 00m,3h 00m","Guangzhou Baiyun,Shanghai Pu Dong",2,1,1,"1,606"
+2024-03-25,"China Southern, China Eastern",27h 00m,Changde,Istanbul,10:30 AM,8:30 AM,"6h 20m,4h 40m","Guangzhou Baiyun,Airport change SHA-PVG",2,1,0,"1,606"
+2024-03-25,Multiple Airlines,29h 40m,Changde,Istanbul,11:30 AM,12:10 PM,"3h 05m,6h 20m,2h 40m","Hangzhou,Xiamen Gaoqi Intl,Doha Hamad Intl",3,1,0,"1,339"
+2024-03-25,"China Southern, China Eastern",27h 00m,Changde,Istanbul,10:30 AM,8:30 AM,"8h 00m,3h 00m","Guangzhou Baiyun,Shanghai Pu Dong",2,1,0,"1,606"
+2024-03-25,"China Southern, China Eastern",27h 00m,Changde,Istanbul,10:30 AM,8:30 AM,"5h 20m,5h 40m","Guangzhou Baiyun,Airport change SHA-PVG",2,1,0,"1,606"
+2024-03-25,Multiple Airlines,30h 15m,Changde,Istanbul,11:05 AM,12:20 PM,"4h 45m,8h 20m","Beijing Daxing Intl,Doha Hamad Intl",2,1,0,"1,532"
+2024-03-25,"China Southern, China Eastern",30h 25m,Changde,Istanbul,7:05 AM,8:30 AM,"4h 15m,10h 25m","Guangzhou Baiyun,Shanghai Pu Dong",2,1,1,"1,606"
+2024-03-25,Multiple Airlines,30h 25m,Changde,Istanbul,7:05 AM,8:30 AM,"4h 15m,10h 25m","Guangzhou Baiyun,Shanghai Pu Dong",2,1,1,"1,606"
+2024-03-25,Multiple Airlines,30h 25m,Changde,Istanbul,7:05 AM,8:30 AM,"8h 55m,5h 40m","Guangzhou Baiyun,Airport change SHA-PVG",2,1,0,"1,606"
+2024-03-25,Multiple Airlines,30h 25m,Changde,Istanbul,7:05 AM,8:30 AM,"4h 55m,9h 50m","Guangzhou Baiyun,Airport change SHA-PVG",2,1,0,"1,606"
+2024-03-25,"China Southern, China Eastern",30h 25m,Changde,Istanbul,7:05 AM,8:30 AM,"6h 55m,7h 40m","Guangzhou Baiyun,Airport change SHA-PVG",2,1,0,"1,606"
+2024-03-25,Multiple Airlines,30h 25m,Changde,Istanbul,7:05 AM,8:30 AM,"3h 55m,10h 40m","Guangzhou Baiyun,Airport change SHA-PVG",2,1,0,"1,606"
+2024-03-25,Multiple Airlines,30h 25m,Changde,Istanbul,7:05 AM,8:30 AM,"11h 35m,3h 00m","Guangzhou Baiyun,Shanghai Pu Dong",2,1,0,"1,606"
+2024-03-25,"China Southern, China Eastern",30h 25m,Changde,Istanbul,7:05 AM,8:30 AM,"3h 55m,10h 40m","Guangzhou Baiyun,Airport change SHA-PVG",2,1,0,"1,606"
+2024-03-25,Multiple Airlines,30h 25m,Changde,Istanbul,7:05 AM,8:30 AM,"5h 55m,8h 35m","Guangzhou Baiyun,Airport change SHA-PVG",2,1,0,"1,606"
+2024-03-25,"China Southern, China Eastern",30h 25m,Changde,Istanbul,7:05 AM,8:30 AM,"11h 35m,3h 00m","Guangzhou Baiyun,Shanghai Pu Dong",2,1,0,"1,606"
+2024-03-25,"China Southern, China Eastern",30h 25m,Changde,Istanbul,7:05 AM,8:30 AM,"4h 55m,9h 50m","Guangzhou Baiyun,Airport change SHA-PVG",2,1,0,"1,606"
+2024-03-25,Multiple Airlines,30h 05m,Changde,Istanbul,11:05 AM,12:10 PM,"4h 45m,8h 10m","Beijing Daxing Intl,Doha Hamad Intl",2,1,0,"1,760"
+2024-03-25,"China Southern, Azerbaijan Airlines",28h 20m,Changde,Istanbul,7:05 AM,6:25 AM,"3h 30m,2h 05m,7h 30m","Guangzhou Baiyun,Urumqi,Baku Heydar Aliyev",3,1,0,"2,010"
+2024-03-25,"China Eastern, China Southern",20h 20m,Changde,Istanbul,5:10 PM,8:30 AM,"1h 05m,2h 45m","Chengdu Tianfu Intl,Shanghai Pu Dong",2,1,0,"2,514"
+2024-03-25,"China Southern, Azerbaijan Airlines",28h 05m,Changde,Istanbul,10:30 AM,9:35 AM,"7h 00m,2h 10m,2h 20m","Guangzhou Baiyun,Dubai Intl,Baku Heydar Aliyev",3,1,0,"2,391"
+2024-03-26,"China Eastern, Sichuan Airlines",,Changde,Istanbul,,,6h 40m,Chengdu Tianfu Intl,0,1,2,"1,168"
+2024-03-26,China Southern,,Changde,Istanbul,,,"23h 20m,10h 30m","Guangzhou Baiyun,Beijing Daxing Intl",0,1,1,797
+2024-03-26,Multiple Airlines,,Changde,Istanbul,,,"6h 45m,2h 45m","Chengdu Tianfu Intl,Cairo",0,1,2,"1,279"
+2024-03-26,Multiple Airlines,,Changde,Istanbul,,,"6h 45m,7h 35m","Chengdu Tianfu Intl,Cairo",0,1,2,"1,277"
+2024-03-26,"China Southern, Sichuan Airlines",,Changde,Istanbul,,,"5h 15m,6h 25m","Guangzhou Baiyun,Chengdu Tianfu Intl",0,1,0,"1,319"
+2024-03-26,Multiple Airlines,,Changde,Istanbul,,,"6h 45m,3h 15m","Chengdu Tianfu Intl,Cairo",0,1,1,"1,444"
+2024-03-26,"China Southern, Sichuan Airlines",,Changde,Istanbul,,,"4h 20m,9h 50m","Guangzhou Baiyun,Airport change CTU-TFU",0,1,0,"1,319"
+2024-03-26,"China Southern, Sichuan Airlines",,Changde,Istanbul,,,"3h 20m,11h 20m","Guangzhou Baiyun,Chengdu Tianfu Intl",0,1,0,"1,319"
+2024-03-26,"China Southern, Sichuan Airlines",,Changde,Istanbul,,,"8h 20m,6h 25m","Guangzhou Baiyun,Chengdu Tianfu Intl",0,1,0,"1,319"
+2024-03-26,"China Southern, Sichuan Airlines",,Changde,Istanbul,,,"7h 10m,2h 20m","Airport change PKX-PEK,Chengdu Tianfu Intl",0,1,0,"1,662"
+2024-03-26,Multiple Airlines,,Changde,Istanbul,,,"4h 45m,8h 20m","Beijing Daxing Intl,Doha Hamad Intl",0,1,0,"1,532"
+2024-03-26,"China Southern, Sichuan Airlines",,Changde,Istanbul,,,"8h 00m,6h 35m","Shenzhen,Chengdu Tianfu Intl",0,1,1,"1,371"
+2024-03-26,Multiple Airlines,,Changde,Istanbul,,,"4h 45m,8h 10m","Beijing Daxing Intl,Doha Hamad Intl",0,1,1,"1,758"
+2024-03-26,Multiple Airlines,,Changde,Istanbul,,,"2h 35m,6h 30m","Beijing Daxing Intl,Airport change CTU-TFU",0,1,0,"2,276"
+2024-03-26,Multiple Airlines,,Changde,Istanbul,,,"6h 40m,2h 45m","Hangzhou,Chengdu Tianfu Intl",0,1,0,"2,753"
+2024-03-27,China Southern,24h 00m,Changde,Istanbul,11:05 AM,6:05 AM,11h 10m,Beijing Daxing Intl,1,1,2,705
+2024-03-27,China Southern,24h 35m,Changde,Istanbul,10:30 AM,6:05 AM,"3h 50m,5h 15m","Guangzhou Baiyun,Beijing Daxing Intl",2,1,2,783
+2024-03-27,China Southern,24h 35m,Changde,Istanbul,10:30 AM,6:05 AM,"1h 50m,7h 15m","Guangzhou Baiyun,Beijing Daxing Intl",2,1,2,783
+2024-03-27,China Southern,24h 35m,Changde,Istanbul,10:30 AM,6:05 AM,"2h 50m,6h 15m","Guangzhou Baiyun,Beijing Daxing Intl",2,1,2,783
+2024-03-27,China Southern,24h 35m,Changde,Istanbul,10:30 AM,6:05 AM,"0h 50m,8h 30m","Guangzhou Baiyun,Beijing Daxing Intl",2,1,2,783
+2024-03-27,China Southern,24h 35m,Changde,Istanbul,10:30 AM,6:05 AM,"7h 50m,1h 30m","Guangzhou Baiyun,Beijing Daxing Intl",2,1,1,797
+2024-03-27,China Southern,24h 35m,Changde,Istanbul,10:30 AM,6:05 AM,"6h 50m,2h 25m","Guangzhou Baiyun,Beijing Daxing Intl",2,1,1,797
+2024-03-27,China Southern,28h 00m,Changde,Istanbul,7:05 AM,6:05 AM,"4h 25m,8h 30m","Guangzhou Baiyun,Beijing Daxing Intl",2,1,2,783
+2024-03-27,China Southern,28h 00m,Changde,Istanbul,7:05 AM,6:05 AM,"2h 25m,10h 30m","Guangzhou Baiyun,Beijing Daxing Intl",2,1,2,783
+2024-03-27,China Southern,28h 00m,Changde,Istanbul,7:05 AM,6:05 AM,"1h 25m,11h 35m","Guangzhou Baiyun,Beijing Daxing Intl",2,1,2,783
+2024-03-27,Multiple Airlines,24h 50m,Changde,Istanbul,5:10 PM,1:00 PM,"6h 45m,2h 45m","Chengdu Tianfu Intl,Cairo",2,1,2,"1,279"
+2024-03-27,China Southern,28h 00m,Changde,Istanbul,7:05 AM,6:05 AM,"3h 25m,9h 45m","Guangzhou Baiyun,Beijing Daxing Intl",2,1,2,783
+2024-03-27,China Southern,28h 00m,Changde,Istanbul,7:05 AM,6:05 AM,"7h 25m,5h 15m","Guangzhou Baiyun,Beijing Daxing Intl",2,1,1,797
+2024-03-27,China Southern,28h 00m,Changde,Istanbul,7:05 AM,6:05 AM,"6h 25m,6h 15m","Guangzhou Baiyun,Beijing Daxing Intl",2,1,1,797
+2024-03-27,China Southern,28h 00m,Changde,Istanbul,7:05 AM,6:05 AM,"5h 25m,7h 15m","Guangzhou Baiyun,Beijing Daxing Intl",2,1,1,797
+2024-03-27,China Southern,28h 00m,Changde,Istanbul,7:05 AM,6:05 AM,"5h 25m,7h 15m","Guangzhou Baiyun,Beijing Daxing Intl",2,1,1,797
+2024-03-27,"China Eastern, China Southern",23h 35m,Changde,Istanbul,11:30 AM,6:05 AM,"7h 00m,1h 55m","Hangzhou,Beijing Daxing Intl",2,1,0,"1,008"
+2024-03-27,"China Eastern, China Southern",23h 35m,Changde,Istanbul,11:30 AM,6:05 AM,"2h 20m,6h 35m","Hangzhou,Beijing Daxing Intl",2,1,0,"1,008"
+2024-03-27,China Southern,28h 00m,Changde,Istanbul,7:05 AM,6:05 AM,"7h 25m,5h 15m","Guangzhou Baiyun,Beijing Daxing Intl",2,1,1,797
+2024-03-27,China Southern,28h 00m,Changde,Istanbul,7:05 AM,6:05 AM,"10h 25m,2h 25m","Guangzhou Baiyun,Beijing Daxing Intl",2,1,1,797
+2024-03-27,China Southern,28h 00m,Changde,Istanbul,7:05 AM,6:05 AM,"9h 25m,3h 15m","Guangzhou Baiyun,Beijing Daxing Intl",2,1,1,797
+2024-03-27,China Southern,28h 00m,Changde,Istanbul,7:05 AM,6:05 AM,"11h 25m,1h 30m","Guangzhou Baiyun,Beijing Daxing Intl",2,1,1,797
+2024-03-27,China Southern,28h 05m,Changde,Istanbul,7:00 AM,6:05 AM,"1h 55m,10h 45m","Shenzhen,Beijing Daxing Intl",2,1,1,854
+2024-03-27,China Southern,28h 05m,Changde,Istanbul,7:00 AM,6:05 AM,"9h 55m,2h 55m","Shenzhen,Beijing Daxing Intl",2,1,1,854
+2024-03-27,China Southern,28h 05m,Changde,Istanbul,7:00 AM,6:05 AM,"6h 55m,5h 55m","Shenzhen,Beijing Daxing Intl",2,1,1,854
+2024-03-27,China Southern,28h 05m,Changde,Istanbul,7:00 AM,6:05 AM,"2h 55m,9h 55m","Shenzhen,Beijing Daxing Intl",2,1,1,854
+2024-03-27,China Southern,28h 05m,Changde,Istanbul,7:00 AM,6:05 AM,"7h 55m,4h 45m","Shenzhen,Beijing Daxing Intl",2,1,1,854
+2024-03-27,China Southern,28h 05m,Changde,Istanbul,7:00 AM,6:05 AM,"4h 55m,7h 55m","Shenzhen,Beijing Daxing Intl",2,1,1,854
+2024-03-27,China Southern,28h 05m,Changde,Istanbul,7:00 AM,6:05 AM,"5h 55m,6h 45m","Shenzhen,Beijing Daxing Intl",2,1,1,854
+2024-03-27,Multiple Airlines,29h 40m,Changde,Istanbul,5:10 PM,5:50 PM,"6h 45m,7h 35m","Chengdu Tianfu Intl,Cairo",2,1,1,"1,285"
+2024-03-27,Multiple Airlines,25h 25m,Changde,Istanbul,5:10 PM,1:35 PM,"6h 45m,3h 15m","Chengdu Tianfu Intl,Cairo",2,1,1,"1,444"
+2024-03-27,China Southern,28h 05m,Changde,Istanbul,7:00 AM,6:05 AM,"0h 55m,11h 55m","Shenzhen,Beijing Daxing Intl",2,1,1,854
+2024-03-27,China Southern,28h 05m,Changde,Istanbul,7:00 AM,6:05 AM,"3h 55m,8h 55m","Shenzhen,Beijing Daxing Intl",2,1,1,854
+2024-03-27,China Southern,28h 05m,Changde,Istanbul,7:00 AM,6:05 AM,"8h 55m,3h 55m","Shenzhen,Beijing Daxing Intl",2,1,1,854
+2024-03-27,China Southern,28h 05m,Changde,Istanbul,7:00 AM,6:05 AM,"10h 55m,1h 55m","Shenzhen,Beijing Daxing Intl",2,1,1,854
+2024-03-27,"China Southern, Azerbaijan Airlines",27h 30m,Changde,Istanbul,11:05 AM,9:35 AM,"11h 40m,2h 35m","Airport change PKX-PEK,Baku Heydar Aliyev",2,1,1,"1,481"
+2024-03-27,"China Southern, Azerbaijan Airlines",28h 50m,Changde,Istanbul,11:05 AM,10:55 AM,"11h 40m,3h 50m","Airport change PKX-PEK,Baku Heydar Aliyev",2,1,0,"1,487"
+2024-03-27,Multiple Airlines,27h 00m,Changde,Istanbul,10:30 AM,8:30 AM,"5h 20m,5h 40m","Guangzhou Baiyun,Airport change SHA-PVG",2,1,0,"1,606"
+2024-03-27,"China Southern, China Eastern",27h 00m,Changde,Istanbul,10:30 AM,8:30 AM,"4h 20m,6h 35m","Guangzhou Baiyun,Airport change SHA-PVG",2,1,0,"1,606"
+2024-03-27,Multiple Airlines,27h 00m,Changde,Istanbul,10:30 AM,8:30 AM,"8h 00m,3h 00m","Guangzhou Baiyun,Shanghai Pu Dong",2,1,1,"1,606"
+2024-03-27,"China Southern, China Eastern",27h 00m,Changde,Istanbul,10:30 AM,8:30 AM,"6h 20m,4h 40m","Guangzhou Baiyun,Airport change SHA-PVG",2,1,0,"1,606"
+2024-03-27,"China Southern, China Eastern",27h 00m,Changde,Istanbul,10:30 AM,8:30 AM,"8h 00m,3h 00m","Guangzhou Baiyun,Shanghai Pu Dong",2,1,0,"1,606"
+2024-03-27,"China Southern, China Eastern",27h 00m,Changde,Istanbul,10:30 AM,8:30 AM,"5h 20m,5h 40m","Guangzhou Baiyun,Airport change SHA-PVG",2,1,0,"1,606"
+2024-03-27,Multiple Airlines,30h 15m,Changde,Istanbul,11:05 AM,12:20 PM,"4h 45m,8h 20m","Beijing Daxing Intl,Doha Hamad Intl",2,1,0,"1,532"
+2024-03-27,"China Southern, China Eastern",30h 25m,Changde,Istanbul,7:05 AM,8:30 AM,"4h 15m,10h 25m","Guangzhou Baiyun,Shanghai Pu Dong",2,1,1,"1,606"
+2024-03-27,"China Southern, China Eastern",30h 25m,Changde,Istanbul,7:05 AM,8:30 AM,"5h 55m,8h 35m","Guangzhou Baiyun,Airport change SHA-PVG",2,1,0,"1,606"
+2024-03-27,"China Southern, China Eastern",30h 25m,Changde,Istanbul,7:05 AM,8:30 AM,"3h 55m,10h 40m","Guangzhou Baiyun,Airport change SHA-PVG",2,1,0,"1,606"
+2024-03-27,Multiple Airlines,30h 25m,Changde,Istanbul,7:05 AM,8:30 AM,"11h 35m,3h 00m","Guangzhou Baiyun,Shanghai Pu Dong",2,1,0,"1,606"
+2024-03-27,"China Southern, China Eastern",30h 25m,Changde,Istanbul,7:05 AM,8:30 AM,"4h 55m,9h 50m","Guangzhou Baiyun,Airport change SHA-PVG",2,1,0,"1,606"
+2024-03-27,Multiple Airlines,30h 25m,Changde,Istanbul,7:05 AM,8:30 AM,"4h 55m,9h 50m","Guangzhou Baiyun,Airport change SHA-PVG",2,1,0,"1,606"
+2024-03-27,Multiple Airlines,30h 25m,Changde,Istanbul,7:05 AM,8:30 AM,"3h 55m,10h 40m","Guangzhou Baiyun,Airport change SHA-PVG",2,1,0,"1,606"
+2024-03-27,Multiple Airlines,30h 25m,Changde,Istanbul,7:05 AM,8:30 AM,"4h 15m,10h 25m","Guangzhou Baiyun,Shanghai Pu Dong",2,1,1,"1,606"
+2024-03-27,Multiple Airlines,30h 25m,Changde,Istanbul,7:05 AM,8:30 AM,"8h 55m,5h 40m","Guangzhou Baiyun,Airport change SHA-PVG",2,1,0,"1,606"
+2024-03-27,Multiple Airlines,30h 25m,Changde,Istanbul,7:05 AM,8:30 AM,"5h 55m,8h 35m","Guangzhou Baiyun,Airport change SHA-PVG",2,1,0,"1,606"
+2024-03-27,"China Southern, China Eastern",30h 25m,Changde,Istanbul,7:05 AM,8:30 AM,"11h 35m,3h 00m","Guangzhou Baiyun,Shanghai Pu Dong",2,1,0,"1,606"
+2024-03-27,Multiple Airlines,30h 05m,Changde,Istanbul,11:05 AM,12:10 PM,"4h 45m,8h 10m","Beijing Daxing Intl,Doha Hamad Intl",2,1,1,"1,758"
+2024-03-27,"China Southern, Azerbaijan Airlines",28h 20m,Changde,Istanbul,7:05 AM,6:25 AM,"3h 30m,2h 05m,7h 30m","Guangzhou Baiyun,Urumqi,Baku Heydar Aliyev",3,1,0,"2,010"
+2024-03-27,"China Eastern, China Southern",20h 20m,Changde,Istanbul,5:10 PM,8:30 AM,"1h 05m,2h 45m","Chengdu Tianfu Intl,Shanghai Pu Dong",2,1,0,"2,514"
+2024-03-27,"China Southern, Thai Airways",28h 00m,Changde,Istanbul,7:05 AM,6:05 AM,"6h 15m,6h 35m","Guangzhou Baiyun,Bangkok Suvarnabhumi",2,1,0,"5,402"
+2024-03-28,"China Eastern, Sichuan Airlines",17h 55m,Changde,Istanbul,5:10 PM,6:05 AM,6h 40m,Chengdu Tianfu Intl,1,1,2,"1,168"
+2024-03-28,China Southern,48h 35m,Changde,Istanbul,10:30 AM,6:05 AM,"22h 50m,10h 30m","Guangzhou Baiyun,Beijing Daxing Intl",2,1,1,797
+2024-03-28,Multiple Airlines,24h 50m,Changde,Istanbul,5:10 PM,1:00 PM,"6h 45m,2h 45m","Chengdu Tianfu Intl,Cairo",2,1,2,"1,279"
+2024-03-28,"China Southern, Sichuan Airlines",24h 35m,Changde,Istanbul,10:30 AM,6:05 AM,"4h 45m,6h 25m","Guangzhou Baiyun,Chengdu Tianfu Intl",2,1,0,"1,319"
+2024-03-28,Multiple Airlines,24h 40m,Changde,Istanbul,11:05 AM,6:45 AM,"4h 45m,2h 45m","Beijing Daxing Intl,Doha Hamad Intl",2,1,0,"1,532"
+2024-03-28,Multiple Airlines,29h 40m,Changde,Istanbul,5:10 PM,5:50 PM,"6h 45m,7h 35m","Chengdu Tianfu Intl,Cairo",2,1,1,"1,284"
+2024-03-28,Multiple Airlines,25h 25m,Changde,Istanbul,5:10 PM,1:35 PM,"6h 45m,3h 15m","Chengdu Tianfu Intl,Cairo",2,1,1,"1,444"
+2024-03-28,"China Southern, Sichuan Airlines",28h 00m,Changde,Istanbul,7:05 AM,6:05 AM,"4h 20m,9h 50m","Guangzhou Baiyun,Airport change CTU-TFU",2,1,0,"1,319"
+2024-03-28,"China Southern, Sichuan Airlines",28h 00m,Changde,Istanbul,7:05 AM,6:05 AM,"3h 20m,11h 20m","Guangzhou Baiyun,Chengdu Tianfu Intl",2,1,0,"1,319"
+2024-03-28,"China Southern, Sichuan Airlines",28h 00m,Changde,Istanbul,7:05 AM,6:05 AM,"8h 20m,6h 25m","Guangzhou Baiyun,Chengdu Tianfu Intl",2,1,0,"1,319"
+2024-03-28,"China Southern, Sichuan Airlines",24h 00m,Changde,Istanbul,11:05 AM,6:05 AM,"7h 10m,2h 20m","Airport change PKX-PEK,Chengdu Tianfu Intl",2,1,0,"1,662"
+2024-03-28,"China Southern, Sichuan Airlines",28h 05m,Changde,Istanbul,7:00 AM,6:05 AM,"8h 00m,6h 35m","Shenzhen,Chengdu Tianfu Intl",2,1,1,"1,371"
+2024-03-28,Multiple Airlines,30h 15m,Changde,Istanbul,11:05 AM,12:20 PM,"4h 45m,8h 20m","Beijing Daxing Intl,Doha Hamad Intl",2,1,0,"1,532"
+2024-03-28,"China Eastern, Asiana Airlines",27h 30m,Changde,Istanbul,5:10 PM,3:40 PM,"5h 40m,4h 30m","Chengdu Tianfu Intl,Incheon Intl",2,1,0,"1,706"
+2024-03-28,Multiple Airlines,29h 40m,Changde,Istanbul,11:30 AM,12:10 PM,"3h 05m,6h 20m,2h 40m","Hangzhou,Xiamen Gaoqi Intl,Doha Hamad Intl",3,1,1,"1,338"
+2024-03-28,Multiple Airlines,30h 05m,Changde,Istanbul,11:05 AM,12:10 PM,"4h 45m,8h 10m","Beijing Daxing Intl,Doha Hamad Intl",2,1,1,"1,758"
+2024-03-28,Multiple Airlines,23h 35m,Changde,Istanbul,11:30 AM,6:05 AM,"6h 40m,2h 45m","Hangzhou,Chengdu Tianfu Intl",2,1,0,"2,753"
+2024-03-28,"China Southern, Sichuan Airlines",24h 35m,Changde,Istanbul,10:30 AM,6:05 AM,"2h 05m,8h 50m","Guangzhou Baiyun,Chengdu Tianfu Intl",2,1,0,"2,690"
+2024-03-28,Multiple Airlines,24h 35m,Changde,Istanbul,10:30 AM,6:05 AM,"5h 20m,5h 35m","Guangzhou Baiyun,Chengdu Tianfu Intl",2,1,1,"2,690"
+2024-03-28,Multiple Airlines,24h 35m,Changde,Istanbul,10:30 AM,6:05 AM,"3h 55m,6h 55m","Guangzhou Baiyun,Chengdu Tianfu Intl",2,1,1,"2,690"
+2024-03-28,Multiple Airlines,24h 00m,Changde,Istanbul,11:05 AM,6:05 AM,"6h 35m,2h 40m","Airport change PKX-PEK,Chengdu Tianfu Intl",2,1,1,"2,907"
+2024-03-28,"China Southern, Sichuan Airlines",24h 00m,Changde,Istanbul,11:05 AM,6:05 AM,"3h 40m,5h 40m","Beijing Daxing Intl,Airport change CTU-TFU",2,1,0,"3,387"
+2024-03-28,Multiple Airlines,24h 00m,Changde,Istanbul,11:05 AM,6:05 AM,"6h 35m,2h 40m","Airport change PKX-PEK,Chengdu Tianfu Intl",2,1,1,"3,535"
+2024-03-28,"China Southern, Air Astana",25h 25m,Changde,Istanbul,10:30 AM,6:55 AM,"4h 55m,1h 30m,3h 20m","Guangzhou Baiyun,Urumqi,Nur-Sultan Nursultan Nazarbayev Intl",3,1,0,"4,959"
+2024-03-28,"China Southern, Air Astana",28h 50m,Changde,Istanbul,7:05 AM,6:55 AM,"8h 30m,1h 30m,3h 20m","Guangzhou Baiyun,Urumqi,Nur-Sultan Nursultan Nazarbayev Intl",3,1,0,"4,959"
+2024-03-28,"China Eastern, Lufthansa",29h 35m,Changde,Istanbul,5:10 PM,5:45 PM,"6h 40m,7h 00m","Chengdu Tianfu Intl,Frankfurt am Main",2,1,0,"5,972"
+2024-03-28,Multiple Airlines,28h 55m,Changde,Istanbul,5:10 PM,5:05 PM,"6h 40m,1h 50m,3h 00m","Chengdu Tianfu Intl,Frankfurt am Main,Antalya",3,0,0,"6,804"
+2024-03-29,China Southern,24h 00m,Changde,Istanbul,11:05 AM,6:05 AM,11h 10m,Beijing Daxing Intl,1,1,2,705
+2024-03-29,"China Eastern, China Southern",17h 55m,Changde,Istanbul,5:10 PM,6:05 AM,"1h 35m,1h 40m","Chengdu Tianfu Intl,Beijing Daxing Intl",2,1,0,997
+2024-03-29,China Southern,25h 00m,Changde,Istanbul,10:05 AM,6:05 AM,"1h 20m,8h 30m","Guangzhou Baiyun,Beijing Daxing Intl",2,1,2,783
+2024-03-29,China Southern,25h 00m,Changde,Istanbul,10:05 AM,6:05 AM,"2h 20m,7h 15m","Guangzhou Baiyun,Beijing Daxing Intl",2,1,2,783
+2024-03-29,China Southern,25h 00m,Changde,Istanbul,10:05 AM,6:05 AM,"4h 20m,5h 15m","Guangzhou Baiyun,Beijing Daxing Intl",2,1,2,783
+2024-03-29,China Southern,25h 00m,Changde,Istanbul,10:05 AM,6:05 AM,"3h 20m,6h 15m","Guangzhou Baiyun,Beijing Daxing Intl",2,1,2,783
+2024-03-29,China Southern,25h 00m,Changde,Istanbul,10:05 AM,6:05 AM,"8h 20m,1h 30m","Guangzhou Baiyun,Beijing Daxing Intl",2,1,0,797
+2024-03-29,China Southern,25h 00m,Changde,Istanbul,10:05 AM,6:05 AM,"6h 20m,3h 15m","Guangzhou Baiyun,Beijing Daxing Intl",2,1,1,797
+2024-03-29,China Southern,25h 00m,Changde,Istanbul,10:05 AM,6:05 AM,"7h 20m,2h 25m","Guangzhou Baiyun,Beijing Daxing Intl",2,1,1,797
+2024-03-29,China Southern,28h 00m,Changde,Istanbul,7:05 AM,6:05 AM,"4h 25m,8h 30m","Guangzhou Baiyun,Beijing Daxing Intl",2,1,2,783
+2024-03-29,China Southern,28h 00m,Changde,Istanbul,7:05 AM,6:05 AM,"1h 25m,11h 30m","Guangzhou Baiyun,Beijing Daxing Intl",2,1,2,783
+2024-03-29,Multiple Airlines,24h 50m,Changde,Istanbul,5:10 PM,1:00 PM,"6h 45m,2h 45m","Chengdu Tianfu Intl,Cairo",2,1,2,"1,279"
+2024-03-29,China Southern,28h 00m,Changde,Istanbul,7:05 AM,6:05 AM,"2h 25m,10h 30m","Guangzhou Baiyun,Beijing Daxing Intl",2,1,2,783
+2024-03-29,China Southern,28h 00m,Changde,Istanbul,7:05 AM,6:05 AM,"3h 25m,9h 45m","Guangzhou Baiyun,Beijing Daxing Intl",2,1,2,783
+2024-03-29,China Southern,28h 00m,Changde,Istanbul,7:05 AM,6:05 AM,"9h 25m,3h 15m","Guangzhou Baiyun,Beijing Daxing Intl",2,1,1,797
+2024-03-29,China Southern,28h 00m,Changde,Istanbul,7:05 AM,6:05 AM,"6h 25m,6h 15m","Guangzhou Baiyun,Beijing Daxing Intl",2,1,1,797
+2024-03-29,"China Eastern, China Southern",23h 35m,Changde,Istanbul,11:30 AM,6:05 AM,"7h 00m,1h 55m","Hangzhou,Beijing Daxing Intl",2,1,0,"1,008"
+2024-03-29,"China Eastern, China Southern",23h 35m,Changde,Istanbul,11:30 AM,6:05 AM,"2h 20m,6h 35m","Hangzhou,Beijing Daxing Intl",2,1,0,"1,008"
+2024-03-29,China Southern,28h 00m,Changde,Istanbul,7:05 AM,6:05 AM,"5h 25m,7h 15m","Guangzhou Baiyun,Beijing Daxing Intl",2,1,1,797
+2024-03-29,China Southern,28h 00m,Changde,Istanbul,7:05 AM,6:05 AM,"7h 25m,5h 15m","Guangzhou Baiyun,Beijing Daxing Intl",2,1,1,797
+2024-03-29,China Southern,28h 00m,Changde,Istanbul,7:05 AM,6:05 AM,"10h 25m,2h 25m","Guangzhou Baiyun,Beijing Daxing Intl",2,1,1,797
+2024-03-29,China Southern,28h 00m,Changde,Istanbul,7:05 AM,6:05 AM,"11h 25m,1h 30m","Guangzhou Baiyun,Beijing Daxing Intl",2,1,1,797
+2024-03-29,China Southern,28h 05m,Changde,Istanbul,7:00 AM,6:05 AM,"7h 55m,4h 45m","Shenzhen,Beijing Daxing Intl",2,1,1,854
+2024-03-29,China Southern,28h 05m,Changde,Istanbul,7:00 AM,6:05 AM,"6h 55m,5h 55m","Shenzhen,Beijing Daxing Intl",2,1,1,854
+2024-03-29,China Southern,28h 05m,Changde,Istanbul,7:00 AM,6:05 AM,"2h 55m,9h 55m","Shenzhen,Beijing Daxing Intl",2,1,1,854
+2024-03-29,China Southern,28h 05m,Changde,Istanbul,7:00 AM,6:05 AM,"5h 55m,6h 45m","Shenzhen,Beijing Daxing Intl",2,1,1,854
+2024-03-29,China Southern,28h 05m,Changde,Istanbul,7:00 AM,6:05 AM,"8h 55m,3h 55m","Shenzhen,Beijing Daxing Intl",2,1,1,854
+2024-03-29,China Southern,28h 05m,Changde,Istanbul,7:00 AM,6:05 AM,"3h 55m,8h 55m","Shenzhen,Beijing Daxing Intl",2,1,1,854
+2024-03-29,China Southern,28h 05m,Changde,Istanbul,7:00 AM,6:05 AM,"1h 55m,10h 50m","Shenzhen,Beijing Daxing Intl",2,1,1,854
+2024-03-29,Multiple Airlines,25h 25m,Changde,Istanbul,5:10 PM,1:35 PM,"6h 45m,3h 15m","Chengdu Tianfu Intl,Cairo",2,1,0,"1,466"
+2024-03-29,China Southern,28h 05m,Changde,Istanbul,7:00 AM,6:05 AM,"10h 55m,1h 55m","Shenzhen,Beijing Daxing Intl",2,1,1,854
+2024-03-29,China Southern,28h 05m,Changde,Istanbul,7:00 AM,6:05 AM,"4h 55m,7h 55m","Shenzhen,Beijing Daxing Intl",2,1,1,854
+2024-03-29,China Southern,28h 05m,Changde,Istanbul,7:00 AM,6:05 AM,"0h 55m,11h 55m","Shenzhen,Beijing Daxing Intl",2,1,1,854
+2024-03-29,China Southern,28h 05m,Changde,Istanbul,7:00 AM,6:05 AM,"9h 55m,2h 55m","Shenzhen,Beijing Daxing Intl",2,1,1,854
+2024-03-29,Multiple Airlines,29h 40m,Changde,Istanbul,5:10 PM,5:50 PM,"6h 45m,7h 35m","Chengdu Tianfu Intl,Cairo",2,1,0,"1,304"
+2024-03-29,"China Eastern, China Southern",23h 35m,Changde,Istanbul,11:30 AM,6:05 AM,"3h 25m,5h 30m","Hangzhou,Beijing Daxing Intl",2,1,0,"1,790"
+2024-03-29,"China Southern, China Eastern",27h 25m,Changde,Istanbul,10:05 AM,8:30 AM,"4h 50m,6h 35m","Guangzhou Baiyun,Airport change SHA-PVG",2,1,0,"1,606"
+2024-03-29,Multiple Airlines,27h 25m,Changde,Istanbul,10:05 AM,8:30 AM,"5h 50m,5h 40m","Guangzhou Baiyun,Airport change SHA-PVG",2,1,0,"1,606"
+2024-03-29,Multiple Airlines,27h 25m,Changde,Istanbul,10:05 AM,8:30 AM,"8h 30m,3h 00m","Guangzhou Baiyun,Shanghai Pu Dong",2,1,1,"1,606"
+2024-03-29,"China Southern, China Eastern",27h 25m,Changde,Istanbul,10:05 AM,8:30 AM,"3h 50m,7h 40m","Guangzhou Baiyun,Airport change SHA-PVG",2,1,0,"1,606"
+2024-03-29,"China Southern, China Eastern",27h 25m,Changde,Istanbul,10:05 AM,8:30 AM,"8h 30m,3h 00m","Guangzhou Baiyun,Shanghai Pu Dong",2,1,0,"1,606"
+2024-03-29,"China Southern, China Eastern",27h 25m,Changde,Istanbul,10:05 AM,8:30 AM,"6h 50m,4h 40m","Guangzhou Baiyun,Airport change SHA-PVG",2,1,0,"1,606"
+2024-03-29,Multiple Airlines,30h 15m,Changde,Istanbul,11:05 AM,12:20 PM,"4h 45m,8h 20m","Beijing Daxing Intl,Doha Hamad Intl",2,1,0,"1,532"
+2024-03-29,Multiple Airlines,30h 25m,Changde,Istanbul,7:05 AM,8:30 AM,"4h 15m,10h 25m","Guangzhou Baiyun,Shanghai Pu Dong",2,1,0,"1,606"
+2024-03-29,Multiple Airlines,30h 25m,Changde,Istanbul,7:05 AM,8:30 AM,"11h 35m,3h 00m","Guangzhou Baiyun,Shanghai Pu Dong",2,1,0,"1,606"
+2024-03-29,Multiple Airlines,30h 25m,Changde,Istanbul,7:05 AM,8:30 AM,"4h 55m,9h 50m","Guangzhou Baiyun,Airport change SHA-PVG",2,1,0,"1,606"
+2024-03-29,Multiple Airlines,30h 25m,Changde,Istanbul,7:05 AM,8:30 AM,"3h 55m,10h 40m","Guangzhou Baiyun,Airport change SHA-PVG",2,1,0,"1,606"
+2024-03-29,"China Southern, China Eastern",30h 25m,Changde,Istanbul,7:05 AM,8:30 AM,"11h 35m,3h 00m","Guangzhou Baiyun,Shanghai Pu Dong",2,1,0,"1,606"
+2024-03-29,"China Southern, China Eastern",30h 25m,Changde,Istanbul,7:05 AM,8:30 AM,"4h 15m,10h 25m","Guangzhou Baiyun,Shanghai Pu Dong",2,1,0,"1,606"
+2024-03-29,"China Southern, China Eastern",30h 25m,Changde,Istanbul,7:05 AM,8:30 AM,"3h 55m,10h 40m","Guangzhou Baiyun,Airport change SHA-PVG",2,1,0,"1,606"
+2024-03-29,"China Southern, China Eastern",30h 25m,Changde,Istanbul,7:05 AM,8:30 AM,"4h 55m,9h 50m","Guangzhou Baiyun,Airport change SHA-PVG",2,1,0,"1,606"
+2024-03-29,Multiple Airlines,30h 05m,Changde,Istanbul,11:05 AM,12:10 PM,"4h 45m,8h 10m","Beijing Daxing Intl,Doha Hamad Intl",2,1,1,"1,758"
+2024-03-29,"China Southern, Azerbaijan Airlines",28h 20m,Changde,Istanbul,7:05 AM,6:25 AM,"3h 30m,2h 05m,7h 30m","Guangzhou Baiyun,Urumqi,Baku Heydar Aliyev",3,1,0,"2,010"
+2024-03-29,"China Eastern, China Southern",20h 20m,Changde,Istanbul,5:10 PM,8:30 AM,"1h 05m,2h 45m","Chengdu Tianfu Intl,Shanghai Pu Dong",2,1,0,"2,514"
+2024-03-29,"China Southern, Azerbaijan Airlines",28h 30m,Changde,Istanbul,10:05 AM,9:35 AM,"7h 30m,2h 10m,2h 20m","Guangzhou Baiyun,Dubai Intl,Baku Heydar Aliyev",3,1,0,"2,454"
+2024-03-29,"China Southern, Azerbaijan Airlines",28h 30m,Changde,Istanbul,10:05 AM,9:35 AM,"2h 45m,7h 05m,2h 20m","Guangzhou Baiyun,Dubai Intl,Baku Heydar Aliyev",3,1,0,"2,454"
+2024-03-30,"China Eastern, Sichuan Airlines",18h 20m,Changde,Istanbul,5:10 PM,6:30 AM,6h 40m,Chengdu Tianfu Intl,1,1,2,"1,168"
+2024-03-30,Multiple Airlines,24h 50m,Changde,Istanbul,5:10 PM,1:00 PM,"6h 55m,2h 50m","Chengdu Tianfu Intl,Cairo",2,1,2,"1,279"
+2024-03-30,"China Southern, Sichuan Airlines",25h 00m,Changde,Istanbul,10:30 AM,6:30 AM,"4h 45m,6h 25m","Guangzhou Baiyun,Chengdu Tianfu Intl",2,1,0,"1,319"
+2024-03-30,Multiple Airlines,24h 05m,Changde,Istanbul,5:10 PM,12:15 PM,"6h 55m,2h 05m","Chengdu Tianfu Intl,Cairo",2,1,0,"1,466"
+2024-03-30,"China Southern, Sichuan Airlines",28h 25m,Changde,Istanbul,7:05 AM,6:30 AM,"4h 20m,9h 50m","Guangzhou Baiyun,Airport change CTU-TFU",2,1,0,"1,319"
+2024-03-30,"China Southern, Sichuan Airlines",28h 25m,Changde,Istanbul,7:05 AM,6:30 AM,"3h 20m,11h 20m","Guangzhou Baiyun,Chengdu Tianfu Intl",2,1,0,"1,319"
+2024-03-30,"China Southern, Sichuan Airlines",28h 25m,Changde,Istanbul,7:05 AM,6:30 AM,"8h 20m,6h 25m","Guangzhou Baiyun,Chengdu Tianfu Intl",2,1,0,"1,319"
+2024-03-30,"China Southern, Sichuan Airlines",28h 30m,Changde,Istanbul,7:00 AM,6:30 AM,"8h 00m,6h 40m","Shenzhen,Chengdu Tianfu Intl",2,1,1,"1,371"
+2024-03-30,"China Southern, Sichuan Airlines",24h 25m,Changde,Istanbul,11:05 AM,6:30 AM,"7h 10m,2h 20m","Airport change PKX-PEK,Chengdu Tianfu Intl",2,1,1,"1,662"
+2024-03-30,Multiple Airlines,29h 40m,Changde,Istanbul,11:05 AM,11:45 AM,"4h 45m,7h 45m","Beijing Daxing Intl,Doha Hamad Intl",2,1,0,"1,532"
+2024-03-30,Multiple Airlines,24h 25m,Changde,Istanbul,11:05 AM,6:30 AM,"2h 35m,6h 30m","Beijing Daxing Intl,Airport change CTU-TFU",2,1,0,"2,276"
+2024-03-30,Multiple Airlines,31h 05m,Changde,Istanbul,11:05 AM,1:10 PM,"4h 45m,9h 20m","Beijing Daxing Intl,Doha Hamad Intl",2,1,0,"1,760"
+2024-03-30,Multiple Airlines,28h 25m,Changde,Istanbul,7:05 AM,6:30 AM,"6h 15m,7h 55m","Guangzhou Baiyun,Chengdu Tianfu Intl",2,1,0,"1,837"
+2024-03-30,"China Southern, Egypt Air",30h 45m,Changde,Istanbul,10:30 AM,12:15 PM,"11h 10m,3h 45m","Guangzhou Baiyun,Cairo",2,1,2,"1,722"
+2024-03-30,Multiple Airlines,24h 00m,Changde,Istanbul,11:30 AM,6:30 AM,"6h 40m,2h 45m","Hangzhou,Chengdu Tianfu Intl",2,1,0,"2,753"
+2024-03-30,Multiple Airlines,24h 00m,Changde,Istanbul,11:30 AM,6:30 AM,"3h 05m,5h 40m","Hangzhou,Airport change CTU-TFU",2,1,0,"2,795"
+2024-03-30,"China Southern, Sichuan Airlines",25h 00m,Changde,Istanbul,10:30 AM,6:30 AM,"1h 25m,9h 20m","Guangzhou Baiyun,Airport change CTU-TFU",2,1,0,"2,690"
+2024-03-30,"China Southern, Sichuan Airlines",25h 00m,Changde,Istanbul,10:30 AM,6:30 AM,"5h 05m,5h 45m","Guangzhou Baiyun,Chengdu Tianfu Intl",2,1,0,"2,690"
+2024-03-30,"China Southern, Sichuan Airlines",25h 00m,Changde,Istanbul,10:30 AM,6:30 AM,"3h 20m,7h 30m","Guangzhou Baiyun,Airport change CTU-TFU",2,1,0,"2,690"
+2024-03-30,Multiple Airlines,25h 00m,Changde,Istanbul,10:30 AM,6:30 AM,"3h 55m,6h 55m","Guangzhou Baiyun,Chengdu Tianfu Intl",2,1,1,"2,690"
+2024-03-30,"China Southern, Sichuan Airlines",25h 00m,Changde,Istanbul,10:30 AM,6:30 AM,"2h 05m,8h 50m","Guangzhou Baiyun,Chengdu Tianfu Intl",2,1,0,"2,690"
+2024-03-30,Multiple Airlines,25h 00m,Changde,Istanbul,10:30 AM,6:30 AM,"3h 50m,7h 05m","Guangzhou Baiyun,Chengdu Tianfu Intl",2,1,1,"2,690"
+2024-03-30,Multiple Airlines,25h 00m,Changde,Istanbul,10:30 AM,6:30 AM,"5h 20m,5h 35m","Guangzhou Baiyun,Chengdu Tianfu Intl",2,1,1,"2,690"
+2024-03-30,Multiple Airlines,25h 00m,Changde,Istanbul,10:30 AM,6:30 AM,"6h 20m,4h 30m","Guangzhou Baiyun,Chengdu Tianfu Intl",2,1,1,"2,690"
+2024-03-30,Multiple Airlines,24h 25m,Changde,Istanbul,11:05 AM,6:30 AM,"6h 35m,2h 40m","Airport change PKX-PEK,Chengdu Tianfu Intl",2,1,1,"2,907"
+2024-03-30,"China Southern, Malaysia Airlines",24h 35m,Changde,Istanbul,10:30 AM,6:05 AM,"2h 30m,5h 00m","Guangzhou Baiyun,Kuala Lumpur Intl",2,1,0,"3,107"
+2024-03-30,Multiple Airlines,24h 25m,Changde,Istanbul,11:05 AM,6:30 AM,"6h 35m,2h 40m","Airport change PKX-PEK,Chengdu Tianfu Intl",2,1,1,"3,535"
+2024-03-30,"China Southern, Emirates",32h 55m,Changde,Istanbul,10:30 AM,2:25 PM,"7h 00m,10h 40m","Guangzhou Baiyun,Dubai Intl",2,1,1,"2,405"
+2024-03-30,"China Southern, Sichuan Airlines",28h 25m,Changde,Istanbul,7:05 AM,6:30 AM,"5h 00m,9h 20m","Guangzhou Baiyun,Airport change CTU-TFU",2,1,0,"2,690"
+2024-03-30,"China Southern, Sichuan Airlines",28h 25m,Changde,Istanbul,7:05 AM,6:30 AM,"2h 50m,11h 35m","Guangzhou Baiyun,Airport change CTU-TFU",2,1,0,"2,690"
+2024-03-30,"China Southern, Sichuan Airlines",28h 25m,Changde,Istanbul,7:05 AM,6:30 AM,"8h 40m,5h 45m","Guangzhou Baiyun,Chengdu Tianfu Intl",2,1,0,"2,690"
+2024-03-30,"China Southern, Sichuan Airlines",28h 25m,Changde,Istanbul,7:05 AM,6:30 AM,"5h 40m,8h 50m","Guangzhou Baiyun,Chengdu Tianfu Intl",2,1,0,"2,690"
+2024-03-30,"China Southern, Turkish Airlines",24h 35m,Changde,Istanbul,10:30 AM,6:05 AM,"5h 25m,2h 00m","Guangzhou Baiyun,Kuala Lumpur Intl",2,1,0,"2,956"
+2024-03-30,"China Southern, Turkish Airlines",28h 00m,Changde,Istanbul,7:05 AM,6:05 AM,"3h 50m,6h 50m","Guangzhou Baiyun,Kuala Lumpur Intl",2,1,0,"2,956"
+2024-03-30,"China Southern, Etihad Airways",28h 15m,Changde,Istanbul,7:05 AM,6:20 AM,"3h 50m,4h 15m,1h 45m","Guangzhou Baiyun,Kuala Lumpur Intl,Abu Dhabi Intl",3,1,0,"2,773"
+2024-03-30,Multiple Airlines,28h 55m,Changde,Istanbul,7:05 AM,7:00 AM,"3h 50m,4h 15m,2h 15m","Guangzhou Baiyun,Kuala Lumpur Intl,Abu Dhabi Intl",3,1,0,"2,873"
+2024-03-30,"China Southern, Thai Airways",28h 00m,Changde,Istanbul,7:05 AM,6:05 AM,"3h 50m,4h 05m,1h 35m","Guangzhou Baiyun,Kuala Lumpur Intl,Bangkok Suvarnabhumi",3,1,0,"3,202"
+2024-03-30,Multiple Airlines,28h 05m,Changde,Istanbul,7:05 AM,6:10 AM,"3h 50m,2h 40m,2h 55m","Guangzhou Baiyun,Kuala Lumpur Intl,Singapore Changi",3,1,0,"3,242"
+2024-03-30,"China Southern, Etihad Airways",24h 15m,Changde,Istanbul,11:05 AM,6:20 AM,"6h 40m,1h 20m","Beijing Daxing Intl,Abu Dhabi Intl",2,1,0,"5,022"
+2024-03-30,Multiple Airlines,28h 05m,Changde,Istanbul,7:05 AM,6:10 AM,"3h 50m,2h 50m,2h 55m","Guangzhou Baiyun,Kuala Lumpur Intl,Singapore Changi",3,1,0,"3,219"
+2024-03-30,Multiple Airlines,28h 05m,Changde,Istanbul,7:05 AM,6:10 AM,"3h 50m,3h 40m,1h 40m","Guangzhou Baiyun,Kuala Lumpur Intl,Singapore Changi",3,1,0,"3,227"
+2024-03-30,Multiple Airlines,28h 05m,Changde,Istanbul,7:05 AM,6:10 AM,"3h 50m,1h 55m,3h 15m","Guangzhou Baiyun,Kuala Lumpur Intl,Singapore Changi",3,1,0,"3,227"
+2024-03-30,Multiple Airlines,24h 55m,Changde,Istanbul,5:10 PM,1:05 PM,"6h 40m,2h 45m","Chengdu Tianfu Intl,Frankfurt am Main",2,1,1,"5,453"
+2024-03-30,"China Eastern, Lufthansa",24h 55m,Changde,Istanbul,5:10 PM,1:05 PM,"6h 40m,2h 45m","Chengdu Tianfu Intl,Frankfurt am Main",2,1,0,"5,972"
+2024-03-30,"China Eastern, Lufthansa",28h 50m,Changde,Istanbul,5:10 PM,5:00 PM,"6h 40m,6h 40m","Chengdu Tianfu Intl,Frankfurt am Main",2,1,0,"5,972"
+2024-03-30,Multiple Airlines,28h 50m,Changde,Istanbul,5:10 PM,5:00 PM,"6h 40m,6h 40m","Chengdu Tianfu Intl,Frankfurt am Main",2,1,2,"7,772"
+2024-03-30,Multiple Airlines,30h 35m,Changde,Istanbul,5:10 PM,6:45 PM,"6h 40m,1h 40m,5h 05m","Chengdu Tianfu Intl,Frankfurt am Main,Antalya",3,1,0,"6,812"
+2024-03-31,"China Southern, MIAT Mongolian",,Changde,Istanbul,10:10 PM,12:30 PM,"4h 05m,24h 00m","Guangzhou Baiyun,Ulaanbaatar Chinggis Khaan",2,1,1,"1,194"
+2024-03-31,"China Southern, LOT",,Changde,Istanbul,9:45 PM,4:45 PM,"8h 40m,22h 25m","Airport change PKX-PEK,Warsaw Frederic Chopin",2,1,0,"1,156"
+2024-03-31,"China Southern, LOT",,Changde,Istanbul,9:45 PM,11:35 PM,"8h 40m,5h 20m","Airport change PKX-PEK,Warsaw Frederic Chopin",2,1,0,"1,204"
+2024-03-31,China Southern,,Changde,Istanbul,10:10 PM,6:10 AM,"15h 45m,5h 55m","Guangzhou Baiyun,Beijing Daxing Intl",2,1,1,"1,310"
+2024-03-31,China Southern,,Changde,Istanbul,10:10 PM,6:10 AM,"19h 15m,2h 20m","Guangzhou Baiyun,Beijing Daxing Intl",2,1,1,"1,310"
+2024-03-31,"China Southern, Egypt Air",,Changde,Istanbul,7:05 AM,1:00 PM,"14h 45m,4h 20m","Guangzhou Baiyun,Cairo",2,1,2,"1,409"
+2024-03-31,"China Southern, LOT",,Changde,Istanbul,9:45 PM,10:40 PM,"8h 40m,4h 30m","Airport change PKX-PEK,Warsaw Frederic Chopin",2,1,0,"1,694"
+2024-03-31,China Southern,,Changde,Istanbul,10:10 PM,6:10 AM,"13h 15m,8h 15m","Guangzhou Baiyun,Beijing Daxing Intl",2,1,1,"1,310"
+2024-03-31,China Southern,,Changde,Istanbul,10:10 PM,6:10 AM,"15h 15m,6h 15m","Guangzhou Baiyun,Beijing Daxing Intl",2,1,1,"1,310"
+2024-03-31,China Southern,,Changde,Istanbul,10:10 PM,6:10 AM,"9h 15m,12h 15m","Guangzhou Baiyun,Beijing Daxing Intl",2,1,1,"1,310"
+2024-03-31,China Southern,,Changde,Istanbul,10:10 PM,6:10 AM,"11h 15m,10h 35m","Guangzhou Baiyun,Beijing Daxing Intl",2,1,1,"1,352"
+2024-03-31,China Southern,,Changde,Istanbul,10:10 PM,6:10 AM,"12h 15m,9h 35m","Guangzhou Baiyun,Beijing Daxing Intl",2,1,1,"1,352"
+2024-03-31,China Southern,,Changde,Istanbul,10:10 PM,6:10 AM,"8h 15m,13h 35m","Guangzhou Baiyun,Beijing Daxing Intl",2,1,1,"1,352"
+2024-03-31,China Southern,,Changde,Istanbul,10:10 PM,6:10 AM,"18h 15m,3h 35m","Guangzhou Baiyun,Beijing Daxing Intl",2,1,1,"1,352"
+2024-03-31,China Southern,,Changde,Istanbul,10:10 PM,6:10 AM,"10h 15m,11h 35m","Guangzhou Baiyun,Beijing Daxing Intl",2,1,1,"1,352"
+2024-03-31,China Southern,,Changde,Istanbul,10:10 PM,6:10 AM,"16h 15m,5h 15m","Guangzhou Baiyun,Beijing Daxing Intl",2,1,1,"1,352"
+2024-03-31,China Southern,,Changde,Istanbul,10:10 PM,6:10 AM,"17h 15m,4h 25m","Guangzhou Baiyun,Beijing Daxing Intl",2,1,1,"1,352"
+2024-03-31,China Southern,,Changde,Istanbul,10:10 PM,6:10 AM,"14h 15m,7h 25m","Guangzhou Baiyun,Beijing Daxing Intl",2,1,1,"1,352"
+2024-03-31,Multiple Airlines,,Changde,Istanbul,9:45 PM,4:35 AM,"18h 25m,1h 20m","Beijing Daxing Intl,Doha Hamad Intl",2,1,0,"1,532"
+2024-03-31,"China Southern, Egypt Air",,Changde,Istanbul,7:05 AM,12:15 PM,"14h 45m,3h 35m","Guangzhou Baiyun,Cairo",2,1,2,"1,722"
+2024-03-31,"China Southern, Air Astana",,Changde,Istanbul,9:45 PM,8:55 PM,"5h 50m,8h 30m","Airport change PKX-PEK,Almaty",2,1,1,"2,427"
+2024-03-31,"China Southern, Azerbaijan Airlines",,Changde,Istanbul,7:05 AM,9:35 AM,"3h 35m,2h 20m,11h 00m","Guangzhou Baiyun,Urumqi,Baku Heydar Aliyev",3,1,2,"1,721"
+2024-03-31,"China Southern, Azerbaijan Airlines",,Changde,Istanbul,7:05 AM,9:35 AM,"3h 35m,11h 00m","Guangzhou Baiyun,Baku Heydar Aliyev",2,1,0,"2,078"
+2024-03-31,"China Southern, Azerbaijan Airlines",,Changde,Istanbul,7:05 AM,10:55 AM,"3h 35m,12h 05m","Guangzhou Baiyun,Baku Heydar Aliyev",2,1,0,"2,099"
+2024-03-31,"China Southern, Azerbaijan Airlines",,Changde,Istanbul,7:05 AM,10:55 AM,"3h 35m,2h 20m,12h 05m","Guangzhou Baiyun,Urumqi,Baku Heydar Aliyev",3,1,1,"1,749"
+2024-03-31,"China Southern, Malaysia Airlines",,Changde,Istanbul,7:05 AM,4:45 AM,"6h 00m,4h 25m","Guangzhou Baiyun,Kuala Lumpur Intl",2,1,0,"3,107"
+2024-03-31,"China Southern, Emirates",,Changde,Istanbul,11:25 AM,2:25 PM,"3h 35m,12h 40m","Shenzhen,Dubai Intl",2,1,0,"2,417"
+2024-03-31,"China Southern, LOT",,Changde,Istanbul,9:45 PM,2:05 PM,"8h 40m,19h 55m","Airport change PKX-PEK,Warsaw Frederic Chopin",2,1,2,"1,694"
+2024-03-31,Multiple Airlines,,Changde,Istanbul,9:45 PM,11:45 AM,"18h 25m,8h 30m","Beijing Daxing Intl,Doha Hamad Intl",2,1,1,"1,760"
+2024-03-31,Multiple Airlines,,Changde,Istanbul,9:45 PM,1:10 PM,"18h 25m,10h 05m","Beijing Daxing Intl,Doha Hamad Intl",2,1,0,"1,760"
+2024-03-31,"China Southern, Azerbaijan Airlines",,Changde,Istanbul,7:05 AM,9:35 AM,"1h 30m,4h 20m,11h 00m","Guangzhou Baiyun,Urumqi,Baku Heydar Aliyev",3,1,0,"2,071"
+2024-03-31,"China Southern, Emirates",,Changde,Istanbul,7:05 AM,2:25 PM,"10h 30m,11h 40m","Guangzhou Baiyun,Dubai Intl",2,1,1,"2,567"
+2024-03-31,"China Southern, Azerbaijan Airlines",,Changde,Istanbul,7:05 AM,9:25 PM,"3h 35m,22h 35m","Guangzhou Baiyun,Baku Heydar Aliyev",2,1,0,"2,099"
+2024-03-31,"China Southern, MIAT Mongolian",,Changde,Istanbul,9:45 PM,12:30 PM,"9h 25m,20h 00m","Airport change PKX-PEK,Ulaanbaatar Chinggis Khaan",2,1,0,"1,863"
+2024-03-31,"China Southern, Azerbaijan Airlines",,Changde,Istanbul,7:05 AM,9:25 PM,"3h 35m,2h 20m,22h 35m","Guangzhou Baiyun,Urumqi,Baku Heydar Aliyev",3,1,1,"1,749"
+2024-03-31,"China Southern, Emirates",,Changde,Istanbul,7:05 AM,9:35 PM,"10h 30m,18h 55m","Guangzhou Baiyun,Dubai Intl",2,1,1,"2,567"
+2024-03-31,"China Southern, Malaysia Airlines",,Changde,Istanbul,7:05 AM,4:45 AM,"3h 40m,6h 35m","Guangzhou Baiyun,Kuala Lumpur Intl",2,1,0,"3,700"
+2024-03-31,"China Southern, Malaysia Airlines",,Changde,Istanbul,7:05 AM,4:45 AM,"8h 50m,2h 10m","Guangzhou Baiyun,Kuala Lumpur Intl",2,1,0,"3,700"
+2024-03-31,"China Southern, Malaysia Airlines",,Changde,Istanbul,10:10 PM,4:45 AM,"14h 50m,4h 25m","Guangzhou Baiyun,Kuala Lumpur Intl",2,1,0,"3,107"
+2024-03-31,"China Southern, Malaysia Airlines",,Changde,Istanbul,7:05 AM,2:30 PM,"8h 50m,11h 55m","Guangzhou Baiyun,Kuala Lumpur Intl",2,1,0,"3,700"
+2024-03-31,"China Southern, Malaysia Airlines",,Changde,Istanbul,9:45 PM,4:45 AM,"9h 55m,6h 35m","Beijing Daxing Intl,Kuala Lumpur Intl",2,1,0,"3,621"
+2024-03-31,"China Southern, Malaysia Airlines",,Changde,Istanbul,7:05 AM,7:45 AM,"4h 10m,8h 55m","Guangzhou Baiyun,Singapore Changi",2,1,0,"4,131"
+2024-03-31,"China Southern, Malaysia Airlines",,Changde,Istanbul,7:05 AM,7:45 AM,"9h 50m,3h 15m","Guangzhou Baiyun,Singapore Changi",2,1,0,"4,131"
+2024-03-31,"China Southern, Malaysia Airlines",,Changde,Istanbul,10:10 PM,4:45 AM,"12h 30m,6h 35m","Guangzhou Baiyun,Kuala Lumpur Intl",2,1,0,"3,700"
+2024-03-31,"China Southern, Malaysia Airlines",,Changde,Istanbul,10:10 PM,4:45 AM,"8h 40m,11h 05m","Guangzhou Baiyun,Kuala Lumpur Intl",2,1,0,"3,700"
+2024-03-31,"China Southern, Malaysia Airlines",,Changde,Istanbul,10:10 PM,4:45 AM,"17h 40m,2h 10m","Guangzhou Baiyun,Kuala Lumpur Intl",2,1,0,"3,700"
+2024-03-31,"China Southern, flydubai",,Changde,Istanbul,7:05 AM,1:05 PM,"10h 30m,10h 10m","Guangzhou Baiyun,Dubai Intl",2,1,0,"3,739"
+2024-03-31,"China Southern, flydubai",,Changde,Istanbul,7:05 AM,9:15 PM,"10h 30m,18h 20m","Guangzhou Baiyun,Dubai Intl",2,1,0,"3,739"
+2024-03-31,"China Southern, flydubai",,Changde,Istanbul,10:10 PM,1:05 PM,"19h 20m,10h 10m","Guangzhou Baiyun,Dubai Intl",2,1,0,"3,739"
+2024-03-31,"China Southern, Singapore Airlines",,Changde,Istanbul,7:05 AM,7:45 AM,"4h 10m,8h 55m","Guangzhou Baiyun,Singapore Changi",2,1,0,"4,916"
+2024-03-31,"China Southern, Singapore Airlines",,Changde,Istanbul,7:05 AM,7:45 AM,"9h 50m,3h 15m","Guangzhou Baiyun,Singapore Changi",2,1,0,"4,916"
+2024-03-31,"China Southern, Thai Airways",,Changde,Istanbul,7:05 AM,6:05 AM,"7h 10m,7h 00m","Guangzhou Baiyun,Bangkok Suvarnabhumi",2,1,0,"5,402"
+2024-03-31,"China Southern, Etihad Airways",,Changde,Istanbul,9:45 PM,6:20 AM,"19h 45m,1h 40m","Beijing Daxing Intl,Abu Dhabi Intl",2,1,0,"5,022"
+2024-03-31,"China Southern, Thai Airways",,Changde,Istanbul,7:05 AM,6:05 AM,"4h 05m,10h 15m","Guangzhou Baiyun,Bangkok Suvarnabhumi",2,1,0,"5,699"
+2024-03-31,"China Southern, Thai Airways",,Changde,Istanbul,10:10 PM,6:05 AM,"16h 00m,7h 00m","Guangzhou Baiyun,Bangkok Suvarnabhumi",2,1,1,"5,402"
+2024-03-31,Multiple Airlines,,Changde,Istanbul,9:45 PM,11:05 PM,"10h 25m,1h 45m","Airport change PKX-PEK,Frankfurt am Main",2,1,0,"5,883"
+2024-03-31,Multiple Airlines,,Changde,Istanbul,9:45 PM,11:05 PM,"13h 25m,1h 05m","Airport change PKX-PEK,Frankfurt am Main",2,1,0,"5,883"
+2024-03-31,"China Southern, Thai Airways",,Changde,Istanbul,10:10 PM,6:05 AM,"12h 55m,10h 15m","Guangzhou Baiyun,Bangkok Suvarnabhumi",2,1,0,"5,699"
+2024-03-31,Multiple Airlines,,Changde,Istanbul,10:10 PM,1:10 PM,"10h 30m,8h 00m,9h 40m","Guangzhou Baiyun,Hong Kong Intl,Doha Hamad Intl",3,1,0,"6,077"
+2024-03-31,Multiple Airlines,,Changde,Istanbul,10:10 PM,1:10 PM,"10h 30m,12h 55m,4h 45m","Guangzhou Baiyun,Hong Kong Intl,Doha Hamad Intl",3,1,0,"6,098"
+2024-03-31,Multiple Airlines,,Changde,Istanbul,7:05 AM,5:15 AM,"5h 55m,2h 10m","Guangzhou Baiyun,Tokyo Haneda",2,1,0,"7,372"
+2024-03-31,"China Southern, ANA",,Changde,Istanbul,7:05 AM,5:15 AM,"5h 40m,2h 10m","Guangzhou Baiyun,Tokyo Haneda",2,1,0,"8,172"
+2024-03-31,"China Southern, ANA",,Changde,Istanbul,11:25 AM,5:45 PM,"4h 00m,12h 15m","Shenzhen,Airport change HND-NRT",2,1,0,"8,509"
